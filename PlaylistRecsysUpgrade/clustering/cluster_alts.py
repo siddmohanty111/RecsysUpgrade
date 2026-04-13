@@ -3,10 +3,17 @@ import os
 import csv
 import pickle
 import numpy as np
-from sklearn.cluster import SpectralClustering, DBSCAN
-from sklearn.mixture import GaussianMixture
 from skfuzzy import cmeans, cmeans_predict
 from tqdm import tqdm
+
+try:
+    from cuml.cluster import SpectralClustering, DBSCAN
+    from cuml.mixture import GaussianMixture
+    _CUML = True
+except ImportError:
+    from sklearn.cluster import SpectralClustering, DBSCAN
+    from sklearn.mixture import GaussianMixture
+    _CUML = False
 
 def fkmeans(playlist_embeddings, num_clusters,
                       playlist_titles, playlist_tracks, output_file, c_partitioned : bool = False):
@@ -40,11 +47,14 @@ def fkmeans(playlist_embeddings, num_clusters,
 
 def spectral(playlist_embeddings, num_clusters,
                       playlist_titles, playlist_tracks, output_file):
-    embedding_matrix = np.array(list(playlist_embeddings.values()))
+    embedding_matrix = np.array(list(playlist_embeddings.values()), dtype=np.float32)
     pids = list(playlist_embeddings.keys())
 
-    sc = SpectralClustering(n_clusters=num_clusters, affinity='nearest_neighbors', random_state=0, n_jobs=-1)
-    cluster_labels = sc.fit_predict(embedding_matrix)
+    kwargs = {'n_clusters': num_clusters, 'random_state': 0}
+    if not _CUML:
+        kwargs.update({'affinity': 'nearest_neighbors', 'n_jobs': -1})
+    sc = SpectralClustering(**kwargs)
+    cluster_labels = np.asarray(sc.fit_predict(embedding_matrix))
 
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, 'w', newline='', encoding='utf8') as f:
@@ -53,14 +63,17 @@ def spectral(playlist_embeddings, num_clusters,
         for pid, label in tqdm(zip(pids, cluster_labels), total=len(pids), desc="Clustering", unit="playlist"):
             writer.writerow([label, pid, playlist_titles.get(pid, ""), ";".join(playlist_tracks.get(pid, []))])
     
-def dbscan(playlist_embeddings, num_clusters,
+def dbscan(playlist_embeddings,
                       playlist_titles, playlist_tracks, output_file,
                       eps: float = 0.5, min_samples: int = 5):
-    embedding_matrix = np.array(list(playlist_embeddings.values()))
+    embedding_matrix = np.array(list(playlist_embeddings.values()), dtype=np.float32)
     pids = list(playlist_embeddings.keys())
 
-    db = DBSCAN(eps=eps, min_samples=min_samples, n_jobs=-1)
-    cluster_labels = db.fit_predict(embedding_matrix)
+    kwargs = {'eps': eps, 'min_samples': min_samples}
+    if not _CUML:
+        kwargs['n_jobs'] = -1
+    db = DBSCAN(**kwargs)
+    cluster_labels = np.asarray(db.fit_predict(embedding_matrix))
 
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, 'w', newline='', encoding='utf8') as f:
@@ -71,13 +84,13 @@ def dbscan(playlist_embeddings, num_clusters,
     
 def gaussianmix(playlist_embeddings, num_clusters,
                       playlist_titles, playlist_tracks, output_file):
-    embedding_matrix = np.array(list(playlist_embeddings.values()))
+    embedding_matrix = np.array(list(playlist_embeddings.values()), dtype=np.float32)
     pids = list(playlist_embeddings.keys())
 
     gm = GaussianMixture(n_components=num_clusters, random_state=0)
     gm.fit(embedding_matrix)
     # posterior probabilities shape: (num_playlists, num_clusters)
-    cluster_labels_matrix = gm.predict_proba(embedding_matrix)
+    cluster_labels_matrix = np.asarray(gm.predict_proba(embedding_matrix))
 
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, 'w', newline='', encoding='utf8') as f:
