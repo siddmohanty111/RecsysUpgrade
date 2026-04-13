@@ -1,4 +1,3 @@
-torch
 numpy
 tqdm
 scikit-learn
