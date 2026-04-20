@@ -111,3 +111,5 @@ def prune_clusters(embeddings, cluster_assignments_df : pd.DataFrame, threshold_
             # cluster is too broad, so do not keep
             print(f"Dropping cluster {cluster_id} (Max Bucket: {highest_percent:.2%} of playlists). {len(cluster_pids)} playlists in cluster.")
 
+    return kept_clusters, kept_data_points
+
