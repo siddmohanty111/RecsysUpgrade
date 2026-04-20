@@ -43,7 +43,8 @@ def fkmeans(playlist_embeddings, num_clusters,
         writer.writerow(["Cluster Labels", "Playlist ID", "Playlist Title", "Tracks"])
         for pid, memberships in tqdm(zip(pids, cluster_labels_matrix.T), total=len(pids), desc="Clustering", unit="playlist"):
             writer.writerow([memberships.tolist(), pid, playlist_titles.get(pid, ""), ";".join(playlist_tracks.get(pid, []))])
-    
+    return np.argmax(cluster_labels_matrix, axis=0)  # hard labels for visualization
+
 
 def spectral(playlist_embeddings, num_clusters,
                       playlist_titles, playlist_tracks, output_file):
@@ -62,7 +63,8 @@ def spectral(playlist_embeddings, num_clusters,
         writer.writerow(["Cluster ID", "Playlist ID", "Playlist Title", "Tracks"])
         for pid, label in tqdm(zip(pids, cluster_labels), total=len(pids), desc="Clustering", unit="playlist"):
             writer.writerow([label, pid, playlist_titles.get(pid, ""), ";".join(playlist_tracks.get(pid, []))])
-    
+    return cluster_labels
+
 def dbscan(playlist_embeddings,
                       playlist_titles, playlist_tracks, output_file,
                       eps: float = 0.5, min_samples: int = 5):
@@ -71,7 +73,8 @@ def dbscan(playlist_embeddings,
 
     kwargs = {'eps': eps, 'min_samples': min_samples}
     if not _CUML:
-        kwargs['n_jobs'] = -1
+        # ball_tree avoids materializing the O(n²) distance matrix
+        kwargs.update({'n_jobs': -1, 'algorithm': 'ball_tree'})
     db = DBSCAN(**kwargs)
     cluster_labels = np.asarray(db.fit_predict(embedding_matrix))
 
@@ -81,6 +84,7 @@ def dbscan(playlist_embeddings,
         writer.writerow(["Cluster ID", "Playlist ID", "Playlist Title", "Tracks"])
         for pid, label in tqdm(zip(pids, cluster_labels), total=len(pids), desc="Clustering", unit="playlist"):
             writer.writerow([label, pid, playlist_titles.get(pid, ""), ";".join(playlist_tracks.get(pid, []))])
+    return cluster_labels
     
 def gaussianmix(playlist_embeddings, num_clusters,
                       playlist_titles, playlist_tracks, output_file):
@@ -98,3 +102,4 @@ def gaussianmix(playlist_embeddings, num_clusters,
         writer.writerow(["Cluster Labels", "Playlist ID", "Playlist Title", "Tracks"])
         for pid, memberships in tqdm(zip(pids, cluster_labels_matrix), total=len(pids), desc="Clustering", unit="playlist"):
             writer.writerow([memberships.tolist(), pid, playlist_titles.get(pid, ""), ";".join(playlist_tracks.get(pid, []))])
+    return np.argmax(cluster_labels_matrix, axis=1)  # hard labels for visualization
