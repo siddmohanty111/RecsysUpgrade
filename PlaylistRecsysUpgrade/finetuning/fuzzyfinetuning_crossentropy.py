@@ -72,18 +72,16 @@ def run(
 
     def tokenize_function(examples):
         texts = [str(t) for t in examples["Playlist Title"]]
-        return tokenizer(texts, truncation=True, padding="max_length")
+        # No padding here; SoftLabelCollator uses tokenizer.pad() for dynamic batch padding
+        return tokenizer(texts, truncation=True, max_length=512)
 
-    tokenized_train = train_dataset.map(tokenize_function, batched=True)
-    tokenized_val = val_dataset.map(tokenize_function, batched=True)
+    # remove_columns drops 'Playlist Title' so the collator only sees tokenizer fields + labels
+    tokenized_train = train_dataset.map(tokenize_function, batched=True, remove_columns=["Playlist Title"])
+    tokenized_val = val_dataset.map(tokenize_function, batched=True, remove_columns=["Playlist Title"])
 
     tokenized_train = tokenized_train.rename_column("soft_labels", "labels")
     tokenized_val = tokenized_val.rename_column("soft_labels", "labels")
-    # Only set torch format for the text token columns.
-    # Leaving 'labels' out avoids the Sequence-type collation error; the custom
-    # collator below handles label tensor conversion explicitly.
-    tokenized_train.set_format(type="torch", columns=["input_ids", "attention_mask"], output_all_columns=True)
-    tokenized_val.set_format(type="torch", columns=["input_ids", "attention_mask"], output_all_columns=True)
+    # No set_format needed; tokenizer.pad() in SoftLabelCollator converts everything to tensors
 
     training_args = TrainingArguments(
         output_dir=output_dir,
@@ -101,16 +99,17 @@ def run(
     )
 
     class SoftLabelCollator:
-        """Collates pre-padded token tensors and converts soft label lists to float tensors."""
+        """Pads token sequences dynamically and converts soft label lists to float tensors."""
 
         def __call__(self, features):
-            # labels arrive as Python lists (not tensors) because they were excluded from set_format
+            # Pop labels first so tokenizer.pad() only sees tokenizer fields
             labels = torch.tensor(
                 [f.pop("labels") for f in features], dtype=torch.float32
             )  # (B, num_labels)
-            input_ids = torch.stack([f["input_ids"] for f in features])
-            attention_mask = torch.stack([f["attention_mask"] for f in features])
-            return {"input_ids": input_ids, "attention_mask": attention_mask, "labels": labels}
+            # tokenizer.pad() handles input_ids / attention_mask / token_type_ids padding + tensor conversion
+            batch = tokenizer.pad(features, padding=True, return_tensors="pt")
+            batch["labels"] = labels
+            return batch
 
     class SoftLabelTrainer(Trainer):
         """Trainer subclass that computes soft cross-entropy loss against fuzzy membership targets."""
