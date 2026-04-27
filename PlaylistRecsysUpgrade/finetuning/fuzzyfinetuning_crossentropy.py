@@ -79,8 +79,11 @@ def run(
 
     tokenized_train = tokenized_train.rename_column("soft_labels", "labels")
     tokenized_val = tokenized_val.rename_column("soft_labels", "labels")
-    tokenized_train.set_format(type="torch", columns=["input_ids", "attention_mask", "labels"])
-    tokenized_val.set_format(type="torch", columns=["input_ids", "attention_mask", "labels"])
+    # Only set torch format for the text token columns.
+    # Leaving 'labels' out avoids the Sequence-type collation error; the custom
+    # collator below handles label tensor conversion explicitly.
+    tokenized_train.set_format(type="torch", columns=["input_ids", "attention_mask"], output_all_columns=True)
+    tokenized_val.set_format(type="torch", columns=["input_ids", "attention_mask"], output_all_columns=True)
 
     training_args = TrainingArguments(
         output_dir=output_dir,
@@ -96,6 +99,18 @@ def run(
         warmup_steps=warmup_steps,
         logging_strategy="epoch",
     )
+
+    class SoftLabelCollator:
+        """Collates pre-padded token tensors and converts soft label lists to float tensors."""
+
+        def __call__(self, features):
+            # labels arrive as Python lists (not tensors) because they were excluded from set_format
+            labels = torch.tensor(
+                [f.pop("labels") for f in features], dtype=torch.float32
+            )  # (B, num_labels)
+            input_ids = torch.stack([f["input_ids"] for f in features])
+            attention_mask = torch.stack([f["attention_mask"] for f in features])
+            return {"input_ids": input_ids, "attention_mask": attention_mask, "labels": labels}
 
     class SoftLabelTrainer(Trainer):
         """Trainer subclass that computes soft cross-entropy loss against fuzzy membership targets."""
@@ -124,6 +139,7 @@ def run(
         train_dataset=tokenized_train,
         eval_dataset=tokenized_val,
         compute_metrics=compute_metrics,
+        data_collator=SoftLabelCollator(),
     )
 
     trainer.train()
