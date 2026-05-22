@@ -5,8 +5,10 @@ import pandas as pd
 import torch
 from datasets import Dataset
 from transformers import (
+    AutoConfig,
     AutoTokenizer,
     AutoModelForSequenceClassification,
+    EarlyStoppingCallback,
     TrainingArguments,
     Trainer,
     EvalPrediction,
@@ -22,6 +24,9 @@ def run(
     epochs=5,
     learning_rate=2e-5,
     warmup_steps=100,
+    dropout=0.1,
+    early_stopping_patience=5,
+    label_smoothing=0.1,
 ):
     """Fine-tune a SentenceBERT model using standard cross-entropy loss on hard cluster assignments.
 
@@ -39,6 +44,9 @@ def run(
         epochs: Number of training epochs.
         learning_rate: AdamW learning rate.
         warmup_steps: Number of warm-up steps.
+        dropout: Dropout probability applied to hidden, attention, and classifier layers.
+        early_stopping_patience: Stop training if val accuracy does not improve for this many epochs.
+        label_smoothing: Label smoothing factor for cross-entropy loss (0 = disabled).
     """
     train_df = pd.read_csv(train_csv, low_memory=False)
     val_df = pd.read_csv(val_csv, low_memory=False)
@@ -57,7 +65,11 @@ def run(
     val_dataset = Dataset.from_pandas(val_df)
 
     tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=num_labels)
+    config = AutoConfig.from_pretrained(model_name, num_labels=num_labels)
+    config.hidden_dropout_prob = dropout
+    config.attention_probs_dropout_prob = dropout
+    config.classifier_dropout = dropout
+    model = AutoModelForSequenceClassification.from_pretrained(model_name, config=config)
 
     def tokenize_function(examples):
         texts = [str(t) for t in examples["Playlist Title"]]
@@ -82,6 +94,7 @@ def run(
         metric_for_best_model="accuracy",
         warmup_steps=warmup_steps,
         logging_strategy="epoch",
+        label_smoothing_factor=label_smoothing,
     )
 
     class HardLabelCollator:
@@ -110,6 +123,7 @@ def run(
         eval_dataset=tokenized_val,
         compute_metrics=compute_metrics,
         data_collator=HardLabelCollator(),
+        callbacks=[EarlyStoppingCallback(early_stopping_patience=early_stopping_patience)],
     )
 
     trainer.train()
@@ -136,11 +150,18 @@ def main():
     parser.add_argument("--epochs", type=int, default=100)
     parser.add_argument("--learning_rate", type=float, default=2e-5)
     parser.add_argument("--warmup_steps", type=int, default=100)
+    parser.add_argument("--dropout", type=float, default=0.1,
+                        help="Dropout probability for hidden, attention, and classifier layers.")
+    parser.add_argument("--early_stopping_patience", type=int, default=5,
+                        help="Stop training after this many epochs without val accuracy improvement.")
+    parser.add_argument("--label_smoothing", type=float, default=0.1,
+                        help="Label smoothing factor (0 = disabled).")
     args = parser.parse_args()
     run(
         args.train_csv, args.val_csv, args.output_dir,
         args.model_name, args.batch_size, args.epochs,
         args.learning_rate, args.warmup_steps,
+        args.dropout, args.early_stopping_patience, args.label_smoothing,
     )
 
 
