@@ -1,7 +1,7 @@
 # PlaylistRecsysUpgrade
 
 > [!WARNING]
-> **Some notebooks may appear invalid on GitHub.** This is because GitHub is missing a widget used in these notebooks. If opened in Google Colab or locally, the code will be fully visible along with its output.
+> **Some notebooks may appear invalid on GitHub, even though they are fully functional.** This is because GitHub is missing a widget used in these notebooks. If opened in Google Colab, the code will be fully visible along with its output. If opened locally, the code will be visible, but parts of the output might show rendering issues. 
 
 An extension of the [LLM-Playlist-Recommender](https://github.com/elea-vellard/LLM-Playlist-Recommender) paper, exploring alternative clustering strategies — Fuzzy K-Means and UMAP+HDBSCAN — for playlist recommendation via SBERT finetuning.
 
@@ -13,7 +13,7 @@ The dataset is the **Spotify Million Playlist Dataset**, available at:
 
 > https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files
 
-A free AICrowd account is required to access the data. Download it and store it somewhere accessible before proceeding. Some of the paths I use in this 
+A free AICrowd account is required to access the data. Download it and store it somewhere accessible before proceeding. Some of the paths I use in this code are designed for my machine/colab account. Any user will need to adjust these paths to work on their machine.
 
 ---
 
@@ -111,11 +111,10 @@ pip install -r ../requirements.txt
 
 ---
 
-## Credits & Attribution
+## Related Work
 
-The `LLM-Playlist-Recommender/` folder is the original work of Éléa Vellard and Lena Charolois, included here with attribution to allow the full pipeline to be run in one place. **I did not write that code.**
+This project builds on:
 
-- Original repository: **[elea-vellard/LLM-Playlist-Recommender](https://github.com/elea-vellard/LLM-Playlist-Recommender)**
-- Paper: Charolois & Vellard (2025), *Language Model-Based Playlist Generation Recommender*
+- **LLM-Playlist-Recommender** — [elea-vellard/LLM-Playlist-Recommender](https://github.com/elea-vellard/LLM-Playlist-Recommender)
 
-The code in `PlaylistRecsysUpgrade/` (fuzzy clustering, HDBSCAN, and evaluation notebooks) is my own extension of their work.
+I added colab_pipeline.ipynb and final_imp_base_report_plots.ipynb to this repository, but the remaining code is entirely their work.
