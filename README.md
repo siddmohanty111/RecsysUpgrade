@@ -31,18 +31,18 @@ Download the Spotify Million Playlist Dataset from the link above and store it i
 
 ### 2. Run the Base Pipeline (`LLM-Playlist-Recommender`)
 
-Open and run **`LLM-Playlist-Recommender/colab_pipeline.ipynb`**.
+Open and run **`src/LLM-Playlist-Recommender/colab_pipeline.ipynb`**.
 
 This notebook:
 - Converts the raw JSON data to CSVs
 - Generates mean-pooled SBERT embeddings for playlist titles and tracks
 - Replicates the full original pipeline: 200 K-Means clusters → SBERT finetuning
 
-Dependencies for this step are in `LLM-Playlist-Recommender/requirements.txt`. The remaining steps use the `PlaylistRecsysUpgrade` subrepo.
+Dependencies for this step are in `src/LLM-Playlist-Recommender/requirements.txt`.
 
 ### 3. Generate Fuzzy Clusters
 
-Open and run **`fuzzy_clustering_comparison_with_pruning.ipynb`**.
+Open and run **`src/fkm_clustering_comparison_with_pruning.ipynb`**.
 
 This notebook:
 - Generates Fuzzy K-Means cluster assignments
@@ -50,13 +50,13 @@ This notebook:
 
 ### 4. Finetune on Fuzzy Clusters
 
-Open and run **`fuzzy_finetuning.ipynb`**.
+Open and run **`src/fuzzy_finetuning.ipynb`**.
 
 This notebook finetunes a SBERT model on both the pruned and unpruned fuzzy cluster labels from Step 3.
 
 ### 5. UMAP + HDBSCAN Clustering
 
-Open and run **`clustering/UMAP_HDBSCAN.ipynb`**.
+Open and run **`src/clustering/UMAP_HDBSCAN.ipynb`**.
 
 This notebook:
 - Performs UMAP dimensionality reduction and HDBSCAN hyperparameter tuning
@@ -65,7 +65,7 @@ This notebook:
 
 ### 6. Finetune on HDBSCAN Clusters
 
-Open and run **`hdbscan_finetuning.ipynb`**.
+Open and run **`src/hdbscan_finetuning.ipynb`**.
 
 This notebook finetunes a SBERT model on the HDBSCAN cluster labels from Step 5.
 
@@ -74,12 +74,12 @@ This notebook finetunes a SBERT model on the HDBSCAN cluster labels from Step 5.
 If you want to visualize training curves from the finetuning runs, run:
 
 ```bash
-python plotting_finetuning.py
+python src/plotting_finetuning.py
 ```
 
 ### 7. Evaluate Models
 
-Open and run **`model_evaluation.ipynb`**.
+Open and run **`results/model_evaluation.ipynb`**.
 
 This notebook compares the performance of all finetuned models against the results reported in the original paper.
 
@@ -88,19 +88,23 @@ This notebook compares the performance of all finetuned models against the resul
 ## Repository Structure
 
 ```
-PlaylistRecsysUpgrade/
-├── fkm_clustering_comparison_with_pruning.ipynb   # Step 3: Fuzzy K-Means clustering
-├── fuzzy_finetuning.ipynb                         # Step 4: Finetune on fuzzy clusters
-├── hdbscan_finetuning.ipynb                       # Step 6: Finetune on HDBSCAN clusters
-├── model_evaluation.ipynb                         # Step 7: Model evaluation
-├── plotting_finetuning.py                         # Step 6.5 (optional): Plot training curves
-├── clustering/
-│   ├── cluster_alts.py
-│   ├── lsh_cluster_picking.py
-│   └── UMAP_HDBSCAN.ipynb                         # Step 5: UMAP + HDBSCAN clustering
-└── finetuning/
-    ├── fuzzyfinetuning_crossentropy.py
-    └── hardfinetuning_crossentropy.py
+├── src/
+│   ├── LLM-Playlist-Recommender/                  # Original researchers' pipeline (Step 2)
+│   ├── fkm_clustering_comparison_with_pruning.ipynb   # Step 3: Fuzzy K-Means clustering
+│   ├── fuzzy_finetuning.ipynb                     # Step 4: Finetune on fuzzy clusters
+│   ├── hdbscan_finetuning.ipynb                   # Step 6: Finetune on HDBSCAN clusters
+│   ├── plotting_finetuning.py                     # Step 6.5 (optional): Plot training curves
+│   ├── clustering/
+│   │   ├── cluster_alts.py
+│   │   ├── lsh_cluster_picking.py
+│   │   └── UMAP_HDBSCAN.ipynb                     # Step 5: UMAP + HDBSCAN clustering
+│   └── finetuning/
+│       ├── fuzzyfinetuning_crossentropy.py
+│       └── hardfinetuning_crossentropy.py
+├── results/
+│   └── model_evaluation.ipynb                     # Step 7: Model evaluation
+├── README.md
+└── requirements.txt
 ```
 
 ---
@@ -110,7 +114,7 @@ PlaylistRecsysUpgrade/
 Install dependencies with:
 
 ```bash
-pip install -r ../requirements.txt
+pip install -r requirements.txt
 ```
 
 ---
