@@ -1,0 +1,6248 @@
+playlists:
+- pid: '673925'
+  playlist_title: K-pop
+  tracks:
+  - rank: 1
+    uri: spotify:track:4jdiqVbH1eUwc4MzDV7GMu
+    song: CALL ME BABY
+    artist: EXO
+  - rank: 2
+    uri: spotify:track:3CYqr8tC0Y3mrw80y6zqJC
+    song: Spine Breaker
+    artist: BTS
+  - rank: 3
+    uri: spotify:track:4frlkLwlnm58ejpNwWjxyl
+    song: No More Dream
+    artist: BTS
+  - rank: 4
+    uri: spotify:track:54s6sdPuMjVtdB5d5KFzTC
+    song: Save Me
+    artist: BTS
+  - rank: 5
+    uri: spotify:track:0ffweDHrg4bZqdG4IfGYuo
+    song: Pied Piper
+    artist: BTS
+  - rank: 6
+    uri: spotify:track:1ORnZ5RmTKhVxPrjORKxAE
+    song: Am I Wrong
+    artist: BTS
+  - rank: 7
+    uri: spotify:track:61fAsfrYO5xUNTMwWQ0Xwu
+    song: Converse High
+    artist: BTS
+  - rank: 8
+    uri: spotify:track:0WNGsQ1oAuHzNTk8jivBKW
+    song: Spring Day
+    artist: BTS
+  - rank: 9
+    uri: spotify:track:6iu311jZAJFLPgoIWgrA72
+    song: BANG BANG BANG - KR ver.
+    artist: BIGBANG
+  - rank: 10
+    uri: spotify:track:4AyDzfSssIVPriQXxoXCVq
+    song: Run
+    artist: BTS
+  - rank: 11
+    uri: spotify:track:6lM6yIDZ7kxFsgQCCfaLE2
+    song: Monster
+    artist: EXO
+  - rank: 12
+    uri: spotify:track:43hiD0QEeUysuWqDzd8GwA
+    song: 'Epilogue: Young Forever'
+    artist: BTS
+  - rank: 13
+    uri: spotify:track:1HQHuPpr2s2z3VIBTLtUmv
+    song: Like
+    artist: BTS
+  - rank: 14
+    uri: spotify:track:0nb3kPU7sltUTRi8UE0XiB
+    song: Ma City
+    artist: BTS
+  - rank: 15
+    uri: spotify:track:2Kspa0jD2MSkaEdonf4Cnb
+    song: We Are Bulletproof Pt.2
+    artist: BTS
+  - rank: 16
+    uri: spotify:track:7JHiyIBneG5971rM9QFoOD
+    song: Hey Mama!
+    artist: EXO-CBX
+  - rank: 17
+    uri: spotify:track:7MirWQBco3ZiuwvcdYaNSe
+    song: 중독 Overdose
+    artist: EXO-K
+  - rank: 18
+    uri: spotify:track:53YZi9zgTnF0Py0K6ejyWz
+    song: Power
+    artist: EXO
+  - rank: 19
+    uri: spotify:track:63obpKLYuY1q2QP7Cbf29a
+    song: Lotto
+    artist: EXO
+  - rank: 20
+    uri: spotify:track:1QWxddJmOhQb1vDdyTipMR
+    song: BTS Cypher 4
+    artist: BTS
+  - rank: 21
+    uri: spotify:track:7mKMDvenbHStrg2DLmLSjB
+    song: EXODUS
+    artist: EXO
+  - rank: 22
+    uri: spotify:track:6xy9JYFKcpb9L62PRNnYW5
+    song: 으르렁 Growl
+    artist: EXO
+- pid: '677580'
+  playlist_title: workout music
+  tracks:
+  - rank: 1
+    uri: spotify:track:4dl7GcLGdufulC1JA4JOgo
+    song: Don't Say A Word - Radio Edit
+    artist: Sharam
+  - rank: 2
+    uri: spotify:track:5rX6C5QVvvZB7XckETNych
+    song: All Summer Long
+    artist: Kid Rock
+  - rank: 3
+    uri: spotify:track:1Yij3FYLKkTAijFFZJDUMv
+    song: Get Up (Rattle)
+    artist: Bingo Players
+  - rank: 4
+    uri: spotify:track:2nOcG6Cv1gPq8NYiD41tk2
+    song: Like A G6 - RedOne Remix
+    artist: Far East Movement
+  - rank: 5
+    uri: spotify:track:6Ljak2OKTpSJSWWRPgiqO4
+    song: We No Speak Americano - Radio Edit
+    artist: Yolanda Be Cool
+  - rank: 6
+    uri: spotify:track:62LHRv9uwSNlBmByQF5jdE
+    song: Don't Stop The Music
+    artist: Rihanna
+  - rank: 7
+    uri: spotify:track:3f7gYMirBEKuc57218BjOY
+    song: California Gurls - feat. Snoop Dogg
+    artist: Katy Perry
+  - rank: 8
+    uri: spotify:track:0LWQWOFoz5GJLqcHk1fRO2
+    song: Look At Me Now
+    artist: Chris Brown
+  - rank: 9
+    uri: spotify:track:0XUfyU2QviPAs6bxSpXYG4
+    song: Yeah!
+    artist: Usher
+  - rank: 10
+    uri: spotify:track:3V2cgvvI483DKomiZBYsAA
+    song: Bangarang (feat. Sirah)
+    artist: Skrillex
+  - rank: 11
+    uri: spotify:track:6jNM6fKx3WnyHbWBI9hs2r
+    song: Cinema - Skrillex Remix
+    artist: Benny Benassi
+  - rank: 12
+    uri: spotify:track:36ux3YuUsGTWPT8fXclS45
+    song: E.T. - feat. Kanye West
+    artist: Katy Perry
+  - rank: 13
+    uri: spotify:track:5ONu4EF5vxDOCmBbQI6s0M
+    song: The Hanging Tree
+    artist: James Newton Howard
+  - rank: 14
+    uri: spotify:track:4QNpBfC0zvjKqPJcyqBy9W
+    song: Give Me Everything
+    artist: Pitbull
+  - rank: 15
+    uri: spotify:track:6zSM5blO2axFxrqmv0QtOy
+    song: Marry The Night
+    artist: Lady Gaga
+  - rank: 16
+    uri: spotify:track:62zFEHfAYl5kdHYOivj4BC
+    song: International Love
+    artist: Pitbull
+  - rank: 17
+    uri: spotify:track:5EJcVJZBl6HTfSf6z4dC78
+    song: One (Your Name) [feat. Pharrell]
+    artist: Swedish House Mafia
+  - rank: 18
+    uri: spotify:track:6YbhspuOar1D9WSSnfe7ds
+    song: Young, Wild & Free (feat. Bruno Mars) - feat. Bruno Mars
+    artist: Snoop Dogg
+  - rank: 19
+    uri: spotify:track:7GrLkqRXwVfVygLda1B3Ye
+    song: Ride Like the Wind - Klaas Radio Edit
+    artist: Michael Mind
+  - rank: 20
+    uri: spotify:track:2U8NXPTXZWG2O0ye2sYRiH
+    song: I Love It (feat. Charli XCX) - feat. Charli XCX [Original Version]
+    artist: Icona Pop
+  - rank: 21
+    uri: spotify:track:3g5kQgKEllNBUklsmARGg8
+    song: Immigrant Song
+    artist: Karen O
+  - rank: 22
+    uri: spotify:track:2zzu2t2WaV8PZxDEXdA53V
+    song: Alcoholic - Albin Myers Remix
+    artist: Tim Berg
+  - rank: 23
+    uri: spotify:track:1dzQoRqT5ucxXVaAhTcT0J
+    song: Just Dance
+    artist: Lady Gaga
+  - rank: 24
+    uri: spotify:track:7DXGKFjM7GNkJd32oXstGY
+    song: ScheiBe
+    artist: Lady Gaga
+  - rank: 25
+    uri: spotify:track:6F6TsdD0ijquDSjcr9lgIt
+    song: Turn Me On (feat. Nicki Minaj) - feat. Nicki Minaj
+    artist: David Guetta
+  - rank: 26
+    uri: spotify:track:1vxw6aYJls2oq3gW0DujAo
+    song: Crazy
+    artist: Gnarls Barkley
+  - rank: 27
+    uri: spotify:track:7Hv89f7Dpm5Hce1XkBbjQZ
+    song: On The Floor
+    artist: Jennifer Lopez
+  - rank: 28
+    uri: spotify:track:5iY4ME9owPdS6R99Kcz5Gr
+    song: Miami 2 Ibiza - (Swedish House Mafia vs. Tinie Tempah)
+    artist: Swedish House Mafia
+  - rank: 29
+    uri: spotify:track:13plQdOoWSSXPRUSZc5FuM
+    song: I Know You Want Me (Calle Ocho)
+    artist: Pitbull
+  - rank: 30
+    uri: spotify:track:1oHNvJVbFkexQc0BpQp7Y4
+    song: Starships
+    artist: Nicki Minaj
+  - rank: 31
+    uri: spotify:track:7v4aRW5gAnF8ojfJeroD4u
+    song: Hey Hey - Radio Edit
+    artist: Dennis Ferrer
+  - rank: 32
+    uri: spotify:track:4JQxiIXQA3EgjNDdFjUqUg
+    song: Put Your Records On - Live At Webster Hall
+    artist: Corinne Bailey Rae
+  - rank: 33
+    uri: spotify:track:35Vle8dEPRW22MGQsqj0vq
+    song: Tonight (I'm Fuckin' You)
+    artist: Enrique Iglesias
+  - rank: 34
+    uri: spotify:track:6qn9YLKt13AGvpq9jfO8py
+    song: We Found Love
+    artist: Rihanna
+  - rank: 35
+    uri: spotify:track:09ISyLOPeuno7kKlzdbZuq
+    song: Stamp on the Ground - Radio Edit
+    artist: ItaloBrothers
+  - rank: 36
+    uri: spotify:track:4qikXelSRKvoCqFcHLB2H2
+    song: Mercy
+    artist: Kanye West
+  - rank: 37
+    uri: spotify:track:2yyuEE9DJYQmqhoqtUGx3x
+    song: Blue Monday - Vandalism Remix Radio Edit
+    artist: Kurd Maverick
+  - rank: 38
+    uri: spotify:track:0CAfXk7DXMnon4gLudAp7J
+    song: Low (feat T-Pain) - Feat T-Pain Album Version
+    artist: Flo Rida
+  - rank: 39
+    uri: spotify:track:209NkbzmsUa9pAobU7xGyf
+    song: Born This Way
+    artist: Lady Gaga
+  - rank: 40
+    uri: spotify:track:5n3uNn8Y1VnKuSQWzK0z4B
+    song: Raise the Roof - Radio Edit
+    artist: Hampenberg & Alexander Brown
+  - rank: 41
+    uri: spotify:track:5FrxJwJyC8Wy9rgj0EozCr
+    song: Faded - Original Mix
+    artist: ZHU
+  - rank: 42
+    uri: spotify:track:3ZAMtgYJFoHwJjFkhkXqKr
+    song: Dance (A$$) Remix
+    artist: Big Sean
+  - rank: 43
+    uri: spotify:track:3M1acP5ae6TRfpm5k0Kogm
+    song: Ai Se Eu Te Pego (Nossa Nossa)
+    artist: Michel Teló
+  - rank: 44
+    uri: spotify:track:1Hin2DTHCqkG0BRpcbu4tY
+    song: We Run The Night
+    artist: Havana Brown
+  - rank: 45
+    uri: spotify:track:5WQQIDU3HRaMyPkob8mpFb
+    song: Where Have You Been
+    artist: Rihanna
+  - rank: 46
+    uri: spotify:track:2P60BkXCH7C58FTt5NhCr1
+    song: Blinded By The Light - Radio Cut
+    artist: Michael Mind feat. Manfred Mann's Earth Band
+  - rank: 47
+    uri: spotify:track:1V4jC0vJ5525lEF1bFgPX2
+    song: Shots
+    artist: LMFAO
+  - rank: 48
+    uri: spotify:track:6LXRvh3S8TB5P1PKy4lY1S
+    song: Alors On Danse - Radio Edit
+    artist: Stromae
+  - rank: 49
+    uri: spotify:track:3Tu7uWBecS6GsLsL8UONKn
+    song: Don't Stop the Party
+    artist: Pitbull
+  - rank: 50
+    uri: spotify:track:7pYfyrMNPn3wtoCyqcTVoI
+    song: Moves Like Jagger - Studio Recording From The Voice Performance
+    artist: Maroon 5
+  - rank: 51
+    uri: spotify:track:44HKiXs1iIMclPF6FpYm6O
+    song: Cantina - William Hawk & Chico Del Mar Edit
+    artist: Bastian Van Shield
+  - rank: 52
+    uri: spotify:track:7F25roCtYi55JouckaayPC
+    song: Judas
+    artist: Lady Gaga
+  - rank: 53
+    uri: spotify:track:4BRnDHhEBlGT1pedGlC3Dy
+    song: Loca People (What the F**k!)
+    artist: Sak Noel
+  - rank: 54
+    uri: spotify:track:4esOae7i4rqTbAu9o5Pxco
+    song: Girl On Fire
+    artist: Alicia Keys
+  - rank: 55
+    uri: spotify:track:1XzG0VxCivuToPLrxojVuZ
+    song: Tomorrow Can Wait
+    artist: David Guetta
+  - rank: 56
+    uri: spotify:track:0Rz1KXsP4bhGxs0ffySSSn
+    song: Blurred Lines
+    artist: Robin Thicke
+  - rank: 57
+    uri: spotify:track:1NpW5kyvO4XrNJ3rnfcNy3
+    song: Wild Ones (feat. Sia)
+    artist: Flo Rida
+  - rank: 58
+    uri: spotify:track:7ySUcLPVX7KudhnmNcgY2D
+    song: S&M
+    artist: Rihanna
+  - rank: 59
+    uri: spotify:track:6LGwEHsFbxt7BgDwGXqFgj
+    song: Government Hooker
+    artist: Lady Gaga
+  - rank: 60
+    uri: spotify:track:4zIaXqKCXZs02eB6jEe5Mf
+    song: Mr. Saxobeat - Radio Edit
+    artist: Alexandra Stan
+  - rank: 61
+    uri: spotify:track:2a1o6ZejUi8U3wzzOtCOYw
+    song: Danza Kuduro
+    artist: Don Omar
+  - rank: 62
+    uri: spotify:track:1sRByD63uI8ZJAOSPDczXF
+    song: Americano
+    artist: Lady Gaga
+  - rank: 63
+    uri: spotify:track:2LEF1A8DOZ9wRYikWgVlZ8
+    song: Good Feeling
+    artist: Flo Rida
+- pid: '321143'
+  playlist_title: Dance
+  tracks:
+  - rank: 1
+    uri: spotify:track:6O6M7pJLABmfBRoGZMu76Y
+    song: Roses
+    artist: The Chainsmokers
+  - rank: 2
+    uri: spotify:track:7L59vVTpoS94JU3KEeolqt
+    song: Take Me Home (feat. Bebe Rexha)
+    artist: Cash Cash
+  - rank: 3
+    uri: spotify:track:6HUeSTt2RaKYIiJrnjzaCd
+    song: Ten Feet Tall
+    artist: Afrojack
+  - rank: 4
+    uri: spotify:track:7m47Go71qTMBs4kTH7U8F8
+    song: Pursuit Of Happiness - Extended Steve Aoki Remix (Explicit)
+    artist: Kid Cudi
+  - rank: 5
+    uri: spotify:track:5brMyscUnQg14hMriS91ks
+    song: Kanye
+    artist: The Chainsmokers
+  - rank: 6
+    uri: spotify:track:7bJUkF96TYazaRp8ZH3Ars
+    song: Alive
+    artist: Krewella
+  - rank: 7
+    uri: spotify:track:1ktm3wmtPWRmu21snHT82Y
+    song: Done With Love
+    artist: Zedd
+  - rank: 8
+    uri: spotify:track:1dFkD1JfRMzwO6hwUsE8aS
+    song: Spectrum
+    artist: Zedd
+  - rank: 9
+    uri: spotify:track:6hJSH3jS9jG6khVclppBJw
+    song: Till It Hurts
+    artist: Yellow Claw
+  - rank: 10
+    uri: spotify:track:05dL7chWJaVjMJnGO1YCKk
+    song: Untouchable
+    artist: Tritonal
+  - rank: 11
+    uri: spotify:track:6WQLkih8nE0JdUCEyLaGnQ
+    song: Heroes (we could be)
+    artist: Alesso
+  - rank: 12
+    uri: spotify:track:2QtJA4gbwe1AcanB2p21aP
+    song: Stay The Night - Featuring Hayley Williams Of Paramore
+    artist: Zedd
+  - rank: 13
+    uri: spotify:track:2DZ02lWzt1yTnTNyRIMtnu
+    song: Addicted To A Memory
+    artist: Zedd
+  - rank: 14
+    uri: spotify:track:33lXq3csEWwYNn6x0sM3Et
+    song: Something Better
+    artist: Audien
+  - rank: 15
+    uri: spotify:track:3r7BL2MBMeE62aWj7TOh2a
+    song: New York City
+    artist: The Chainsmokers
+  - rank: 16
+    uri: spotify:track:6YUTL4dYpB9xZO5qExPf05
+    song: Summer
+    artist: Calvin Harris
+  - rank: 17
+    uri: spotify:track:3ScJy88F8KqGDfWu8XJhHx
+    song: If I Lose Myself - Alesso vs OneRepublic
+    artist: OneRepublic
+  - rank: 18
+    uri: spotify:track:4WjH9Bzt3kx7z8kl0awxh4
+    song: Lean On (feat. MØ & DJ Snake)
+    artist: Major Lazer
+  - rank: 19
+    uri: spotify:track:3AclCmFOMUd2MebCQoEZfp
+    song: I Need Your Love
+    artist: Calvin Harris
+  - rank: 20
+    uri: spotify:track:7MmG8p0F9N3C4AXdK6o6Eb
+    song: Outside
+    artist: Calvin Harris
+  - rank: 21
+    uri: spotify:track:2dOTkLZFbpNXrhc24CnTFd
+    song: Titanium (feat. Sia) - feat. Sia
+    artist: David Guetta
+  - rank: 22
+    uri: spotify:track:2VtX9viww814jnWFERUhAS
+    song: Follow You Down
+    artist: Zedd
+  - rank: 23
+    uri: spotify:track:5B03nSG8pLE48jh7kmasuL
+    song: Levels - Radio Edit
+    artist: Avicii
+  - rank: 24
+    uri: spotify:track:2V65y3PX4DkRhy1djlxd9p
+    song: Don't You Worry Child (Radio Edit) [feat. John Martin]
+    artist: Swedish House Mafia
+  - rank: 25
+    uri: spotify:track:12mGwph2YzDIlChtq3EdXP
+    song: Alone
+    artist: Marshmello
+  - rank: 26
+    uri: spotify:track:19RevBdb9MKUaBIvxSbGd4
+    song: I Want You To Know
+    artist: Zedd
+  - rank: 27
+    uri: spotify:track:0QsvXIfqM0zZoerQfsI9lm
+    song: Don't Let Me Down
+    artist: The Chainsmokers
+  - rank: 28
+    uri: spotify:track:7qbIEBAzM8PDwtFAwZR3s5
+    song: Don't Look Down
+    artist: Martin Garrix
+  - rank: 29
+    uri: spotify:track:7FJP35tUJ2121EJsFpU1Gh
+    song: Beautiful Now
+    artist: Zedd
+  - rank: 30
+    uri: spotify:track:46lFttIf5hnUZMGvjK0Wxo
+    song: Runaway (U & I)
+    artist: Galantis
+  - rank: 31
+    uri: spotify:track:3eR23VReFzcdmS7TYCrhCe
+    song: It Ain't Me (with Selena Gomez)
+    artist: Kygo
+  - rank: 32
+    uri: spotify:track:60wwxj6Dd9NJlirf84wr2c
+    song: Clarity
+    artist: Zedd
+  - rank: 33
+    uri: spotify:track:54ZPmGE1uOG9IYoUBSRSp7
+    song: City Of Dreams - Radio Edit
+    artist: Dirty South
+  - rank: 34
+    uri: spotify:track:7vhOZ7D4z03Y0tYkxFAG15
+    song: Cool
+    artist: Alesso
+  - rank: 35
+    uri: spotify:track:3l9tlu58MWDpHPAQEOUQAn
+    song: Live for the Night
+    artist: Krewella
+  - rank: 36
+    uri: spotify:track:40AYRnDKhhrH4JZO4KS9Dj
+    song: Reload - Vocal Version / Radio Edit
+    artist: Sebastian Ingrosso
+  - rank: 37
+    uri: spotify:track:3Gwq0zKnMWluOEPKh93BeC
+    song: Lost At Sea
+    artist: Zedd
+- pid: '923247'
+  playlist_title: Rock
+  tracks:
+  - rank: 1
+    uri: spotify:track:2aoo2jlRnM3A0NyLQqMN2f
+    song: All Along the Watchtower
+    artist: Jimi Hendrix
+  - rank: 2
+    uri: spotify:track:2SezkOLsm46s1dPyG6LX3K
+    song: What Good Can Drinkin' Do - Live
+    artist: Janis Joplin
+  - rank: 3
+    uri: spotify:track:4pbJqGIASGPr0ZpGpnWkDn
+    song: We Will Rock You - Remastered
+    artist: Queen
+  - rank: 4
+    uri: spotify:track:1orVKbp6vqtfAPOmvRofVq
+    song: Rock'n Me
+    artist: Steve Miller Band
+  - rank: 5
+    uri: spotify:track:70YvYr2hGlS01bKRIho1HM
+    song: La Grange - 2005 Remastered Version
+    artist: ZZ Top
+  - rank: 6
+    uri: spotify:track:43DeSV93pJPT4lCZaWZ6b1
+    song: The Boys Are Back In Town
+    artist: Thin Lizzy
+  - rank: 7
+    uri: spotify:track:756CJtQRFSxEx9jV4P9hpA
+    song: I Believe In A Thing Called Love
+    artist: The Darkness
+  - rank: 8
+    uri: spotify:track:1QEEqeFIZktqIpPI4jSVSF
+    song: More Than a Feeling
+    artist: Boston
+  - rank: 9
+    uri: spotify:track:5EWPGh7jbTNO2wakv8LjUI
+    song: Free Bird
+    artist: Lynyrd Skynyrd
+  - rank: 10
+    uri: spotify:track:6mFkJmJqdDVQ1REhVfGgd1
+    song: Wish You Were Here
+    artist: Pink Floyd
+  - rank: 11
+    uri: spotify:track:7EHmKkyAr6MZv5Y2FdZbXw
+    song: Lights
+    artist: Journey
+  - rank: 12
+    uri: spotify:track:1W1GpfPujmgp2vQqcpUhtU
+    song: Won't Get Fooled Again - Remix
+    artist: The Who
+  - rank: 13
+    uri: spotify:track:1bp2IO61zbQrbWNmKKxg3f
+    song: The Joker
+    artist: Steve Miller Band
+  - rank: 14
+    uri: spotify:track:2KmEgiY8fQs0G6WNxtzQKr
+    song: Baba O'Riley
+    artist: The Who
+  - rank: 15
+    uri: spotify:track:7fSGbZLhWlAiCC3HDPAULu
+    song: (I Can't Get No) Satisfaction - Mono Version / Remastered 2002
+    artist: The Rolling Stones
+  - rank: 16
+    uri: spotify:track:7gSQv1OHpkIoAdUiRLdmI6
+    song: I Won't Back Down
+    artist: Tom Petty
+  - rank: 17
+    uri: spotify:track:1a2iF9XymafjRk56q7oCxo
+    song: Pride and Joy
+    artist: Stevie Ray Vaughan
+  - rank: 18
+    uri: spotify:track:3n5iUh2Z6P7cnWins22W0F
+    song: And It Stoned Me
+    artist: Van Morrison
+  - rank: 19
+    uri: spotify:track:79LD1ZurhnJM7UiPyJ4ECl
+    song: 'Funk #49'
+    artist: James Gang
+  - rank: 20
+    uri: spotify:track:1k1Bqnv2R0uJXQN4u6LKYt
+    song: Ain't No Sunshine
+    artist: Bill Withers
+  - rank: 21
+    uri: spotify:track:3n1wTBzxeQmpLOC4Dp77b9
+    song: I Feel Free
+    artist: Cream
+  - rank: 22
+    uri: spotify:track:69QHm3pustz01CJRwdo20z
+    song: Hells Bells
+    artist: AC/DC
+  - rank: 23
+    uri: spotify:track:4cAlWy0jWMtn5AdtZy4dHi
+    song: Before They Make Me Run - Remastered
+    artist: The Rolling Stones
+  - rank: 24
+    uri: spotify:track:7Ar4G7Ci11gpt6sfH9Cgz5
+    song: Listen To The Music
+    artist: The Doobie Brothers
+  - rank: 25
+    uri: spotify:track:3WkcMGvPPcTquk9i9ZpTgG
+    song: Home Sweet Home
+    artist: Mötley Crüe
+  - rank: 26
+    uri: spotify:track:3o56tZzibTKFlbk4i8ID8K
+    song: Crossroads - Live in San Diego
+    artist: Eric Clapton
+  - rank: 27
+    uri: spotify:track:6awTbDHgM907tGecNQYPaV
+    song: My Generation - Stereo Version
+    artist: The Who
+  - rank: 28
+    uri: spotify:track:1hUe1XOcM5iXaWG6NRtLzG
+    song: Midnight Rider
+    artist: The Allman Brothers Band
+  - rank: 29
+    uri: spotify:track:08mG3Y1vljYA6bvDt4Wqkj
+    song: Back In Black
+    artist: AC/DC
+  - rank: 30
+    uri: spotify:track:78WVLOP9pN0G3gRLFy1rAa
+    song: Piano Man
+    artist: Billy Joel
+  - rank: 31
+    uri: spotify:track:3bE5slaVEfaDreqARl6k4M
+    song: Yellow Ledbetter
+    artist: Pearl Jam
+  - rank: 32
+    uri: spotify:track:1hIQPCM3oWXrpnXmgTDaKG
+    song: Can't You Hear Me Knocking - Remastered
+    artist: The Rolling Stones
+  - rank: 33
+    uri: spotify:track:6xasfcWtd18zdWqvmFHn6W
+    song: Lonesone Road Blues
+    artist: Eric Clapton
+  - rank: 34
+    uri: spotify:track:5sIfH0fIXgKsJgp9qXpxbw
+    song: Driftin' Blues / Ramblin' On My Mind - Live At Long Beach Arena, California
+      / 1974
+    artist: Eric Clapton
+  - rank: 35
+    uri: spotify:track:0aGQHMr7bc23Y9Ts84ffop
+    song: Around The World
+    artist: Red Hot Chili Peppers
+  - rank: 36
+    uri: spotify:track:7AC6DpCzH5p5Snz0vlaclb
+    song: I Came As A Rat
+    artist: Modest Mouse
+  - rank: 37
+    uri: spotify:track:1O0OuHwJt7uHL4JDT1uZRP
+    song: Don't Owe You A Thang
+    artist: Gary Clark Jr.
+  - rank: 38
+    uri: spotify:track:4OTw5splgMdlYklwHMHxLK
+    song: Long Cool Woman (In A Black Dress) - 1999 Remastered Version
+    artist: The Hollies
+  - rank: 39
+    uri: spotify:track:6QewNVIDKdSl8Y3ycuHIei
+    song: Even Flow
+    artist: Pearl Jam
+  - rank: 40
+    uri: spotify:track:2fvLQe9ZlRaEJ5o4sG3TbM
+    song: In The Evening
+    artist: Led Zeppelin
+  - rank: 41
+    uri: spotify:track:16VhHtoaOjTU4AJBNSBNQ1
+    song: Hey Hey What Can I Do
+    artist: Led Zeppelin
+  - rank: 42
+    uri: spotify:track:43ZSKhxKebx8uYuTJfIWcs
+    song: Have You Ever Loved A Woman - Live At Long Beach Arena, California / 1974
+    artist: Eric Clapton
+  - rank: 43
+    uri: spotify:track:40riOy7x9W7GXjyGp4pjAv
+    song: Hotel California - Remastered
+    artist: Eagles
+  - rank: 44
+    uri: spotify:track:1zGk1kgAxCpg6PHjGuLe4J
+    song: Pinball Wizard
+    artist: The Who
+  - rank: 45
+    uri: spotify:track:11Tm0hw3DDF1gqU0kSEwiC
+    song: Rape Me
+    artist: Nirvana
+  - rank: 46
+    uri: spotify:track:6iMqdc7qFspNW9Y5wnQP8d
+    song: Wild Horses - Acoustic Version
+    artist: The Rolling Stones
+  - rank: 47
+    uri: spotify:track:1jNOi6m3Hn8nLEeHCp5Msr
+    song: Seven Nation Army
+    artist: The White Stripes
+  - rank: 48
+    uri: spotify:track:0X0Lz7LwpiIWcdGqVWaxXD
+    song: Mess Around
+    artist: Cage The Elephant
+  - rank: 49
+    uri: spotify:track:0bVtevEgtDIeRjCJbK3Lmv
+    song: Welcome To The Jungle
+    artist: Guns N' Roses
+  - rank: 50
+    uri: spotify:track:6pxWv6GV35VGmcPf5dh6CH
+    song: Proud Mary
+    artist: Creedence Clearwater Revival
+  - rank: 51
+    uri: spotify:track:3k9i7UzeSUYWIfUZFeFDUd
+    song: Layla - 40th Anniversary Version / 2010 Remastered
+    artist: Derek & The Dominos
+  - rank: 52
+    uri: spotify:track:3ftnDaaL02tMeOZBunIwls
+    song: Folsom Prison Blues - Live
+    artist: Johnny Cash
+  - rank: 53
+    uri: spotify:track:0hMNAUx9fFBdYQRO5FoQvL
+    song: Let It Rain
+    artist: Eric Clapton
+  - rank: 54
+    uri: spotify:track:23b6Tz9I7ALJKZ1gj6r2pP
+    song: The World At Large
+    artist: Modest Mouse
+  - rank: 55
+    uri: spotify:track:77oU2rjC5XbjQfNe3bD6so
+    song: Beast Of Burden - Remastered
+    artist: The Rolling Stones
+  - rank: 56
+    uri: spotify:track:7lmeHLHBe4nmXzuXc0HDjk
+    song: Testify
+    artist: Rage Against The Machine
+  - rank: 57
+    uri: spotify:track:5MxNLUsfh7uzROypsoO5qe
+    song: Dream On
+    artist: Aerosmith
+  - rank: 58
+    uri: spotify:track:6Gi8vIT6In8RrT2eTKxoVR
+    song: Brown Sugar - Remastered
+    artist: The Rolling Stones
+  - rank: 59
+    uri: spotify:track:254bXAqt3zP6P50BdQvEsq
+    song: Everywhere - Remastered
+    artist: Fleetwood Mac
+  - rank: 60
+    uri: spotify:track:3X6iIrFuQoCshIWBseEKPl
+    song: American Woman
+    artist: Lenny Kravitz
+  - rank: 61
+    uri: spotify:track:7fOuxQj8nxxYTK8jgEhWua
+    song: Satin In A Coffin
+    artist: Modest Mouse
+  - rank: 62
+    uri: spotify:track:6ml6iL8HUdQKgtMaehAZc8
+    song: Start Me Up - Remastered
+    artist: The Rolling Stones
+  - rank: 63
+    uri: spotify:track:5SZ6zX4rOrEQferfFC2MfP
+    song: Walk This Way
+    artist: Aerosmith
+  - rank: 64
+    uri: spotify:track:4BP3uh0hFLFRb5cjsgLqDh
+    song: Fortunate Son
+    artist: Creedence Clearwater Revival
+  - rank: 65
+    uri: spotify:track:5zH710lFSLtkHbMkslLDjR
+    song: Crazy On You
+    artist: Heart
+  - rank: 66
+    uri: spotify:track:6RFkVsPmrM4pzlDkFswwJl
+    song: God's Gonna Cut You Down
+    artist: Johnny Cash
+  - rank: 67
+    uri: spotify:track:4hq0S6wznq7SHDyMOFXL9i
+    song: Tumbling Dice
+    artist: The Rolling Stones
+  - rank: 68
+    uri: spotify:track:4BGJSbB5rAcg4pNzD4gfxU
+    song: Tiny Dancer
+    artist: Elton John
+  - rank: 69
+    uri: spotify:track:2BcvvHttiZRvguFM4hR398
+    song: Sunshine Of Your Love
+    artist: Cream
+  - rank: 70
+    uri: spotify:track:6TiUowwluPjwIusdZthgYv
+    song: April 29, 1992 (Miami)
+    artist: Sublime
+  - rank: 71
+    uri: spotify:track:5R6yOoNGGL39XCzRJBGgh5
+    song: Can't You Hear Me Knocking - Alternate Version
+    artist: The Rolling Stones
+  - rank: 72
+    uri: spotify:track:24NwBd5vZ2CK8VOQVnqdxr
+    song: Sweet Emotion
+    artist: Aerosmith
+  - rank: 73
+    uri: spotify:track:5tVA6TkbaAH9QMITTQRrNv
+    song: Free Fallin'
+    artist: Tom Petty
+  - rank: 74
+    uri: spotify:track:4nXkbcTj3nyww1cHkw5RAP
+    song: Long Train Runnin'
+    artist: The Doobie Brothers
+  - rank: 75
+    uri: spotify:track:1OxcIUqVmVYxT6427tbhDW
+    song: Fly Away
+    artist: Lenny Kravitz
+  - rank: 76
+    uri: spotify:track:3LcYYV9ozePfgYYmXv0P3r
+    song: Fire And Rain
+    artist: James Taylor
+  - rank: 77
+    uri: spotify:track:6kZFIsYCBeuH0f1zGk1UoM
+    song: Simple Man
+    artist: Lynyrd Skynyrd
+  - rank: 78
+    uri: spotify:track:5HNCy40Ni5BZJFw1TKzRsC
+    song: Comfortably Numb
+    artist: Pink Floyd
+  - rank: 79
+    uri: spotify:track:2gE95JskwQ1pCACTpGe1Db
+    song: Down On The Corner
+    artist: Creedence Clearwater Revival
+  - rank: 80
+    uri: spotify:track:6hu1f1cXSw7OAqhpSQ2zDy
+    song: Dazed And Confused
+    artist: Led Zeppelin
+  - rank: 81
+    uri: spotify:track:3TO7bbrUKrOSPGRTB5MeCz
+    song: Time
+    artist: Pink Floyd
+  - rank: 82
+    uri: spotify:track:1IRc0Va0Nt1BZ1SJ8B6bi3
+    song: Happy
+    artist: The Rolling Stones
+  - rank: 83
+    uri: spotify:track:6YffUZJ2R06kyxyK6onezL
+    song: Ring of Fire - Mono Version
+    artist: Johnny Cash
+  - rank: 84
+    uri: spotify:track:1nE78lQ7ix7XNrjuzTE4Jz
+    song: Born On The Bayou
+    artist: Creedence Clearwater Revival
+  - rank: 85
+    uri: spotify:track:2nMf90sRgHMJXbOWIVw9Bi
+    song: Anyway The Wind Blows
+    artist: J.J. Cale
+  - rank: 86
+    uri: spotify:track:2YJgM8lj4u5YEZRSHSfL60
+    song: Bell Bottom Blues - 40th Anniversary Version / 2010 Remastered
+    artist: Derek & The Dominos
+  - rank: 87
+    uri: spotify:track:72WZtWs6V7uu3aMgMmEkYe
+    song: You Can't Always Get What You Want
+    artist: The Rolling Stones
+  - rank: 88
+    uri: spotify:track:63OFKbMaZSDZ4wtesuuq6f
+    song: Born To Be Wild
+    artist: Steppenwolf
+  - rank: 89
+    uri: spotify:track:1L94M3KIu7QluZe63g64rv
+    song: Alive
+    artist: Pearl Jam
+  - rank: 90
+    uri: spotify:track:1XOk4ubxorPyy2d6tRM5oW
+    song: The Sky Is Crying / Have You Ever Loved A Woman / Rambling On My Mind -
+      Live At Hammersmith Odeon, London / 1974
+    artist: Eric Clapton
+  - rank: 91
+    uri: spotify:track:4qbPYIqTwAf5OIzrRLQ49q
+    song: Layla
+    artist: Derek & The Dominos
+  - rank: 92
+    uri: spotify:track:2YodwKJnbPyNKe8XXSE9V7
+    song: Lithium
+    artist: Nirvana
+  - rank: 93
+    uri: spotify:track:4EnkwZd0UJAuHpNMMemQaA
+    song: Closing Time
+    artist: Semisonic
+  - rank: 94
+    uri: spotify:track:4CJVkjo5WpmUAKp3R44LNb
+    song: Sweet Home Alabama
+    artist: Lynyrd Skynyrd
+  - rank: 95
+    uri: spotify:track:4c4jJJoaiY21t2TyRZgdWS
+    song: Magic Carpet Ride
+    artist: Steppenwolf
+  - rank: 96
+    uri: spotify:track:4vO9dmzNRqDhFY3jD1a3P7
+    song: Mississippi Queen
+    artist: Mountain
+  - rank: 97
+    uri: spotify:track:0QwZfbw26QeUoIy82Z2jYp
+    song: Good Times Bad Times
+    artist: Led Zeppelin
+  - rank: 98
+    uri: spotify:track:0TBNhayGCT7nEXf1m6TLsA
+    song: Brown Sugar
+    artist: The Rolling Stones
+  - rank: 99
+    uri: spotify:track:0fF267YQRX9RYyuAy7clmW
+    song: Anyway the Wind Blows (with Special Guest JJ Cale) - Live in San Diego
+    artist: Eric Clapton
+  - rank: 100
+    uri: spotify:track:3FmAUR4SPWa3P1KyDf21Fu
+    song: Roxanne - Remastered 2003
+    artist: The Police
+  - rank: 101
+    uri: spotify:track:6UCb3me83cyCV19sjvucte
+    song: D'yer Mak'er
+    artist: Led Zeppelin
+  - rank: 102
+    uri: spotify:track:3OHkp3LG81UKUB6bBE4lDk
+    song: Dead Flowers - Alternate Version
+    artist: The Rolling Stones
+  - rank: 103
+    uri: spotify:track:36dglrAWrxRGLzoqTQ8zfR
+    song: Badge
+    artist: Cream
+  - rank: 104
+    uri: spotify:track:66hdYurKbEfP74fvWtR7mj
+    song: 20th Century Boy
+    artist: T. Rex
+  - rank: 105
+    uri: spotify:track:5lXcSvHRVjQJ3LB2rLKQog
+    song: Superstition - Single Version
+    artist: Stevie Wonder
+  - rank: 106
+    uri: spotify:track:30HCB1FoE77IfGRyNv4eFq
+    song: In Bloom - Nevermind Version
+    artist: Nirvana
+  - rank: 107
+    uri: spotify:track:2udGjDmpK1dH9VGyw7nrei
+    song: Cocaine
+    artist: Eric Clapton
+  - rank: 108
+    uri: spotify:track:0YkbYk24ODhuewb79zZZzM
+    song: You Wreck Me
+    artist: Tom Petty
+  - rank: 109
+    uri: spotify:track:2tAeN2TKlQLOoSPXtARzBV
+    song: Eruption - 2015 Remastered Version
+    artist: Van Halen
+  - rank: 110
+    uri: spotify:track:4bD51UlO6y0FEpz7xyZMZ7
+    song: Crossroads - Live
+    artist: Cream
+  - rank: 111
+    uri: spotify:track:2LawezPeJhN4AWuSB0GtAU
+    song: Have You Ever Seen The Rain?
+    artist: Creedence Clearwater Revival
+  - rank: 112
+    uri: spotify:track:39C5FuZ8C8M0QI8CrMsPkR
+    song: Foreplay / Long Time
+    artist: Boston
+  - rank: 113
+    uri: spotify:track:4XRQkHp3pNWGtXVvcWJdkt
+    song: Bitch - Extended Version
+    artist: The Rolling Stones
+  - rank: 114
+    uri: spotify:track:5uvosCdMlFdTXhoazkTI5R
+    song: Light My Fire
+    artist: The Doors
+  - rank: 115
+    uri: spotify:track:3x2bXiU0o4WbsPkawXlfDA
+    song: Who Are You
+    artist: The Who
+  - rank: 116
+    uri: spotify:track:6s0NHplywwr1IjnQpUpWJk
+    song: Bad To The Bone
+    artist: George Thorogood & The Destroyers
+  - rank: 117
+    uri: spotify:track:0hCB0YR03f6AmQaHbwWDe8
+    song: Whole Lotta Love
+    artist: Led Zeppelin
+  - rank: 118
+    uri: spotify:track:5gmMa8nwzrkcPbHzSW3azN
+    song: All Day and All of the Night
+    artist: The Kinks
+  - rank: 119
+    uri: spotify:track:3M5Qsg8Iq8fuGTVhzp2Fr0
+    song: Ball And Biscuit
+    artist: The White Stripes
+  - rank: 120
+    uri: spotify:track:4p82pfEa4cayPqXLN6Rhzm
+    song: Dramamine
+    artist: Modest Mouse
+  - rank: 121
+    uri: spotify:track:4gMgiXfqyzZLMhsksGmbQV
+    song: Another Brick in the Wall, Pt. 2
+    artist: Pink Floyd
+  - rank: 122
+    uri: spotify:track:44kdekrsE0BhlBWjA2nN6Y
+    song: After Midnight (with Special Guest JJ Cale) - Live in San Diego
+    artist: Eric Clapton
+  - rank: 123
+    uri: spotify:track:7BY005dacJkbO6EPiOh2wb
+    song: House Of The Rising Sun
+    artist: The Animals
+  - rank: 124
+    uri: spotify:track:3AhXZa8sUQht0UEdBJgpGc
+    song: Like a Rolling Stone
+    artist: Bob Dylan
+  - rank: 125
+    uri: spotify:track:4PMx9RSiKlgry322H27rrZ
+    song: Jet Airliner
+    artist: Steve Miller Band
+  - rank: 126
+    uri: spotify:track:0DAeKfJBiLBUVyNJdpz2lH
+    song: It's Only Rock'n'Roll (But I Like It) - Remastered
+    artist: The Rolling Stones
+  - rank: 127
+    uri: spotify:track:7MRyJPksH3G2cXHN8UKYzP
+    song: American Girl
+    artist: Tom Petty and the Heartbreakers
+  - rank: 128
+    uri: spotify:track:2zvot9pY2FNl1E94kc4K8M
+    song: Rocket Man (I Think It's Going To Be A Long Long Time)
+    artist: Elton John
+  - rank: 129
+    uri: spotify:track:3FUsMXBxA4V7eUwQ7B0HQO
+    song: Love Buzz - Remastered
+    artist: Nirvana
+  - rank: 130
+    uri: spotify:track:5CQ30WqJwcep0pYcV4AMNc
+    song: Stairway To Heaven
+    artist: Led Zeppelin
+  - rank: 131
+    uri: spotify:track:20pdPhoVXGnhjfzBntCAku
+    song: After Midnight
+    artist: J.J. Cale
+  - rank: 132
+    uri: spotify:track:5xS9hkTGfxqXyxX6wWWTt4
+    song: Mary Jane's Last Dance
+    artist: Tom Petty and the Heartbreakers
+  - rank: 133
+    uri: spotify:track:2Z2vOukzwOgqR4dkymRSWd
+    song: Santeria
+    artist: Sublime
+  - rank: 134
+    uri: spotify:track:0vFOzaXqZHahrZp6enQwQb
+    song: Money
+    artist: Pink Floyd
+  - rank: 135
+    uri: spotify:track:1fDsrQ23eTAVFElUMaf38X
+    song: American Pie
+    artist: Don McLean
+  - rank: 136
+    uri: spotify:track:1UBQ5GK8JaQjm5VbkBZY66
+    song: Sharp Dressed Man - 2008 Remastered Version
+    artist: ZZ Top
+  - rank: 137
+    uri: spotify:track:4uhJps8XVlPZbdI5ZArAUO
+    song: You Gotta Move - Remastered
+    artist: The Rolling Stones
+  - rank: 138
+    uri: spotify:track:36gPq8WG7tDxrblyGVUCiT
+    song: Up Around The Bend
+    artist: Creedence Clearwater Revival
+  - rank: 139
+    uri: spotify:track:3sUdxT0l8t6YKTGOhcb0NT
+    song: Stay
+    artist: The Lonely Biscuits
+  - rank: 140
+    uri: spotify:track:0KaOkEHwpyMINl9VqDDbky
+    song: She's Got The Devil In Her
+    artist: Buddy Guy
+  - rank: 141
+    uri: spotify:track:0wzABO1igQsSy8cQ7dIeHK
+    song: Paint It Black
+    artist: The Rolling Stones
+  - rank: 142
+    uri: spotify:track:1xKQbqQtQWrtQS47fUJBtl
+    song: Piece of My Heart
+    artist: Big Brother & The Holding Company
+  - rank: 143
+    uri: spotify:track:28cnXtME493VX9NOw9cIUh
+    song: Hurt
+    artist: Johnny Cash
+  - rank: 144
+    uri: spotify:track:36xZr5VTIBoFSblxHEE4TJ
+    song: Crossroads - Live At Winterland, San Francisco / 1968
+    artist: Cream
+  - rank: 145
+    uri: spotify:track:6gXrEUzibufX9xYPk3HD5p
+    song: Life In The Fast Lane - Remastered
+    artist: Eagles
+  - rank: 146
+    uri: spotify:track:6ToM0uwxtPKo9CMpbPGYvM
+    song: Break On Through (To The Other Side)
+    artist: The Doors
+  - rank: 147
+    uri: spotify:track:39kmpj5Y1Lyj5tJ3VDDdNo
+    song: What's Your Name
+    artist: Lynyrd Skynyrd
+  - rank: 148
+    uri: spotify:track:0jeQNQBZ6YAxOauixu73an
+    song: Stormtroopin'
+    artist: Ted Nugent
+  - rank: 149
+    uri: spotify:track:39shmbIHICJ2Wxnk1fPSdz
+    song: Should I Stay or Should I Go - Remastered
+    artist: The Clash
+  - rank: 150
+    uri: spotify:track:0Fe3WxeO6lZZxj7ytvbDUh
+    song: Dashboard
+    artist: Modest Mouse
+  - rank: 151
+    uri: spotify:track:5ghIJDpPoe3CfHMGu71E6T
+    song: Smells Like Teen Spirit
+    artist: Nirvana
+  - rank: 152
+    uri: spotify:track:0h2gzJQBt6duqZD6kWiz4s
+    song: Moby Dick
+    artist: Led Zeppelin
+  - rank: 153
+    uri: spotify:track:3MODES4TNtygekLl146Dxd
+    song: Ramble On
+    artist: Led Zeppelin
+  - rank: 154
+    uri: spotify:track:1qRA5BS78u3gME0loMl9AA
+    song: For What It's Worth
+    artist: Buffalo Springfield
+  - rank: 155
+    uri: spotify:track:14XWXWv5FoCbFzLksawpEe
+    song: Riders On The Storm
+    artist: The Doors
+  - rank: 156
+    uri: spotify:track:6QDbGdbJ57Mtkflsg42WV5
+    song: Hot For Teacher - 2015 Remastered Version
+    artist: Van Halen
+  - rank: 157
+    uri: spotify:track:1Q3t9fWvHUXKsMmpD2XpUu
+    song: Cold Cold Cold
+    artist: Cage The Elephant
+  - rank: 158
+    uri: spotify:track:7MooGz4ZPE4bNxjFegR6Jx
+    song: You Don't Know How It Feels
+    artist: Tom Petty
+  - rank: 159
+    uri: spotify:track:7hxZF4jETnE5Q75rKQnMjE
+    song: I Walk the Line
+    artist: Johnny Cash
+  - rank: 160
+    uri: spotify:track:4sFbojhVXQv7dBC9PVCcRn
+    song: Sympathy For The Devil
+    artist: The Rolling Stones
+  - rank: 161
+    uri: spotify:track:69l8nFPu0LWmnoJX7YSVYc
+    song: You've Got A Friend
+    artist: James Taylor
+  - rank: 162
+    uri: spotify:track:5YVxDOpo3E7uyZbQDIPb2O
+    song: Bright Lights
+    artist: Gary Clark Jr.
+  - rank: 163
+    uri: spotify:track:2MLHyLy5z5l5YRp7momlgw
+    song: Island In The Sun
+    artist: Weezer
+  - rank: 164
+    uri: spotify:track:65Jt6hQpKAHqmPzHCwNitq
+    song: Further On Up the Road - Live in San Diego
+    artist: Eric Clapton
+  - rank: 165
+    uri: spotify:track:5JBUpI6OGZahUqchMKe6UY
+    song: Whipping Post
+    artist: The Allman Brothers Band
+  - rank: 166
+    uri: spotify:track:7j3rPeNrEG38UU2gPA42Qs
+    song: Miss You - Remastered
+    artist: The Rolling Stones
+  - rank: 167
+    uri: spotify:track:11LmqTE2naFULdEP94AUBa
+    song: Heart-Shaped Box
+    artist: Nirvana
+  - rank: 168
+    uri: spotify:track:1ZhrREyOOeFV6TxDOyiPwu
+    song: Take The Money And Run
+    artist: Steve Miller Band
+  - rank: 169
+    uri: spotify:track:5nkYHBWXu7KCgcdwP6jcB1
+    song: What I Got
+    artist: Sublime
+  - rank: 170
+    uri: spotify:track:3aSUhKMYQkfEOjkdBwWcoC
+    song: Hells Bells - Live
+    artist: AC/DC
+  - rank: 171
+    uri: spotify:track:1lqMLr9Wj7SM2F9AikGcxN
+    song: Hurricane
+    artist: Bob Dylan
+  - rank: 172
+    uri: spotify:track:4yugZvBYaoREkJKtbG08Qr
+    song: Take It Easy
+    artist: Eagles
+  - rank: 173
+    uri: spotify:track:5MMnwYs0hIxkENRsbkWJ2G
+    song: Smoke On the Water
+    artist: Deep Purple
+  - rank: 174
+    uri: spotify:track:7s6mvEmY68Uv3CfI2hC3aD
+    song: Motherless Children
+    artist: Eric Clapton
+  - rank: 175
+    uri: spotify:track:0nFZ2HQRnIxiwraCm2X6Uq
+    song: Mary Had a Little Lamb
+    artist: Stevie Ray Vaughan
+  - rank: 176
+    uri: spotify:track:7fqhrLJzKHJ0RW32N0y2Gp
+    song: Spirit In The Sky
+    artist: Norman Greenbaum
+  - rank: 177
+    uri: spotify:track:0bmfadM9TbjF8RgLSBU9fx
+    song: The View
+    artist: Modest Mouse
+  - rank: 178
+    uri: spotify:track:7t6CAWplijBj4sdl0q3z0e
+    song: Legs (2008 Remastered Album Edit Version)
+    artist: ZZ Top
+  - rank: 179
+    uri: spotify:track:1Y373MqadDRtclJNdnUXVc
+    song: Paranoid - Remastered Version
+    artist: Black Sabbath
+  - rank: 180
+    uri: spotify:track:6r21OUySUh2NOUgHAGxWoA
+    song: All Down The Line
+    artist: The Rolling Stones
+  - rank: 181
+    uri: spotify:track:62p6fF2r4NY6pwZbxxvmr8
+    song: Fool In The Rain
+    artist: Led Zeppelin
+  - rank: 182
+    uri: spotify:track:2mKY3LWyyLYgz3aFsHQk83
+    song: Tales Of Brave Ulysses
+    artist: Cream
+  - rank: 183
+    uri: spotify:track:5Wj1rJnCLpMHdLaxsFtJLs
+    song: Bennie And The Jets - Remastered 2014
+    artist: Elton John
+  - rank: 184
+    uri: spotify:track:5QTxFnGygVM4jFQiBovmRo
+    song: (Don't Fear) The Reaper
+    artist: Blue Öyster Cult
+  - rank: 185
+    uri: spotify:track:5X76oXHcR5uCXali0gOyX5
+    song: White Room
+    artist: Cream
+  - rank: 186
+    uri: spotify:track:4CayREZylZ5ij94y1v0zlc
+    song: Ten Long Years
+    artist: Eric Clapton
+  - rank: 187
+    uri: spotify:track:2f0P7iELCvAlV8j6Z3rGDE
+    song: Stranglehold
+    artist: Ted Nugent
+  - rank: 188
+    uri: spotify:track:7y0ZB9dSu73TQOnr44j5l2
+    song: Honky Tonk Women - Mono Version
+    artist: The Rolling Stones
+  - rank: 189
+    uri: spotify:track:6io0LJIP9ntX35hTfaxwQG
+    song: Lay Down Sally
+    artist: Eric Clapton
+  - rank: 190
+    uri: spotify:track:4fUU9WKxEgJXyrZJsUA2iP
+    song: Can't You See
+    artist: The Marshall Tucker Band
+  - rank: 191
+    uri: spotify:track:4YMQXzscifAREG0a7KNGhB
+    song: Black Magic Woman
+    artist: Santana
+  - rank: 192
+    uri: spotify:track:6kooDsorCpWVMGc994XjWN
+    song: Black Betty
+    artist: Ram Jam
+  - rank: 193
+    uri: spotify:track:4P5KoWXOxwuobLmHXLMobV
+    song: Come As You Are
+    artist: Nirvana
+  - rank: 194
+    uri: spotify:track:1dv3ePjze9tPq2pk8eWJdR
+    song: Gimme Shelter
+    artist: The Rolling Stones
+  - rank: 195
+    uri: spotify:track:6NxsCnLeLd8Ai1TrgGxzIx
+    song: Bad Moon Rising
+    artist: Creedence Clearwater Revival
+  - rank: 196
+    uri: spotify:track:10Nmj3JCNoMeBQ87uw5j8k
+    song: Dani California
+    artist: Red Hot Chili Peppers
+- pid: '301195'
+  playlist_title: Summer
+  tracks:
+  - rank: 1
+    uri: spotify:track:5rX6C5QVvvZB7XckETNych
+    song: All Summer Long
+    artist: Kid Rock
+  - rank: 2
+    uri: spotify:track:20I6sIOMTCkB6w7ryavxtO
+    song: Call Me Maybe
+    artist: Carly Rae Jepsen
+  - rank: 3
+    uri: spotify:track:7BGilQ0KLnoEt00t4ShtSK
+    song: Once
+    artist: Maren Morris
+  - rank: 4
+    uri: spotify:track:4nERXj2wD1FAAnjUeG6VyW
+    song: Summer Of '69
+    artist: Bowling For Soup
+  - rank: 5
+    uri: spotify:track:6YbhspuOar1D9WSSnfe7ds
+    song: Young, Wild & Free (feat. Bruno Mars) - feat. Bruno Mars
+    artist: Snoop Dogg
+  - rank: 6
+    uri: spotify:track:5inaLuIZnBLS2rIpM6T2lr
+    song: Long Hot Summer
+    artist: Keith Urban
+  - rank: 7
+    uri: spotify:track:62zFEHfAYl5kdHYOivj4BC
+    song: International Love
+    artist: Pitbull
+  - rank: 8
+    uri: spotify:track:7zWj09xkFgA9tcV6YhfU6q
+    song: Drive By
+    artist: Train
+  - rank: 9
+    uri: spotify:track:2qUDxmiWrOqpjiTYv8hsUd
+    song: Boys In The Summer
+    artist: Jessie James
+  - rank: 10
+    uri: spotify:track:5zpZxvuwfG7IXZ2s6iT8CN
+    song: Drunk Girls Don't Cry
+    artist: Maren Morris
+  - rank: 11
+    uri: spotify:track:47hVzpTqHP5qnVHVrqWKsD
+    song: Just Another Thing
+    artist: Maren Morris
+  - rank: 12
+    uri: spotify:track:0CqvhN7ChNjQf4tHp5rKTv
+    song: I Wish I Was
+    artist: Maren Morris
+  - rank: 13
+    uri: spotify:track:41e2LhE1nFYh41vIteVA5u
+    song: Sugar
+    artist: Maren Morris
+  - rank: 14
+    uri: spotify:track:4H0vNUFcHPz5lytcLjwqkr
+    song: Rich
+    artist: Maren Morris
+  - rank: 15
+    uri: spotify:track:7gKIt3rDGIMJDFVSPBnGmj
+    song: Super Bass
+    artist: Nicki Minaj
+  - rank: 16
+    uri: spotify:track:1nZzRJbFvCEct3uzu04ZoL
+    song: Part Of Me
+    artist: Katy Perry
+  - rank: 17
+    uri: spotify:track:1OFKUn2VLafrHj7ybnap0Q
+    song: Only Wanna Be With You
+    artist: Hootie & The Blowfish
+  - rank: 18
+    uri: spotify:track:6qn9YLKt13AGvpq9jfO8py
+    song: We Found Love
+    artist: Rihanna
+  - rank: 19
+    uri: spotify:track:1LM5zQv5pBKPyO7rm7Uz6U
+    song: My Church
+    artist: Maren Morris
+  - rank: 20
+    uri: spotify:track:20DfkHC5grnKNJCzZQB6KC
+    song: Good Girl
+    artist: Carrie Underwood
+  - rank: 21
+    uri: spotify:track:0ZUCKcWdFABozlSmojDyLZ
+    song: How It's Done
+    artist: Maren Morris
+  - rank: 22
+    uri: spotify:track:3ZAMtgYJFoHwJjFkhkXqKr
+    song: Dance (A$$) Remix
+    artist: Big Sean
+  - rank: 23
+    uri: spotify:track:58spuRyMUsjKHQHEGwLC99
+    song: 80s Mercedes
+    artist: Maren Morris
+  - rank: 24
+    uri: spotify:track:2KpCpk6HjXXLb7nnXoXA5O
+    song: Ni**as In Paris
+    artist: JAY Z
+  - rank: 25
+    uri: spotify:track:17xFcSuciJ9O10WqDERQep
+    song: Summerboy
+    artist: Lady Gaga
+  - rank: 26
+    uri: spotify:track:7xMmjUm5gb3q9g4q2bPfxm
+    song: Princess of China
+    artist: Coldplay
+  - rank: 27
+    uri: spotify:track:2GcSQZ1TmuRvqp3r4fWOZO
+    song: Stronger (What Doesn't Kill You)
+    artist: Kelly Clarkson
+  - rank: 28
+    uri: spotify:track:7pYfyrMNPn3wtoCyqcTVoI
+    song: Moves Like Jagger - Studio Recording From The Voice Performance
+    artist: Maroon 5
+  - rank: 29
+    uri: spotify:track:0qOnSQQF0yzuPWsXrQ9paz
+    song: Stereo Hearts (feat. Adam Levine) - feat. Adam Levine
+    artist: Gym Class Heroes
+  - rank: 30
+    uri: spotify:track:3bfqkspKABT4pPicm6wC9F
+    song: Ass Back Home (feat. Neon Hitch) - feat. Neon Hitch
+    artist: Gym Class Heroes
+  - rank: 31
+    uri: spotify:track:1NpW5kyvO4XrNJ3rnfcNy3
+    song: Wild Ones (feat. Sia)
+    artist: Flo Rida
+  - rank: 32
+    uri: spotify:track:0laYHRpNTS6i8FXdupHkJ4
+    song: Love You Like A Love Song
+    artist: Selena Gomez & The Scene
+  - rank: 33
+    uri: spotify:track:09iyGiljLWRYXdRazFkdtJ
+    song: I Could Use a Love Song
+    artist: Maren Morris
+  - rank: 34
+    uri: spotify:track:27rSEMh30XdxOgQX7AKSaM
+    song: Summer Nights
+    artist: Rascal Flatts
+  - rank: 35
+    uri: spotify:track:2LEF1A8DOZ9wRYikWgVlZ8
+    song: Good Feeling
+    artist: Flo Rida
+  - rank: 36
+    uri: spotify:track:6LWNBtLLJjDMgdijzoiizZ
+    song: Second Wind
+    artist: Maren Morris
+  - rank: 37
+    uri: spotify:track:7mitXLIMCflkhZiD34uEQI
+    song: Party Rock Anthem
+    artist: LMFAO
+- pid: '490485'
+  playlist_title: Hawaii
+  tracks:
+  - rank: 1
+    uri: spotify:track:78IxKAvzvPUxp30Skp28Qy
+    song: Feeling Alright
+    artist: Rebelution
+  - rank: 2
+    uri: spotify:track:4duRCqphyoANSfH8oUl6c2
+    song: Lay Me Down
+    artist: Dirty Heads
+  - rank: 3
+    uri: spotify:track:0IgUWRQZie6GS7jtLPKlTU
+    song: Falling
+    artist: Iration
+  - rank: 4
+    uri: spotify:track:5QfAwMqn87SYvWU8mWtfxJ
+    song: Jamaica Mistaica
+    artist: Jimmy Buffett
+  - rank: 5
+    uri: spotify:track:4X6qvY7lDpNxq9QokS5F0u
+    song: Fins
+    artist: Jimmy Buffett
+  - rank: 6
+    uri: spotify:track:0QkWubamAKEvvcOTriSKX3
+    song: Summer Nights
+    artist: Iration
+  - rank: 7
+    uri: spotify:track:6M7R9BK3Etvt0UNhbHoQlR
+    song: Time Bomb
+    artist: Iration
+  - rank: 8
+    uri: spotify:track:5Yi6mwvMHnnh241uGjcJYy
+    song: Son Of A Son Of A Sailor
+    artist: Jimmy Buffett
+  - rank: 9
+    uri: spotify:track:12jjuxN1gxlm29cqL5M6MW
+    song: I Got You
+    artist: Jack Johnson
+  - rank: 10
+    uri: spotify:track:1mB5iZe1OrN9gYZtLOklI6
+    song: Ordinary Girl
+    artist: Rebelution
+  - rank: 11
+    uri: spotify:track:3Uuop7Zz1IlyMSr7DPydxf
+    song: The Sound Of Sunshine
+    artist: Michael Franti & Spearhead
+  - rank: 12
+    uri: spotify:track:6sD4kdTvVi9H8TMRo1v20t
+    song: Christmas Island
+    artist: Jimmy Buffett
+  - rank: 13
+    uri: spotify:track:6VeZ970uI0Yi6sjBgyFBrp
+    song: Cheeseburger In Paradise
+    artist: Jimmy Buffett
+  - rank: 14
+    uri: spotify:track:7vCEPLGrLHqBHyRPPsweYY
+    song: Wonderful World, Beautiful People - Single Version
+    artist: Jimmy Cliff
+  - rank: 15
+    uri: spotify:track:2QKh6t4JnWeTnzQpkNXhzW
+    song: You Can Get It If You Really Want
+    artist: Jimmy Cliff
+  - rank: 16
+    uri: spotify:track:0s4jINkD2RoxH96zpy2i0D
+    song: Volcano
+    artist: Jimmy Buffett
+  - rank: 17
+    uri: spotify:track:5nkYHBWXu7KCgcdwP6jcB1
+    song: What I Got
+    artist: Sublime
+  - rank: 18
+    uri: spotify:track:4OsZ1vrenrtSbqLJxOceKl
+    song: One Love / People Get Ready
+    artist: Bob Marley & The Wailers
+  - rank: 19
+    uri: spotify:track:79fnn7mvxfDhKLUabP3zAH
+    song: Burn One Down
+    artist: Ben Harper
+  - rank: 20
+    uri: spotify:track:2yGoiZes2YcueNA4nGDmdS
+    song: Bang Bang
+    artist: Dispatch
+  - rank: 21
+    uri: spotify:track:3xLQS5dmbSczl0zdqTcOYj
+    song: Cool Change - 2002 Digital Remaster
+    artist: Little River Band
+  - rank: 22
+    uri: spotify:track:3ILcKrcSfFzDLIH62r2nEJ
+    song: Breakdown - Live
+    artist: Jack Johnson
+  - rank: 23
+    uri: spotify:track:5nIqitaV7WyyuM3KVUju1G
+    song: Changes In Latitudes, Changes In Attitudes
+    artist: Jimmy Buffett
+  - rank: 24
+    uri: spotify:track:7K1QvbTr4KqK8Np5SpFC6S
+    song: Beach in Hawaii
+    artist: Ziggy Marley
+  - rank: 25
+    uri: spotify:track:4efoEY8iDBzUqitjmNDhpN
+    song: Three Little Birds
+    artist: Bob Marley & The Wailers
+  - rank: 26
+    uri: spotify:track:3r7gP3kGBkldTrOO6ebMGy
+    song: Bullet and a Target
+    artist: Citizen Cope
+  - rank: 27
+    uri: spotify:track:3LYv1fJdCLMBvsqDyzHrCT
+    song: Closer to the Sun
+    artist: Slightly Stoopid
+  - rank: 28
+    uri: spotify:track:0Ktp1KnQcs9irA5tklB1jD
+    song: Courage To Grow
+    artist: Rebelution
+  - rank: 29
+    uri: spotify:track:4D7KCorDdI5vj7lwIRHoeB
+    song: Mele Kalikimaka
+    artist: Jimmy Buffett
+  - rank: 30
+    uri: spotify:track:08S2nUUNdJTagxqPKsWhli
+    song: Why Don't We Get Drunk
+    artist: Jimmy Buffett
+  - rank: 31
+    uri: spotify:track:286bpRdcpueYPc7gLIvrzU
+    song: Safe And Sound
+    artist: Rebelution
+  - rank: 32
+    uri: spotify:track:06YPnktvcLxVopw6xfW5rc
+    song: Something 'Bout a Boat
+    artist: Jimmy Buffett
+  - rank: 33
+    uri: spotify:track:2Z2vOukzwOgqR4dkymRSWd
+    song: Santeria
+    artist: Sublime
+  - rank: 34
+    uri: spotify:track:5N0lcnJTtKj4wNDvurHige
+    song: True To Myself
+    artist: Ziggy Marley
+  - rank: 35
+    uri: spotify:track:4JWZTNlLBlNoa5t7qn1M8i
+    song: Upside Down
+    artist: Jack Johnson
+  - rank: 36
+    uri: spotify:track:0c7iF5fSBYxCuwsAv2z4iI
+    song: Green Mountain State
+    artist: Trevor Hall
+- pid: '575612'
+  playlist_title: Classic Country
+  tracks:
+  - rank: 1
+    uri: spotify:track:2kPhndhmpESYhoFTvpAIQU
+    song: Crazy Little Thing Called Love
+    artist: Dwight Yoakam
+  - rank: 2
+    uri: spotify:track:7rOlDNZrL5oiMrtHWRamGQ
+    song: Loving Her Was Easier (Than Anything I'll Ever Do Again)
+    artist: Willie Nelson
+  - rank: 3
+    uri: spotify:track:5XOM6Neo5IACRMhvd2ibKA
+    song: You Ain't Woman Enough
+    artist: Loretta Lynn
+  - rank: 4
+    uri: spotify:track:6uvT4Di9ZRBw5cbexZJDts
+    song: Highwayman
+    artist: Willie Nelson
+  - rank: 5
+    uri: spotify:track:20UFFveMxVbuA2FnsaYY4i
+    song: Leavin' Texas - Edit
+    artist: Jerry Jeff Walker
+  - rank: 6
+    uri: spotify:track:1gKSpFpX3poa17WIAyFVsp
+    song: Mammas, Don't Let Your Babies Grow Up to Be Cowboys
+    artist: Waylon Jennings
+  - rank: 7
+    uri: spotify:track:7yHjfm9D8MAHHnTSznrlsw
+    song: San Antonio Rose
+    artist: Patsy Cline
+  - rank: 8
+    uri: spotify:track:21e3J27fEGSVcmxOjlVz1U
+    song: Gypsys, Tramps, And Thieves
+    artist: Vicki Lawrence
+  - rank: 9
+    uri: spotify:track:3mN6vmILaACAw84kS1RsTq
+    song: I Believe
+    artist: Chris Isaak
+  - rank: 10
+    uri: spotify:track:6AeFuwycMVxiRjHNiRcXAb
+    song: You Don't Even Know Who I Am
+    artist: Patty Loveless
+  - rank: 11
+    uri: spotify:track:36Ew5C2l5r1GAZifRhp4YG
+    song: King Of The Road - Re-Recorded In Stereo
+    artist: Roger Miller
+  - rank: 12
+    uri: spotify:track:38d0t5MaiM6eqOcjzdCtNH
+    song: I'm A Long Gone Daddy - Single Version
+    artist: Hank Williams
+  - rank: 13
+    uri: spotify:track:0nbm4bvneAGlrp5wZKRHT8
+    song: '''57 Chevrolet'
+    artist: Billie Jo Spears
+  - rank: 14
+    uri: spotify:track:5pdKPY4O9CHuzDDp557j4N
+    song: Luckenbach, Texas (Back to the Basics of Love)
+    artist: Waylon Jennings
+  - rank: 15
+    uri: spotify:track:0DfWYLMydV2oFy8odueqzG
+    song: Killing Me Softly
+    artist: Vicki Lawrence
+  - rank: 16
+    uri: spotify:track:5jPPjNMIi1rD6BvQqxhJh5
+    song: When Will I Be Loved
+    artist: Linda Ronstadt
+  - rank: 17
+    uri: spotify:track:1C5eXdxiGK6unIvON7UDPb
+    song: Crazy Arms
+    artist: Patsy Cline
+  - rank: 18
+    uri: spotify:track:0j5PVEHNlWi9M6jRXPvCGI
+    song: Leavin' On Your Mind - Single Version
+    artist: Patsy Cline
+  - rank: 19
+    uri: spotify:track:2xSJiMxoZ9eiqsWhfrdYjs
+    song: Islands In The Stream
+    artist: Kenny Rogers
+  - rank: 20
+    uri: spotify:track:5RVbV2m3GoOWc0t7Xf1Wmk
+    song: Accidentally On Purpose - Single Version
+    artist: George Jones
+  - rank: 21
+    uri: spotify:track:6G5NsbGQlLQx4xjZE69Lnt
+    song: I'm Not Gonna Miss You
+    artist: Glen Campbell
+  - rank: 22
+    uri: spotify:track:5tlyFGagMcqqpbqo2jYKU5
+    song: Rocky Mountain High - Remastered
+    artist: John Denver
+  - rank: 23
+    uri: spotify:track:4qGsLYHRIXHGlh2l1J0xYo
+    song: Little Sister
+    artist: Dwight Yoakam
+  - rank: 24
+    uri: spotify:track:06uiDyZsrwnZ0o0q1Y8Ax2
+    song: Mr. Bojangles
+    artist: Nitty Gritty Dirt Band
+  - rank: 25
+    uri: spotify:track:77atK5ZgNxKaQe1TxA1PAl
+    song: We Three (My Echo, My Shadow, And Me)
+    artist: The Ink Spots
+  - rank: 26
+    uri: spotify:track:6yT7kcpsXNW7QS9xunPaox
+    song: Take This Job and Shove It
+    artist: Johnny Paycheck
+  - rank: 27
+    uri: spotify:track:0xqtcLB45iKNfHroi5y1em
+    song: Crazy
+    artist: Willie Nelson
+  - rank: 28
+    uri: spotify:track:3mM14WXoPaLRjjkmxHe99L
+    song: Coal Miner's Daughter - Single Version
+    artist: Loretta Lynn
+  - rank: 29
+    uri: spotify:track:0mD2pnYVF8DB3oqtY5KM8h
+    song: Chug-A-Lug
+    artist: Roger Miller
+  - rank: 30
+    uri: spotify:track:51DFx4P1zGVkZJm9kOmkYy
+    song: Kaw-Liga - Single Version
+    artist: Hank Williams
+  - rank: 31
+    uri: spotify:track:5cXdB92xagJr4b30GjRbfX
+    song: I'm a Ramblin' Man
+    artist: Waylon Jennings
+  - rank: 32
+    uri: spotify:track:2uRVPeQbsEpRQD0DKr1WTo
+    song: Blue Eyes Crying in the Rain
+    artist: Willie Nelson
+  - rank: 33
+    uri: spotify:track:6poFo34CP2t7EpZ0bNAboK
+    song: Sometimes When We Touch
+    artist: Tammy Wynette
+  - rank: 34
+    uri: spotify:track:5IYytnEXJJafhXjKvqHcJp
+    song: I Feel The Blues Movin' In - Remastered
+    artist: Dolly Parton
+  - rank: 35
+    uri: spotify:track:1Ch2cPleHoVVXLVRRrGF6o
+    song: Don't Come Home A-Drinkin' (With Lovin' On Your Mind)
+    artist: Loretta Lynn
+  - rank: 36
+    uri: spotify:track:4TMP1aRZUsG8C4HChYtfgC
+    song: Hello Darlin'
+    artist: Conway Twitty
+  - rank: 37
+    uri: spotify:track:4f2K09ZZra4gK8Cyuf6yW6
+    song: Live Forever
+    artist: Billy Joe Shaver
+  - rank: 38
+    uri: spotify:track:7GCNh1ibQiae8aimaEUOFq
+    song: Galveston - 2001 - Remastered
+    artist: Glen Campbell
+  - rank: 39
+    uri: spotify:track:0sq2Zh5py8U7MHlA1aF50d
+    song: I'm Sorry - Single Version
+    artist: Brenda Lee
+  - rank: 40
+    uri: spotify:track:2I0vbkpji0DPU6qDGuxz2S
+    song: It's Too Late to Love Me Now
+    artist: Dolly Parton
+  - rank: 41
+    uri: spotify:track:0mWXrr6HQZUhCQG4JMkT2e
+    song: Oo-De-Lally
+    artist: Roger Miller
+  - rank: 42
+    uri: spotify:track:5Wp943TnfDz5hVK9lEJMSL
+    song: Touch Your Woman
+    artist: Dolly Parton
+  - rank: 43
+    uri: spotify:track:36iKAHnrD32JwisSlL65L7
+    song: Lovesick Blues
+    artist: Patsy Cline
+  - rank: 44
+    uri: spotify:track:3LiqK78QGNdKUrLMwFUsf3
+    song: When We're Gone, Long Gone - Remastered
+    artist: Dolly Parton
+  - rank: 45
+    uri: spotify:track:0Z1RzCLdYtdommAWPVIoRu
+    song: Just For A Thrill
+    artist: The Ink Spots
+  - rank: 46
+    uri: spotify:track:3ftnDaaL02tMeOZBunIwls
+    song: Folsom Prison Blues - Live
+    artist: Johnny Cash
+  - rank: 47
+    uri: spotify:track:0yljBqwQl6U2fD4E8CIX87
+    song: Whiskey River - Live
+    artist: Willie Nelson
+  - rank: 48
+    uri: spotify:track:3OFrwKqOYC0dNUwuiAX46e
+    song: Blue Moon Of Kentucky - Single Version
+    artist: Patsy Cline
+  - rank: 49
+    uri: spotify:track:7HRqpMkcCVVhmKme8bScvl
+    song: The South's Gonna Do It Again
+    artist: The Charlie Daniels Band
+  - rank: 50
+    uri: spotify:track:6JSDuPIIOWg09pYafhFD8a
+    song: He Called Me Baby - Single Version
+    artist: Patsy Cline
+  - rank: 51
+    uri: spotify:track:4ubYnxmt3qW3wZdqMZbqOh
+    song: East Bound and Down
+    artist: Jerry Reed
+  - rank: 52
+    uri: spotify:track:0Z44FoBocXlcWS70n2vtcB
+    song: If I Were a Carpenter (Live in Denmark)
+    artist: Johnny Cash
+  - rank: 53
+    uri: spotify:track:73ZTWCuwudUVvvWipRnQnQ
+    song: Family Tradition
+    artist: Hank Williams, Jr.
+  - rank: 54
+    uri: spotify:track:7eyzzUoF88rwkyDPMtF3HI
+    song: Long Gone Lonesome Blues
+    artist: Hank Williams, Jr.
+  - rank: 55
+    uri: spotify:track:1fQ8klMjoSHED4xUSFIkcT
+    song: Whistle Stop - From "Robin Hood"
+    artist: Roger Miller
+  - rank: 56
+    uri: spotify:track:6nRvgo4ySezQKD1D7NIqAu
+    song: I Will Always Love You
+    artist: Dolly Parton
+  - rank: 57
+    uri: spotify:track:7GH8qNOm2gEKryVUyVzkmt
+    song: Delta Dawn
+    artist: Tanya Tucker
+  - rank: 58
+    uri: spotify:track:0x5EMnC2M9pDTAAStksrDt
+    song: I'll Fly Away - From “O Brother, Where Art Thou” Soundtrack
+    artist: Gillian Welch
+  - rank: 59
+    uri: spotify:track:42fKW5Jhj97tj0TwE1pK8u
+    song: Crazy
+    artist: Patsy Cline
+  - rank: 60
+    uri: spotify:track:4w3tQBXhn5345eUXDGBWZG
+    song: 9 to 5
+    artist: Dolly Parton
+  - rank: 61
+    uri: spotify:track:08bxb814fVz6D0PZaizlQ6
+    song: Just Out Of Reach
+    artist: Patsy Cline
+  - rank: 62
+    uri: spotify:track:11pSOAhXjtsxxauwzM2hS3
+    song: You Never Even Called Me By My Name
+    artist: David Allan Coe
+  - rank: 63
+    uri: spotify:track:576MasCmcO40iuwFltsKe5
+    song: Fever on the Bayou
+    artist: Rodney Crowell
+  - rank: 64
+    uri: spotify:track:3OwsTnoZ3mLN4jYpaBB5j9
+    song: You're The Reason Our Kids Are Ugly - Single Version
+    artist: Loretta Lynn
+  - rank: 65
+    uri: spotify:track:2cpv9JeoqEWrhmvmRfjKiv
+    song: Passionate Kisses
+    artist: Mary Chapin Carpenter
+  - rank: 66
+    uri: spotify:track:3KNnyBCjInhKXHIfW5Byhg
+    song: Down To The River To Pray
+    artist: Alison Krauss
+  - rank: 67
+    uri: spotify:track:6oYqwLEYsuw71VPCuwBRFS
+    song: Angel Flying Too Close to the Ground
+    artist: Willie Nelson
+  - rank: 68
+    uri: spotify:track:6H7nDglS6xWpRidbhMwI2L
+    song: Here You Come Again
+    artist: Dolly Parton
+  - rank: 69
+    uri: spotify:track:02sENi9ULQ36x9mKo5B7XW
+    song: Louisiana Woman, Mississippi Man
+    artist: Conway Twitty
+  - rank: 70
+    uri: spotify:track:383Xl5QTigwj3QiA3Qc6S7
+    song: The Devil Went Down to Georgia
+    artist: The Charlie Daniels Band
+  - rank: 71
+    uri: spotify:track:4JwFrnLLSO4qqxOeHQATf4
+    song: Sunday Mornin' Comin' Down
+    artist: Kris Kristofferson
+  - rank: 72
+    uri: spotify:track:23DZLSxCK6kM8FF2RlzKDl
+    song: You're No Good
+    artist: Linda Ronstadt
+  - rank: 73
+    uri: spotify:track:15GiOLRhRZGM07xhEorDZ4
+    song: Let Him Fly
+    artist: Patty Griffin
+  - rank: 74
+    uri: spotify:track:6YffUZJ2R06kyxyK6onezL
+    song: Ring of Fire - Mono Version
+    artist: Johnny Cash
+  - rank: 75
+    uri: spotify:track:4UTCVSgVPQjzq152K6ReTX
+    song: White Lightning
+    artist: George Jones
+  - rank: 76
+    uri: spotify:track:07WV7AeuOumQN8CBLo4LdY
+    song: I Want You To Want Me
+    artist: Dwight Yoakam
+  - rank: 77
+    uri: spotify:track:1sg3XLwAzhUFvU540mpnFS
+    song: Against the Wind
+    artist: The Highwaymen
+  - rank: 78
+    uri: spotify:track:4kwx0MEJ0fXYv0wrmBXhCk
+    song: Hey Good Lookin'
+    artist: Loretta Lynn
+  - rank: 79
+    uri: spotify:track:1SJ25NVOLxMSgyAoYnwavj
+    song: Address Unknown
+    artist: The Ink Spots
+  - rank: 80
+    uri: spotify:track:0b1dMkDDbsHh6kWTp3P6ZM
+    song: Silver Wings
+    artist: Merle Haggard
+  - rank: 81
+    uri: spotify:track:5KqldkCunQ2rWxruMEtGh0
+    song: The Gambler
+    artist: Kenny Rogers
+  - rank: 82
+    uri: spotify:track:7gXpcXwtmEiQzskYJmtGgk
+    song: The Legend Of Bonnie & Clyde - Re-Recorded In Stereo
+    artist: Merle Haggard
+  - rank: 83
+    uri: spotify:track:1IDf3VUbfPPduW6bIfkIPQ
+    song: Don't It Make My Brown Eyes Blue
+    artist: Crystal Gayle
+  - rank: 84
+    uri: spotify:track:4BcrWCZPXuoGU0SnAsJW1s
+    song: He Stopped Loving Her Today
+    artist: George Jones
+  - rank: 85
+    uri: spotify:track:1S09KH2EFvN1y8hXkuWdAi
+    song: Happy Trails - Remastered
+    artist: Roy Rogers
+  - rank: 86
+    uri: spotify:track:40c4p4lL3uKq9lTvEmcis9
+    song: Crying In the Rain
+    artist: Tammy Wynette
+  - rank: 87
+    uri: spotify:track:49d5NSwaoUnSqaHzMzbWGb
+    song: High Sierra
+    artist: Linda Ronstadt
+  - rank: 88
+    uri: spotify:track:77dcKrzRUI02XjHd2okARp
+    song: A Country Boy Can Survive
+    artist: Hank Williams, Jr.
+  - rank: 89
+    uri: spotify:track:7xjQ0YNPtC8R9tEdFNOFcG
+    song: Sangria Wine
+    artist: Jerry Jeff Walker
+  - rank: 90
+    uri: spotify:track:3Hbm5luuxJheCKJheYAVbZ
+    song: Honky Tonk Man
+    artist: Dwight Yoakam
+  - rank: 91
+    uri: spotify:track:1mICUTQCbRkAvGmO0cwoAz
+    song: Blame It on Your Heart
+    artist: Patty Loveless
+  - rank: 92
+    uri: spotify:track:6Bca4I4Rco3Uy1NHjGYVN4
+    song: A Stranger In Love
+    artist: The Spaniels
+  - rank: 93
+    uri: spotify:track:1OmKo4t4Bh95xQI6WGiUR3
+    song: On the Road Again
+    artist: Willie Nelson
+  - rank: 94
+    uri: spotify:track:3VYPd2P9bh2NflLvx6dJy4
+    song: Man in Black
+    artist: Johnny Cash
+  - rank: 95
+    uri: spotify:track:0w4duPAMQIPQXQ8SSUsQdU
+    song: Your Cheatin' Heart - Single Version
+    artist: Hank Williams
+  - rank: 96
+    uri: spotify:track:6NUby4h14gIYY0MkhunD2x
+    song: Don't Forget About Me
+    artist: Nanci Griffith
+  - rank: 97
+    uri: spotify:track:1Bqt4M53ylr5NXMvBg1FMf
+    song: Golden Ring - Single Version
+    artist: Tammy Wynette
+  - rank: 98
+    uri: spotify:track:2SpEHTbUuebeLkgs9QB7Ue
+    song: Jolene
+    artist: Dolly Parton
+  - rank: 99
+    uri: spotify:track:4JPEuPsDG3nNJMAvvQ2Rr3
+    song: D-I-V-O-R-C-E
+    artist: Tammy Wynette
+  - rank: 100
+    uri: spotify:track:1GppOc3LMBYanYagzCQCci
+    song: Thank God I'm a Country Boy
+    artist: John Denver
+  - rank: 101
+    uri: spotify:track:121ILFThNZH9Egncny7upu
+    song: I Try to Think About Elvis
+    artist: Patty Loveless
+  - rank: 102
+    uri: spotify:track:2xYQTU2bbg6WVAmpY1eae4
+    song: Always On My Mind
+    artist: Willie Nelson
+  - rank: 103
+    uri: spotify:track:22GKOoU7q9YGhaedUzhlpT
+    song: After The Gold Rush - Remastered
+    artist: Dolly Parton
+  - rank: 104
+    uri: spotify:track:0VwTeYNjcl30DyQlt3GPe0
+    song: Rhinestone Cowboy
+    artist: Glen Campbell
+  - rank: 105
+    uri: spotify:track:4f8hBeMXMvssn6HtFAtblo
+    song: El Paso
+    artist: Marty Robbins
+  - rank: 106
+    uri: spotify:track:6A8spBZpLjC8LBPRf2TgJD
+    song: Do I Ever Cross Your Mind?
+    artist: Dolly Parton
+  - rank: 107
+    uri: spotify:track:5AhDb4oM6f4YmHPXW123Fg
+    song: I Am A Man Of Constant Sorrow - From “O Brother, Where Art Thou” Soundtrack
+      / Radio Station Version
+    artist: The Soggy Bottom Boys
+  - rank: 108
+    uri: spotify:track:4KtrT5tb8mosaqqQyaq8sa
+    song: Jackson
+    artist: Johnny Cash
+  - rank: 109
+    uri: spotify:track:1A6P8IxzNyBRsQualaNXNY
+    song: Pancho and Lefty
+    artist: Willie Nelson
+  - rank: 110
+    uri: spotify:track:1Ax6kI1XTucQNXXfPcPWWl
+    song: If I Cross Your Mind
+    artist: Dolly Parton
+  - rank: 111
+    uri: spotify:track:5YwgJ6lpZ3SiAQwBEpjqey
+    song: Rose Garden - Single Version
+    artist: Lynn Anderson
+  - rank: 112
+    uri: spotify:track:2dyNrgww881obchdQB5kFz
+    song: If Loving You Starts Hurting Me
+    artist: George Jones
+  - rank: 113
+    uri: spotify:track:1Y6vQPr6InAkCHV3g4HQau
+    song: He Rode All The Way To Texas - Remastered
+    artist: Dolly Parton
+  - rank: 114
+    uri: spotify:track:5KMWwtJv3Ll2ROZfMerQs0
+    song: Same Old Train
+    artist: Clint Black
+  - rank: 115
+    uri: spotify:track:67eYhJkn6sG8cUr42ewVgw
+    song: Get Rhythm
+    artist: Johnny Cash
+  - rank: 116
+    uri: spotify:track:58XDFBMRIzq8dhMeSuu3Wb
+    song: Forgiveness
+    artist: Patty Griffin
+  - rank: 117
+    uri: spotify:track:0VlRf78uT5yo1nMpM19ltb
+    song: Your Cheatin' Heart
+    artist: Patsy Cline
+  - rank: 118
+    uri: spotify:track:5OHTqUeUeV09qhqszxS541
+    song: The Traveling Kind
+    artist: Emmylou Harris
+  - rank: 119
+    uri: spotify:track:5LrNrRA8sMvhKRPOkuvpwq
+    song: If I Had A Boat
+    artist: Lyle Lovett
+  - rank: 120
+    uri: spotify:track:4NEHkqrBAWwbDbWs9QL4Ry
+    song: Java Jive
+    artist: The Ink Spots
+  - rank: 121
+    uri: spotify:track:2yyc9xyofimvRpUuJTjoGJ
+    song: A Boy Named Sue - Live
+    artist: Johnny Cash
+  - rank: 122
+    uri: spotify:track:2dXLLtSIYyPvLNDBl8zWGN
+    song: Will The Circle Be Unbroken (Glory, Glory)
+    artist: Nitty Gritty Dirt Band
+  - rank: 123
+    uri: spotify:track:28cnXtME493VX9NOw9cIUh
+    song: Hurt
+    artist: Johnny Cash
+  - rank: 124
+    uri: spotify:track:4H1POasJbrLNaQirsIH29e
+    song: She's Got You - Single Version
+    artist: Patsy Cline
+  - rank: 125
+    uri: spotify:track:11AuKP7AVvmhf1gmM9Ew88
+    song: Telstar
+    artist: The Tornadoes
+  - rank: 126
+    uri: spotify:track:38jwN2vvBU7CjrySrZ9t35
+    song: Good Hearted Woman
+    artist: Willie Nelson
+  - rank: 127
+    uri: spotify:track:4AeTiKSPrP3ay2hwuBu8HX
+    song: Hey, Good Lookin' - Single Version
+    artist: Hank Williams
+  - rank: 128
+    uri: spotify:track:5Dti5jZ2L1QQb98sJVtsTc
+    song: Do I Ever Cross Your Mind
+    artist: Chet Atkins and Dolly Parton
+  - rank: 129
+    uri: spotify:track:1uuqRaSJAiQ6VB8BWblXWJ
+    song: Okie From Muskogee
+    artist: Merle Haggard
+  - rank: 130
+    uri: spotify:track:6xatfNMI8NkY5XxRHAeiS4
+    song: Stand By Your Man
+    artist: Tammy Wynette
+  - rank: 131
+    uri: spotify:track:0nXCeMVvAVDZGY4CW53VUl
+    song: Didn't Leave Nobody But The Baby - From “O Brother, Where Art Thou” Soundtrack
+    artist: Emmylou Harris
+  - rank: 132
+    uri: spotify:track:55Dg4JYgrNSiNg68vawaaI
+    song: I Fall To Pieces - Single Version
+    artist: Patsy Cline
+  - rank: 133
+    uri: spotify:track:4fYwEptyoaQeyBldissYsO
+    song: Lonely Comin' Down
+    artist: Dolly Parton
+  - rank: 134
+    uri: spotify:track:1l2Xmg54EUr3TDzNIaCr1z
+    song: Coat of Many Colors
+    artist: Dolly Parton
+  - rank: 135
+    uri: spotify:track:3zxklD2EGecZre9MjEEvIU
+    song: Blue Bayou
+    artist: Linda Ronstadt
+  - rank: 136
+    uri: spotify:track:4tj7IsJrn4MvesuhoY0JBy
+    song: I'm So Lonesome I Could Cry
+    artist: Hank Williams
+  - rank: 137
+    uri: spotify:track:7LZNfsnlgA8pFEs9yxkbg8
+    song: I Can't Stop Loving You - Single Version
+    artist: Conway Twitty
+  - rank: 138
+    uri: spotify:track:7gNbidsHK16wvnuK2VgaVc
+    song: Do I Ever Cross Your Mind - Remastered
+    artist: Dolly Parton
+  - rank: 139
+    uri: spotify:track:1JkB27Wh2bc0wULs3WIMSO
+    song: Time Of Inconvenience
+    artist: Nanci Griffith
+  - rank: 140
+    uri: spotify:track:4IY76C5dZWMvQ542It1Ykl
+    song: If I Didn't Care
+    artist: The Ink Spots
+  - rank: 141
+    uri: spotify:track:61FfiL8hYFXh5qe7tuBsar
+    song: All My Ex's Live In Texas
+    artist: George Strait
+  - rank: 142
+    uri: spotify:track:7hxZF4jETnE5Q75rKQnMjE
+    song: I Walk the Line
+    artist: Johnny Cash
+  - rank: 143
+    uri: spotify:track:1jGa3ZVWNhqes22ZoVBfOJ
+    song: My Heart Skips A Beat
+    artist: Buck Owens
+  - rank: 144
+    uri: spotify:track:40wjecaJ4WkVF59V5xXCBy
+    song: This Heart
+    artist: Nanci Griffith
+  - rank: 145
+    uri: spotify:track:3rlU8GywVlHOd09sfzOLx8
+    song: Did I Shave My Legs For This?
+    artist: Deana Carter
+  - rank: 146
+    uri: spotify:track:1I6883eWftxG6oq5SYWPXd
+    song: Mr. Shorty
+    artist: Marty Robbins
+  - rank: 147
+    uri: spotify:track:23HylCbANgdXN6EWkydA6u
+    song: Jambalaya (On The Bayou) - Single Version
+    artist: Hank Williams
+  - rank: 148
+    uri: spotify:track:0mLoTgCB8oU0sJGojRtvDu
+    song: Gentle On My Mind - 2001 - Remastered
+    artist: Glen Campbell
+  - rank: 149
+    uri: spotify:track:215uukDK1o0eXE6iuhp4TL
+    song: Lover's Return - Remastered
+    artist: Dolly Parton
+  - rank: 150
+    uri: spotify:track:3uG4ygD1bIP3YspJm9N4KO
+    song: Flowers on the Wall
+    artist: The Statler Brothers
+  - rank: 151
+    uri: spotify:track:2gjwUEyO1O8zVunCbItrHu
+    song: She Thinks I Still Care
+    artist: George Jones
+  - rank: 152
+    uri: spotify:track:5NU6nNizcd38J1xJi1tGXE
+    song: One Toke Over the Line
+    artist: Brewer & Shipley
+  - rank: 153
+    uri: spotify:track:6wKkgtTRDKV8B17MAp9eKi
+    song: Cold in California
+    artist: Cam
+  - rank: 154
+    uri: spotify:track:6AZyiAl6mr3Jcp6AlmiQwF
+    song: It's So Easy
+    artist: Linda Ronstadt
+  - rank: 155
+    uri: spotify:track:3EFzg5DOLu7jUXEiILFWIe
+    song: If Drinkin' Don't Kill Me (Her Memory Will) - Single Version
+    artist: George Jones
+  - rank: 156
+    uri: spotify:track:68p2wVoGWkDKGJtdsRZDP6
+    song: Me and Bobby McGee
+    artist: Kris Kristofferson
+  - rank: 157
+    uri: spotify:track:4kTCYsbseIEd7aJmeCIP2n
+    song: Suspicious Minds
+    artist: Dwight Yoakam
+  - rank: 158
+    uri: spotify:track:38cPnXmnCs94WJeUW2wsj1
+    song: Pissin' In The Wind
+    artist: Jerry Jeff Walker
+  - rank: 159
+    uri: spotify:track:4HbWgdhQcrV1PbCkzspTSF
+    song: Walkin' After Midnight
+    artist: Patsy Cline
+  - rank: 160
+    uri: spotify:track:6GZ6O0bHsDndSAmqnxXMjn
+    song: In the Ghetto
+    artist: Dolly Parton
+  - rank: 161
+    uri: spotify:track:0gIhlWV243Z1K93QfCeJTM
+    song: To Know Him Is To Love Him - Remastered
+    artist: Dolly Parton
+  - rank: 162
+    uri: spotify:track:2xYlyywNgefLCRDG8hlxZq
+    song: Take Me Home, Country Roads
+    artist: John Denver
+  - rank: 163
+    uri: spotify:track:04ilBEd1FVUhpv9ItR6yTN
+    song: Mama Tried
+    artist: Merle Haggard & The Strangers
+  - rank: 164
+    uri: spotify:track:1GINsWBySdj1yI0vtjzlQz
+    song: Willie, Waylon and Me
+    artist: David Allan Coe
+  - rank: 165
+    uri: spotify:track:75EKGAmpTWNX90Bq7qhSd8
+    song: The Long Black Veil - Live
+    artist: Johnny Cash
+  - rank: 166
+    uri: spotify:track:4bqGwVeAuUZ5YyjGmdDGDF
+    song: The Night The Lights Went Out In Georgia
+    artist: Vicki Lawrence
+  - rank: 167
+    uri: spotify:track:4FphdrrHaX3vXpT1eOrTHR
+    song: Roll Me Up
+    artist: Willie Nelson
+  - rank: 168
+    uri: spotify:track:74YLAuaUvUEKW4dLO8jQpH
+    song: You'll Never Be The Sun - Remastered
+    artist: Dolly Parton
+- pid: '269088'
+  playlist_title: older songs
+  tracks:
+  - rank: 1
+    uri: spotify:track:0lzOFW7ELjXom0Jua03stq
+    song: One Drop
+    artist: Bob Marley & The Wailers
+  - rank: 2
+    uri: spotify:track:4pYVCLfekKOH9DJ5KCo4eZ
+    song: Bring It On
+    artist: JAY Z
+  - rank: 3
+    uri: spotify:track:5EA06TsQmqmQXZiEhr1AaM
+    song: Coming Home
+    artist: Leon Bridges
+  - rank: 4
+    uri: spotify:track:1dm6SKfeG0ZMx5RWrhKjfk
+    song: Smile Jamaica
+    artist: Bob Marley & The Wailers
+  - rank: 5
+    uri: spotify:track:4Ali9AucCAbQw6WlqURnD0
+    song: Bad Card
+    artist: Bob Marley & The Wailers
+  - rank: 6
+    uri: spotify:track:5ChkMS8OtdzJeqyybCc9R5
+    song: Billie Jean
+    artist: Michael Jackson
+  - rank: 7
+    uri: spotify:track:63rva3TBizr6x1Yp5uwKfD
+    song: California Dreamin'
+    artist: The Mamas & The Papas
+  - rank: 8
+    uri: spotify:track:1jsYym0WPXsetwPs8mY45w
+    song: Lucky Me
+    artist: JAY Z
+- pid: '606436'
+  playlist_title: '2016'
+  tracks:
+  - rank: 1
+    uri: spotify:track:5YdbKvwTk02eOn22jtibho
+    song: Weekend - Jai Wolf Remix
+    artist: Mocki
+  - rank: 2
+    uri: spotify:track:6O6M7pJLABmfBRoGZMu76Y
+    song: Roses
+    artist: The Chainsmokers
+  - rank: 3
+    uri: spotify:track:6elAjPoXncpwuQr4fen2P4
+    song: Poison Lips
+    artist: Vitalic
+  - rank: 4
+    uri: spotify:track:7DwgS4noRe9dIie3QPZUWF
+    song: Rumour Mill (feat. Anne-Marie & Will Heard)
+    artist: Rudimental
+  - rank: 5
+    uri: spotify:track:4VJekfh1nKgRFPYhXjwIQM
+    song: Automatic
+    artist: ZHU
+  - rank: 6
+    uri: spotify:track:0idjTHGhGRBdWTmsalq3tF
+    song: Radio
+    artist: Sylvan Esso
+  - rank: 7
+    uri: spotify:track:7HbwANSdBmfQYCBvBZgvqJ
+    song: Crush
+    artist: Campsite Dream
+  - rank: 8
+    uri: spotify:track:3AsJUB7QE3zF5SJJ2GQ0tJ
+    song: Paradise (feat. KANEHOLLER)
+    artist: Cut Snake
+  - rank: 9
+    uri: spotify:track:2auqHGPYKXr5fnHRWKliRi
+    song: Praise You - Maribou State Remix
+    artist: Fatboy Slim
+  - rank: 10
+    uri: spotify:track:04DwTuZ2VBdJCCC5TROn7L
+    song: In the Name of Love
+    artist: Martin Garrix
+  - rank: 11
+    uri: spotify:track:3vRvuatWmKcHhxbv6choLR
+    song: Fiction
+    artist: Kygo
+  - rank: 12
+    uri: spotify:track:0hmY0QQ1VvSdpkBkXI3oOf
+    song: Say a Prayer For Me
+    artist: RÜFÜS
+  - rank: 13
+    uri: spotify:track:6vnDoUOHTiVB5DvX18tJon
+    song: Say It
+    artist: Flume
+  - rank: 14
+    uri: spotify:track:0HJBrdktMripVW4LkyM7Ch
+    song: All Four Walls
+    artist: Gorgon City
+  - rank: 15
+    uri: spotify:track:09zN9QBOHe8795UVOvEtnt
+    song: Go! (feat. Mai Lan)
+    artist: M83
+  - rank: 16
+    uri: spotify:track:6TRcSjbfmCyvjpgZeIoDS5
+    song: Sober
+    artist: DJ Snake
+  - rank: 17
+    uri: spotify:track:60vkPCkZrYUQLRFK4EQwuA
+    song: Divinity
+    artist: Porter Robinson
+  - rank: 18
+    uri: spotify:track:0cOBMETjhxublnnwhbnzJO
+    song: Reality - Radio Edit
+    artist: Lost Frequencies
+  - rank: 19
+    uri: spotify:track:6phyrxHcUpQ1BRZ8yXCUWB
+    song: I Wish (My Taylor Swift)
+    artist: The Knocks
+  - rank: 20
+    uri: spotify:track:06cu3EF2msKUEy0kCaY8tR
+    song: Kiss The Sky (feat. Wyclef Jean)
+    artist: The Knocks
+  - rank: 21
+    uri: spotify:track:5cR7culxUEPLhzIC0KWAH1
+    song: Perdoname
+    artist: Deorro
+  - rank: 22
+    uri: spotify:track:0QsvXIfqM0zZoerQfsI9lm
+    song: Don't Let Me Down
+    artist: The Chainsmokers
+  - rank: 23
+    uri: spotify:track:72YhH7vhboXIoploF0QDcX
+    song: Wine And Chocolates
+    artist: Theophilus London
+  - rank: 24
+    uri: spotify:track:0azC730Exh71aQlOt9Zj3y
+    song: This Is What You Came For
+    artist: Calvin Harris
+  - rank: 25
+    uri: spotify:track:6DNtNfH8hXkqOX1sjqmI7p
+    song: Cold Water (feat. Justin Bieber & MØ)
+    artist: Major Lazer
+  - rank: 26
+    uri: spotify:track:29DwxnpFOLlm1fKZOitwAA
+    song: Physical
+    artist: St. Lucia
+  - rank: 27
+    uri: spotify:track:6ZANrVuAMp2rpjhfbOuJly
+    song: Same Old Love
+    artist: Selena Gomez
+  - rank: 28
+    uri: spotify:track:3cCxoOgfi6hgt8MNteuiiD
+    song: Fade
+    artist: Kanye West
+  - rank: 29
+    uri: spotify:track:4ToVNJYbWJsZO1p7hDYAbt
+    song: One Last Night On Earth
+    artist: Dada Life
+  - rank: 30
+    uri: spotify:track:6fujklziTHa8uoM5OQSfIo
+    song: Black Beatles
+    artist: Rae Sremmurd
+  - rank: 31
+    uri: spotify:track:7KxhSJOYiqCDclXDBNlFSZ
+    song: Kill Em With Kindness
+    artist: Selena Gomez
+  - rank: 32
+    uri: spotify:track:3qaYuV5XZAwiOvGE91HhwS
+    song: Inside the Lines
+    artist: Mike Perry
+  - rank: 33
+    uri: spotify:track:5sLiQeyYWJryW6g0IiWqap
+    song: Waterfalls
+    artist: LVNDSCAPE
+  - rank: 34
+    uri: spotify:track:53Y0kdCa1CZ9gRqEuknfwy
+    song: Bang My Head (feat. Sia & Fetty Wap)
+    artist: David Guetta
+  - rank: 35
+    uri: spotify:track:78rIJddV4X0HkNAInEcYde
+    song: Call On Me - Ryan Riback Extended Remix
+    artist: Starley
+  - rank: 36
+    uri: spotify:track:1liwCzSX7DqdmqS4nJBl5R
+    song: Chunky - Club Mix
+    artist: Format:B
+  - rank: 37
+    uri: spotify:track:1pnwoWbZcS77Dx0jQVYK8X
+    song: Till Sunrise (feat. Mammals)
+    artist: Goldroom
+  - rank: 38
+    uri: spotify:track:1xznGGDReH1oQq0xzbwXa3
+    song: One Dance
+    artist: Drake
+  - rank: 39
+    uri: spotify:track:6KI1ZpZWYAJLvmVhCJz65G
+    song: You Don't Own Me
+    artist: Grace
+  - rank: 40
+    uri: spotify:track:12REd1n8PeiHHWOh066tpr
+    song: Never Be Like You
+    artist: Flume
+  - rank: 41
+    uri: spotify:track:6eT7xZZlB2mwyzJ2sUKG6w
+    song: White Iverson
+    artist: Post Malone
+  - rank: 42
+    uri: spotify:track:4oyWrvyORD6uCSYCLSRF6W
+    song: Powerful (feat. Ellie Goulding & Tarrus Riley)
+    artist: Major Lazer
+  - rank: 43
+    uri: spotify:track:4CtvlvgrkchqW6jb9G3NRu
+    song: Let Me Love You
+    artist: Koni
+  - rank: 44
+    uri: spotify:track:5MoYcbJbvZBgL82kYGY9yh
+    song: Deadly Rhythm (Bobby Green Remix)
+    artist: Tiger La
+  - rank: 45
+    uri: spotify:track:69uxyAqqPIsUyTO8txoP2M
+    song: Adventure Of A Lifetime
+    artist: Coldplay
+  - rank: 46
+    uri: spotify:track:2ZbqLzPVJxwJ5KPVXb3KaL
+    song: Nocturnal
+    artist: Disclosure
+  - rank: 47
+    uri: spotify:track:1vvNmPOiUuyCbgWmtc6yfm
+    song: My Way
+    artist: Calvin Harris
+  - rank: 48
+    uri: spotify:track:5MvNazK0X2D2xqvEUUafNZ
+    song: Closer - Robotaki Remix
+    artist: The Chainsmokers
+  - rank: 49
+    uri: spotify:track:0icXJsRd0hU7mAgNuulESd
+    song: Back 2 U - Breathe Carolina Remix
+    artist: Steve Aoki
+  - rank: 50
+    uri: spotify:track:1Xph5ScMGNnwxTD6lhheZ7
+    song: Girl (Like That)
+    artist: DJ Sub Zero
+  - rank: 51
+    uri: spotify:track:6RknqMdquQhqvMtN2dopMv
+    song: Classic (feat. Fetty Wap & POWERS )
+    artist: The Knocks
+  - rank: 52
+    uri: spotify:track:47uRsTBT1Jb93QSvY5C12O
+    song: Be As You Are - JordanXL Remix
+    artist: Mike Posner
+  - rank: 53
+    uri: spotify:track:02yNbMZjYO8dSvapREJTMZ
+    song: Summer Nights - MOTi Remix
+    artist: Tiësto
+  - rank: 54
+    uri: spotify:track:3ITsXUBPf1rMjE6C1Hzpb6
+    song: Tearing Me Up - RAC Mix
+    artist: Bob Moses
+  - rank: 55
+    uri: spotify:track:6codEgrEs41B6j01nkSIqe
+    song: What I Might Do - Kilter Remix
+    artist: Ben Pearce
+  - rank: 56
+    uri: spotify:track:27GmP9AWRs744SzKcpJsTZ
+    song: Jumpman
+    artist: Drake
+  - rank: 57
+    uri: spotify:track:2dE5PeX0GBLTRyrDVnFnS3
+    song: New York City - Dash Berlin Remix
+    artist: The Chainsmokers
+  - rank: 58
+    uri: spotify:track:2ssO8vh0AzVr5zxumbSO7G
+    song: Make Me... (feat. G-Eazy)
+    artist: Britney Spears
+  - rank: 59
+    uri: spotify:track:27SdWb2rFzO6GWiYDBTD9j
+    song: Cheap Thrills
+    artist: Sia
+  - rank: 60
+    uri: spotify:track:5aAx2yezTd8zXrkmtKl66Z
+    song: Starboy
+    artist: The Weeknd
+  - rank: 61
+    uri: spotify:track:2Vhd5uZB4brKHmM0MNxkZo
+    song: Raging
+    artist: Kygo
+  - rank: 62
+    uri: spotify:track:2KMJ5CoxY4ECG9TZyNWmpv
+    song: Heatwave (feat. Akon)
+    artist: Robin Schulz
+  - rank: 63
+    uri: spotify:track:0L9lXMXddmoBbBUeF7A9An
+    song: Nervous (The Ooh Song) - Mark McCabe Remix
+    artist: Gavin James
+  - rank: 64
+    uri: spotify:track:2cZLzOZgVEv0YXXwOmh54A
+    song: Cold Water - Afrojack Remix
+    artist: Major Lazer
+  - rank: 65
+    uri: spotify:track:2VGTe5PkHOlZuayLYDjtb1
+    song: Imagination
+    artist: Gorgon City
+  - rank: 66
+    uri: spotify:track:11KJSRSgaDxqydKYiD2Jew
+    song: Too Good
+    artist: Drake
+  - rank: 67
+    uri: spotify:track:2MpZratWHtEtJB0qVdJSPN
+    song: Kill V. Maim
+    artist: Grimes
+  - rank: 68
+    uri: spotify:track:3CJvmtWw2bJsudbAC5uCQk
+    song: Hands To Myself
+    artist: Selena Gomez
+  - rank: 69
+    uri: spotify:track:6O8I0ffpEtyMQmMYo0bj4N
+    song: Children
+    artist: Justin Bieber
+  - rank: 70
+    uri: spotify:track:1wHZx0LgzFHyeIZkUydNXq
+    song: Antidote
+    artist: Travis Scott
+  - rank: 71
+    uri: spotify:track:0nMqAzCOdTbB4AtNUe2qZ6
+    song: burning gold - Autograf Remix
+    artist: Christina Perri
+  - rank: 72
+    uri: spotify:track:4vNWSeEhlyIlB9ur17x1S4
+    song: Escape
+    artist: Zimmer
+  - rank: 73
+    uri: spotify:track:19a3JfW8BQwqHWUMbcqSx8
+    song: Famous
+    artist: Kanye West
+  - rank: 74
+    uri: spotify:track:1EIjrLTbmViWvel79WU3cT
+    song: Slow Dance
+    artist: Duke Dumont
+  - rank: 75
+    uri: spotify:track:58hoqlGMs36S1chh21DVOC
+    song: Raincoats
+    artist: Derek Pope
+  - rank: 76
+    uri: spotify:track:6rzcDOL5kIoQlUuZVT72O3
+    song: On My Way
+    artist: Axwell /\ Ingrosso
+  - rank: 77
+    uri: spotify:track:6808fuj56HYDOND2CpyqsT
+    song: Sundream
+    artist: RÜFÜS
+  - rank: 78
+    uri: spotify:track:4NtdkNudAf9vuF9zzpeJiL
+    song: Hot
+    artist: POWERS
+  - rank: 79
+    uri: spotify:track:2XMTqoHHSH0lvuXrvIEdco
+    song: Capsize
+    artist: FRENSHIP
+  - rank: 80
+    uri: spotify:track:40YcuQysJ0KlGQTeGUosTC
+    song: Me, Myself & I
+    artist: G-Eazy
+  - rank: 81
+    uri: spotify:track:5GXAXm5YOmYT0kL5jHvYBt
+    song: I Feel It Coming
+    artist: The Weeknd
+  - rank: 82
+    uri: spotify:track:02r2uE8nEHpJAvFFttQxqh
+    song: Fakin It (feat. Ofelia K)
+    artist: Kaskade
+  - rank: 83
+    uri: spotify:track:0tDC3KJPPu5eonGTtCURpq
+    song: Headlights (feat. Ilsey)
+    artist: Robin Schulz
+  - rank: 84
+    uri: spotify:track:1I8tHoNBFTuoJAlh4hfVVE
+    song: Firestone
+    artist: Kygo
+  - rank: 85
+    uri: spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn
+    song: Stressed Out
+    artist: Twenty One Pilots
+  - rank: 86
+    uri: spotify:track:0cYGoCI1LkAvqGfrSKOudJ
+    song: Good Mistake
+    artist: Mr Little Jeans
+  - rank: 87
+    uri: spotify:track:68EMU2RD1ECNeOeJ5qAXCV
+    song: We Don't Talk Anymore (feat. Selena Gomez)
+    artist: Charlie Puth
+  - rank: 88
+    uri: spotify:track:7vqTfrG1RGX1N12Y89YQQI
+    song: People Grinnin' (feat. The Child Of Lov)
+    artist: NERVO
+  - rank: 89
+    uri: spotify:track:6TjP1C3sGQH1jBfzUXfcMg
+    song: Kamikaze
+    artist: MØ
+  - rank: 90
+    uri: spotify:track:1ZxDfdEIqo2EqoRWgzLtv3
+    song: Move Your Body
+    artist: Sia
+  - rank: 91
+    uri: spotify:track:3uraN2ULHlp53KcspYy4KW
+    song: In Common - Kaskade Radio Mix
+    artist: Alicia Keys
+  - rank: 92
+    uri: spotify:track:6JV2JOEocMgcZxYSZelKcc
+    song: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+    artist: Justin Timberlake
+  - rank: 93
+    uri: spotify:track:00Q6qviIuEgjVhjh2R4HBb
+    song: Just Luv Me
+    artist: Britney Spears
+  - rank: 94
+    uri: spotify:track:0L7loeTIg6akW84aEQZpCT
+    song: Light It Up (feat. Nyla & Fuse ODG) - Remix
+    artist: Major Lazer
+  - rank: 95
+    uri: spotify:track:0qG6Zv5qJuYrUKoG7R1cGO
+    song: Change Your Mind (No Seas Cortes)
+    artist: Britney Spears
+  - rank: 96
+    uri: spotify:track:4pdPtRcBmOSQDlJ3Fk945m
+    song: Let Me Love You
+    artist: DJ Snake
+  - rank: 97
+    uri: spotify:track:3lSDIJ2abCrOdDJ6pshUap
+    song: Close
+    artist: Nick Jonas
+  - rank: 98
+    uri: spotify:track:3p2Im4zXFY7akxecUt51MC
+    song: How I Feel - SCNDL radio mix
+    artist: Flo Rida
+  - rank: 99
+    uri: spotify:track:5tf1VVWniHgryyumXyJM7w
+    song: Sugar (feat. Francesco Yates)
+    artist: Robin Schulz
+  - rank: 100
+    uri: spotify:track:0tICYNayWWhH9GPeFrfjfD
+    song: This Girl (Kungs Vs. Cookin' On 3 Burners) - Kungs Vs. Cookin' On 3 Burners
+    artist: Kungs
+  - rank: 101
+    uri: spotify:track:1eticIiJAJW9FrSUtOtd02
+    song: Dungeon Sound
+    artist: Gramatik
+  - rank: 102
+    uri: spotify:track:5CPqOpKSk0QcJ3dGdaWcRB
+    song: On Hold
+    artist: The xx
+  - rank: 103
+    uri: spotify:track:2pUZgElQxBBTFToVSrluTb
+    song: West Coast - The Young Professionals Minimal Remix
+    artist: Lana Del Rey
+  - rank: 104
+    uri: spotify:track:2FiSTH0GYpIioUgjfzMIja
+    song: Stay
+    artist: Kygo
+  - rank: 105
+    uri: spotify:track:5BIjJP1zlOa3iY65RSkXkr
+    song: Nevada (feat. Cozi Zuehlsdorff)
+    artist: Vicetone
+  - rank: 106
+    uri: spotify:track:0NhcaHA0cyJyhk3g8tUsZP
+    song: Shades Of Grey - Radio Mix
+    artist: Oliver Heldens
+  - rank: 107
+    uri: spotify:track:7uW2fJJ7M1IMqrNXNNTBts
+    song: Go! (feat. Mai Lan) - Animal Collective/Deakin Remix
+    artist: M83
+  - rank: 108
+    uri: spotify:track:1C8LL8IkEnT5BHPrjt6trL
+    song: Under Your Sun
+    artist: Vitalic
+  - rank: 109
+    uri: spotify:track:0AVzhaaOaGgdyXJ2orgfwC
+    song: Obedear
+    artist: Purity Ring
+  - rank: 110
+    uri: spotify:track:2HJQcyUpmUuvzS5vBAICIc
+    song: Working For It - Bonus Track
+    artist: ZHU
+  - rank: 111
+    uri: spotify:track:7CNRVEMSXo0fRJwZyM0L2n
+    song: Hometown Girl
+    artist: ZHU
+  - rank: 112
+    uri: spotify:track:1ADGO7cYmpHc5Wa2My4SDC
+    song: Make Me Like You - RAC Mix
+    artist: Gwen Stefani
+  - rank: 113
+    uri: spotify:track:1U3cOxdUbtGXtZUXQNfM7w
+    song: Si Tu Veux - OkayShades Remix
+    artist: Mumford & Sons
+  - rank: 114
+    uri: spotify:track:7xHWNBFm6ObGEQPaUxHuKO
+    song: The Greatest
+    artist: Sia
+  - rank: 115
+    uri: spotify:track:5jqU57pROq9TmfgGIOcS8O
+    song: Smalltown Memories
+    artist: Ian Storm
+  - rank: 116
+    uri: spotify:track:7gHs73wELdeycvS48JfIos
+    song: Faded
+    artist: Alan Walker
+  - rank: 117
+    uri: spotify:track:51jo9dGS7yOXgQmijjqQuo
+    song: Follow (feat. Sleeper) [Dulsae Remix]
+    artist: Lucian
+  - rank: 118
+    uri: spotify:track:72wEyPLLTeMK5rhku62JwD
+    song: We Are One - Deep Chill Version
+    artist: DJ Assad
+  - rank: 119
+    uri: spotify:track:2rizacJSyD9S1IQUxUxnsK
+    song: All We Know
+    artist: The Chainsmokers
+  - rank: 120
+    uri: spotify:track:4BHzQ9C00ceJxfG16AlNWb
+    song: Send My Love (To Your New Lover)
+    artist: Adele
+  - rank: 121
+    uri: spotify:track:149kdyQwLdqHBjXbbNS7FY
+    song: All I Ever Wanted
+    artist: Michael Brun
+  - rank: 122
+    uri: spotify:track:3u233wjKesroGjTqeCzioS
+    song: Tongues
+    artist: Joywave
+  - rank: 123
+    uri: spotify:track:5cgEadiGKjtTP1Q6NJqVP5
+    song: A-Team
+    artist: Travis Scott
+  - rank: 124
+    uri: spotify:track:6L778PA16SuyYvFhqnMndY
+    song: Starboy - Kygo Remix
+    artist: The Weeknd
+  - rank: 125
+    uri: spotify:track:0BzDQgmeRdA4V71VhfBvXT
+    song: Xanny Family
+    artist: Future
+  - rank: 126
+    uri: spotify:track:4mAmFwWvrLq4PNpLVF0jzN
+    song: Dancing in the Dark
+    artist: Hot Chip
+  - rank: 127
+    uri: spotify:track:63MRutmAXJwkxhMhPHoioS
+    song: Tired of Talking
+    artist: LÉON
+  - rank: 128
+    uri: spotify:track:2WEPtvetw0T4bLOLUtDw5f
+    song: Love Is Real - feat. Holly Miranda [Fred Falke Remix]
+    artist: Theophilus London
+  - rank: 129
+    uri: spotify:track:7jslhIiELQkgW9IHeYNOWE
+    song: Big Rings
+    artist: Drake
+- pid: '701866'
+  playlist_title: Dance
+  tracks:
+  - rank: 1
+    uri: spotify:track:5MV4jKsU2GZX5quAQeAP2e
+    song: Cinema Italiano
+    artist: Kate Hudson
+  - rank: 2
+    uri: spotify:track:4MflGTO2ZTcSQ12bWcyRgI
+    song: Honey, I'm Good.
+    artist: Andy Grammer
+  - rank: 3
+    uri: spotify:track:00BuKLSAFkaEkaVAgIMbeA
+    song: Telephone
+    artist: Lady Gaga
+  - rank: 4
+    uri: spotify:track:6xdLJrVj4vIXwhuG8TMopk
+    song: Crazy Little Thing Called Love - Remastered 2011
+    artist: Queen
+  - rank: 5
+    uri: spotify:track:1v3RJ3mtHllca29JVi12OB
+    song: Singing In The Rain / Umbrella (Glee Cast Version featuring Gwyneth Paltrow)
+    artist: Glee Cast
+  - rank: 6
+    uri: spotify:track:6Rxnq6T6b89rgQaDmzBF0l
+    song: Dance with Me Tonight
+    artist: Olly Murs
+  - rank: 7
+    uri: spotify:track:34IgoDRoFVIcLD8KWwpJv9
+    song: Sin Wagon
+    artist: Dixie Chicks
+  - rank: 8
+    uri: spotify:track:4Bcn4141mxHkAfHxwAzXgl
+    song: Singing In The Rain
+    artist: Gene Kelly
+  - rank: 9
+    uri: spotify:track:4Y1N2sXvHEQbQXS1TIGjTU
+    song: Dirrty - Tracey Young Radio
+    artist: Christina Aguilera
+  - rank: 10
+    uri: spotify:track:3vJG33adGD5Z39Gb6Cnevi
+    song: Mambo No. 5 (A Little Bit of...)
+    artist: Lou Bega
+  - rank: 11
+    uri: spotify:track:6jBCehpNMkwFVF3dz4nLIW
+    song: It's Tricky
+    artist: Run–D.M.C.
+  - rank: 12
+    uri: spotify:track:32OlwWuMpZ6b0aN2RZOeMS
+    song: Uptown Funk
+    artist: Mark Ronson
+  - rank: 13
+    uri: spotify:track:7hCNBVRhHzcsRAv0TQnOzq
+    song: Runaway Baby
+    artist: Bruno Mars
+  - rank: 14
+    uri: spotify:track:1k1Bqnv2R0uJXQN4u6LKYt
+    song: Ain't No Sunshine
+    artist: Bill Withers
+  - rank: 15
+    uri: spotify:track:6kYYtMDDiOwhFbfHp1gG3a
+    song: Time Warp
+    artist: The Rocky Horror Show Original Cast
+  - rank: 16
+    uri: spotify:track:5b88tNINg4Q4nrRbrCXUmg
+    song: Happy - From "Despicable Me 2"
+    artist: Pharrell Williams
+  - rank: 17
+    uri: spotify:track:06dAFXkgM2OGAkGS3CxpEm
+    song: Love Is A Battlefield
+    artist: Pat Benatar
+  - rank: 18
+    uri: spotify:track:3S2R0EVwBSAVMd5UMgKTL0
+    song: Thriller
+    artist: Michael Jackson
+  - rank: 19
+    uri: spotify:track:0B1J7lh3ej57Nk09UYNlrj
+    song: Hotel
+    artist: Cassidy
+  - rank: 20
+    uri: spotify:track:4YR6Dextuoc3I8nJ0XgzKI
+    song: Footloose
+    artist: Kenny Loggins
+  - rank: 21
+    uri: spotify:track:34Jeq8ktRzyOW1uw40InVy
+    song: Uma Thurman
+    artist: Fall Out Boy
+  - rank: 22
+    uri: spotify:track:3uPfVXcjnpOjyzI3jb3js4
+    song: Fly
+    artist: Sugar Ray
+  - rank: 23
+    uri: spotify:track:1gnsCwG6I2w2AKCBSMJnhJ
+    song: Stay (Acoustic)
+    artist: Lisa Loeb
+- pid: '608829'
+  playlist_title: FINESSE
+  tracks:
+  - rank: 1
+    uri: spotify:track:6CfrYuD3YRDYdYvH9jNtXY
+    song: No Long Talk
+    artist: Drake
+  - rank: 2
+    uri: spotify:track:0dA2Mk56wEzDgegdC6R17g
+    song: Stay (with Alessia Cara)
+    artist: Zedd
+  - rank: 3
+    uri: spotify:track:0pSBuHjILhNEo55xK1zrRt
+    song: Rolex
+    artist: Ayo & Teo
+  - rank: 4
+    uri: spotify:track:2EEeOnHehOozLq4aS0n6SL
+    song: iSpy (feat. Lil Yachty)
+    artist: KYLE
+  - rank: 5
+    uri: spotify:track:6UjfByV1lDLW0SOVQA4NAi
+    song: Gyalchester
+    artist: Drake
+  - rank: 6
+    uri: spotify:track:7floNISpH8VF4z4459Qo18
+    song: Look At Me!
+    artist: XXXTENTACION
+  - rank: 7
+    uri: spotify:track:2Na0z2gfN67Rzf0vp74Wi3
+    song: Lose You
+    artist: Drake
+  - rank: 8
+    uri: spotify:track:7yyRTcZmCiyzzJlNzGC9Ol
+    song: Broccoli (feat. Lil Yachty)
+    artist: DRAM
+  - rank: 9
+    uri: spotify:track:0SGkqnVQo9KPytSri1H6cF
+    song: Bounce Back
+    artist: Big Sean
+  - rank: 10
+    uri: spotify:track:1OAh8uOEOvTDqkKFsKksCi
+    song: Wild Thoughts
+    artist: DJ Khaled
+  - rank: 11
+    uri: spotify:track:1Ua3YmoWgi06OaCz6gnpJs
+    song: Bruk Off Yuh Back
+    artist: Konshens
+  - rank: 12
+    uri: spotify:track:4uhvMW7ly7tJil31YYscAN
+    song: Erase Your Social
+    artist: Lil Uzi Vert
+  - rank: 13
+    uri: spotify:track:14RRHdmfjGPhuWBhkl4Ne4
+    song: Ransom
+    artist: A Boogie Wit da Hoodie
+  - rank: 14
+    uri: spotify:track:76gUmNLXGQVOsGhfcshkFP
+    song: Madiba Riddim
+    artist: Drake
+  - rank: 15
+    uri: spotify:track:4NoqvSeTSVWO3vXG5IpdFw
+    song: Meech
+    artist: Young Dolph
+  - rank: 16
+    uri: spotify:track:5de7ci7TFqbQ1PFgKAD7MR
+    song: Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)
+    artist: PnB Rock
+  - rank: 17
+    uri: spotify:track:0VgkVdmE4gld66l8iyGjgx
+    song: Mask Off
+    artist: Future
+  - rank: 18
+    uri: spotify:track:5GXAXm5YOmYT0kL5jHvYBt
+    song: I Feel It Coming
+    artist: The Weeknd
+  - rank: 19
+    uri: spotify:track:6JjEVlMkfHWMeYavkEYzNO
+    song: Gassed Up
+    artist: Nebu Kiniza
+  - rank: 20
+    uri: spotify:track:6RUKPb4LETWmmr3iAEQktW
+    song: Something Just Like This
+    artist: The Chainsmokers
+  - rank: 21
+    uri: spotify:track:6mapJIPnQ23RTAevUoE0DL
+    song: Swang
+    artist: Rae Sremmurd
+  - rank: 22
+    uri: spotify:track:7bJ4mu7MHa3rHiNyKjOoSl
+    song: Ice Melts
+    artist: Drake
+  - rank: 23
+    uri: spotify:track:0BU7nIcCZxYSE0hYcc5oZz
+    song: Too Many Years
+    artist: Kodak Black
+  - rank: 24
+    uri: spotify:track:6oyl7ELfrMqXLhGmIjXY9R
+    song: Lovumba
+    artist: Daddy Yankee
+  - rank: 25
+    uri: spotify:track:0Fv5N0cHBsl4bzCbollCAS
+    song: Moves
+    artist: Big Sean
+  - rank: 26
+    uri: spotify:track:3a1lNhkSLSkpJE4MSHpDu9
+    song: Congratulations
+    artist: Post Malone
+  - rank: 27
+    uri: spotify:track:6fwdbPMwP1zVStm8FybmkO
+    song: X (feat. Future)
+    artist: 21 Savage
+  - rank: 28
+    uri: spotify:track:4aWmUDTfIPGksMNLV2rQP2
+    song: Despacito (Featuring Daddy Yankee)
+    artist: Luis Fonsi
+  - rank: 29
+    uri: spotify:track:2xbI8Vmyv3TkpTdywpPyNw
+    song: Selfish
+    artist: PnB Rock
+  - rank: 30
+    uri: spotify:track:2bjwRfXMk4uRgOD9IBYl9h
+    song: Portland
+    artist: Drake
+  - rank: 31
+    uri: spotify:track:72jbDTw1piOOj770jWNeaG
+    song: Paris
+    artist: The Chainsmokers
+  - rank: 32
+    uri: spotify:track:6QKz423CIaX2Kcb0QpAhCc
+    song: Dejavu
+    artist: Peewee Longway
+  - rank: 33
+    uri: spotify:track:7y6c07pgjZvtHI9kuMVqk1
+    song: Get It Together
+    artist: Drake
+  - rank: 34
+    uri: spotify:track:5kyd6oKvKmj6mWCaAaHoN4
+    song: Privacy
+    artist: Chris Brown
+  - rank: 35
+    uri: spotify:track:5J5PXmMdQ2nh1lZOal8KmK
+    song: Litty (feat. Tory Lanez)
+    artist: Meek Mill
+  - rank: 36
+    uri: spotify:track:6canmpFnLHVUzvVWAodifz
+    song: There He Go
+    artist: Kodak Black
+  - rank: 37
+    uri: spotify:track:0ESJlaM8CE1jRWaNtwSNj8
+    song: beibs in the trap
+    artist: Travis Scott
+  - rank: 38
+    uri: spotify:track:05KOgYg8PGeJyyWBPi5ja8
+    song: Free Smoke
+    artist: Drake
+  - rank: 39
+    uri: spotify:track:5aAx2yezTd8zXrkmtKl66Z
+    song: Starboy
+    artist: The Weeknd
+  - rank: 40
+    uri: spotify:track:0v9Wz8o0BT8DU38R4ddjeH
+    song: No Problem (feat. Lil Wayne & 2 Chainz)
+    artist: Chance The Rapper
+  - rank: 41
+    uri: spotify:track:5XTIGcdUxuJA0m1Rxa6D6I
+    song: Came Up - Casper & B. Remix
+    artist: Flosstradamus
+  - rank: 42
+    uri: spotify:track:21TdkDRXuAB3k90ujRU1et
+    song: Cold (feat. Future)
+    artist: Maroon 5
+  - rank: 43
+    uri: spotify:track:0dbZ2iUuKvsm3FupBw6M9N
+    song: Lonely
+    artist: Speaker Knockerz
+  - rank: 44
+    uri: spotify:track:5knuzwU65gJK7IF5yJsuaW
+    song: Rockabye (feat. Sean Paul & Anne-Marie)
+    artist: Clean Bandit
+  - rank: 45
+    uri: spotify:track:7GX5flRQZVHRAGd6B4TmDO
+    song: XO TOUR Llif3
+    artist: Lil Uzi Vert
+  - rank: 46
+    uri: spotify:track:1UZ25gykR30Oewh3dBRtVZ
+    song: Only
+    artist: Nicki Minaj
+  - rank: 47
+    uri: spotify:track:4Q3N4Ct4zCuIHuZ65E3BD4
+    song: Tunnel Vision
+    artist: Kodak Black
+  - rank: 48
+    uri: spotify:track:3VgLQi51JI6avrVmP9lL4B
+    song: SUBEME LA RADIO REMIX
+    artist: Enrique Iglesias
+  - rank: 49
+    uri: spotify:track:3eR23VReFzcdmS7TYCrhCe
+    song: It Ain't Me (with Selena Gomez)
+    artist: Kygo
+  - rank: 50
+    uri: spotify:track:4STaHtfguDMkWbPEo6Fwcx
+    song: Not Nice
+    artist: PARTYNEXTDOOR
+  - rank: 51
+    uri: spotify:track:7KOlJ92bu51cltsD9KU5I7
+    song: T-Shirt
+    artist: Migos
+  - rank: 52
+    uri: spotify:track:7EoSDrwBPUBeBEORrpvgko
+    song: Water
+    artist: Ugly God
+  - rank: 53
+    uri: spotify:track:7KXjTSCq5nL1LoYtL7XAwS
+    song: HUMBLE.
+    artist: Kendrick Lamar
+  - rank: 54
+    uri: spotify:track:7qiZfU4dY1lWllzX7mPBI3
+    song: Shape of You
+    artist: Ed Sheeran
+  - rank: 55
+    uri: spotify:track:5PfTI3zrQbZEWcQdycMqJM
+    song: Gang Up (with Young Thug, 2 Chainz & Wiz Khalifa feat. PnB Rock)
+    artist: Young Thug
+- pid: '273344'
+  playlist_title: Oldies
+  tracks:
+  - rank: 1
+    uri: spotify:track:43xxfVyOeF3dwKfnzZgq5S
+    song: Ribbon In The Sky - 1982 Musiquarium Version
+    artist: Stevie Wonder
+  - rank: 2
+    uri: spotify:track:1WtkrKWpfFx75erK1VqtQh
+    song: Tender Love
+    artist: Force M.D.'s
+  - rank: 3
+    uri: spotify:track:3jAfdWvk1S4uv1nl2pt0Nl
+    song: I Apologize [Single Version]
+    artist: Anita Baker
+  - rank: 4
+    uri: spotify:track:1MQWtVcs0PKsY4PA6ZvLiy
+    song: Dance to the Music
+    artist: Sly & The Family Stone
+  - rank: 5
+    uri: spotify:track:0G3fbPbE1vGeABDEZF0jeG
+    song: Good Times
+    artist: CHIC
+  - rank: 6
+    uri: spotify:track:4nKPgKXfFiPW7cNex5oDtt
+    song: Secret Lovers
+    artist: Atlantic Starr
+  - rank: 7
+    uri: spotify:track:3VZmChrnVW8JK6ano4gSED
+    song: Sexual Healing
+    artist: Marvin Gaye
+  - rank: 8
+    uri: spotify:track:2p4WnpR3H16ywshkL2Fp1n
+    song: If Only for One Night
+    artist: Luther Vandross
+  - rank: 9
+    uri: spotify:track:60ijzJRo70XLwAEaX6y0eZ
+    song: Just To Be Close To You
+    artist: Commodores
+  - rank: 10
+    uri: spotify:track:5gys5nzVQIYhgHIfiOJYva
+    song: Take It On the Run - Remastered
+    artist: REO Speedwagon
+  - rank: 11
+    uri: spotify:track:3cfnGXJ9bmiWvFqEO6ff8B
+    song: After the Love Has Gone
+    artist: Earth, Wind & Fire
+  - rank: 12
+    uri: spotify:track:4qkglSxHxDdW8cR16GajYg
+    song: You're The First, The Last, My Everything
+    artist: Barry White
+  - rank: 13
+    uri: spotify:track:1qiQduM84A0VeH8Y2uAbqi
+    song: That's The Way (I Like It) - 2004 Remastered Version
+    artist: KC & The Sunshine Band
+  - rank: 14
+    uri: spotify:track:0PC7fOrZZaQEdCVB2ohBJy
+    song: No One In The World
+    artist: Anita Baker
+  - rank: 15
+    uri: spotify:track:1NeKY4qWsCnhY8fvhwQa7q
+    song: Didn't I (Blow Your Mind This Time)
+    artist: The Delfonics
+  - rank: 16
+    uri: spotify:track:1nh8sw0ZDlNbjXTGutpxwl
+    song: Living For The City
+    artist: Stevie Wonder
+  - rank: 17
+    uri: spotify:track:0k3fBeBIcok5gbYQyQbxP5
+    song: All I Do
+    artist: Stevie Wonder
+  - rank: 18
+    uri: spotify:track:7HRgVBfRlBC4WGW07r1k1h
+    song: Close the Door
+    artist: Teddy Pendergrass
+  - rank: 19
+    uri: spotify:track:1KLfkMgmI2WZRe4IRGW019
+    song: Would You Mind
+    artist: Earth, Wind & Fire
+  - rank: 20
+    uri: spotify:track:2BydLQAh7CUIFvSEqAMc4x
+    song: If You Want Me to Stay
+    artist: Sly & The Family Stone
+  - rank: 21
+    uri: spotify:track:0ju1jP0cSPJ8tmojYBEI89
+    song: Danny's Song
+    artist: Loggins & Messina
+  - rank: 22
+    uri: spotify:track:4UjeXiBihLSc7WFECGFkmJ
+    song: Knocks Me Off My Feet
+    artist: Stevie Wonder
+  - rank: 23
+    uri: spotify:track:1Ar7REYoVT8WywqcxMG5yX
+    song: Hope That We Can Be Together Soon
+    artist: Harold Melvin
+  - rank: 24
+    uri: spotify:track:5x4CCazQ7mwfCISCK1LdXO
+    song: You Bring Me Joy
+    artist: Anita Baker
+  - rank: 25
+    uri: spotify:track:1k1Bqnv2R0uJXQN4u6LKYt
+    song: Ain't No Sunshine
+    artist: Bill Withers
+  - rank: 26
+    uri: spotify:track:6HMvJcdw6qLsyV1b5x29sa
+    song: Hello
+    artist: Lionel Richie
+  - rank: 27
+    uri: spotify:track:2ssAFRkJ96g1zezeFLUMLA
+    song: Let's Get Closer
+    artist: Atlantic Starr
+  - rank: 28
+    uri: spotify:track:1qfDfZAvrkSAFrAR2FTQDv
+    song: Grandma's Hands
+    artist: Bill Withers
+  - rank: 29
+    uri: spotify:track:7H2hjTOsebKijBFaHeGo24
+    song: Use ta Be My Girl
+    artist: The O'Jays
+  - rank: 30
+    uri: spotify:track:4Zvz7QYQVibV3DZaw9LbKO
+    song: Giving Up
+    artist: Donny Hathaway
+  - rank: 31
+    uri: spotify:track:5oDM9YSQIlhuWa0awHF4Z2
+    song: I'd Rather
+    artist: Luther Vandross
+  - rank: 32
+    uri: spotify:track:2QRR9j7uTyK4nvt7lt5qOB
+    song: Tell Me If You Still Care
+    artist: The S.O.S Band
+  - rank: 33
+    uri: spotify:track:40QPoAAKKMwPms6I6FHJqy
+    song: Give It Up
+    artist: KC & The Sunshine Band
+  - rank: 34
+    uri: spotify:track:3QEkTxcsLUPfE33cRZ4y2K
+    song: Let's Stay Together
+    artist: Al Green
+  - rank: 35
+    uri: spotify:track:2X4H5K1aT6d7UyPWVfJWmF
+    song: Forever Mine
+    artist: The O'Jays
+  - rank: 36
+    uri: spotify:track:5W5FVsgGCe3T9nIMkiXqNo
+    song: Sing a Song
+    artist: Earth, Wind & Fire
+  - rank: 37
+    uri: spotify:track:2fH13RdhsEIc11X0o9enUX
+    song: If Only You Knew
+    artist: Patti LaBelle
+  - rank: 38
+    uri: spotify:track:51FpzuGkRYXFgsE2zXt9av
+    song: When A Man Loves A Woman
+    artist: Percy Sledge
+  - rank: 39
+    uri: spotify:track:21hgDlmFHhit010lsbkNln
+    song: Ain't Nothing Like The Real Thing
+    artist: Marvin Gaye
+  - rank: 40
+    uri: spotify:track:1WbEcu3vHKG4kzWyktJymA
+    song: I Want To Be Free
+    artist: Ohio Players
+  - rank: 41
+    uri: spotify:track:0pu8DQu3XlzJsMUMVCYY27
+    song: Ring My Bell
+    artist: Les tubes du nouvel an
+  - rank: 42
+    uri: spotify:track:0u2CGItUO2jYEiFaXD7n5S
+    song: Wishing On A Star
+    artist: Rose Royce
+  - rank: 43
+    uri: spotify:track:5cltWPM1GjCEShVZiz4cD3
+    song: Creepin'
+    artist: Luther Vandross
+  - rank: 44
+    uri: spotify:track:65jrjEhWfAvysKfnojk1i0
+    song: Under The Boardwalk - Single/LP Version
+    artist: The Drifters
+  - rank: 45
+    uri: spotify:track:1qGPpVGFTjZnKy5VoMd5ra
+    song: Family Reunion
+    artist: The O'Jays
+  - rank: 46
+    uri: spotify:track:2GZe8LsPldakpQy5T8151f
+    song: Don't Ask My Neighbors
+    artist: The Emotions
+  - rank: 47
+    uri: spotify:track:6aKFAhG7hCy71wLDMKjP5G
+    song: In The Rain
+    artist: The Dramatics
+  - rank: 48
+    uri: spotify:track:5dC8atyDVlDu0SLENTCgHT
+    song: Hot Fun in the Summertime
+    artist: Sly & The Family Stone
+  - rank: 49
+    uri: spotify:track:27m1soUndRthrAA1ediOXn
+    song: I Heard It Through The Grapevine
+    artist: Marvin Gaye
+  - rank: 50
+    uri: spotify:track:5NClMXEhSzCtO2PGxGqqQk
+    song: Do I Do - Single Version
+    artist: Stevie Wonder
+  - rank: 51
+    uri: spotify:track:7cLkQkC9Z7hnN767rfRl5G
+    song: Working My Way Back to You
+    artist: The Spinners
+  - rank: 52
+    uri: spotify:track:7btm9qaHryUxUcTt8HiQzx
+    song: The Message (Re-Recorded)
+    artist: Grandmaster Flash & The Furious Five
+  - rank: 53
+    uri: spotify:track:0beQcohVG4esViE05oVUZx
+    song: T.K.O.
+    artist: Womack & Womack
+  - rank: 54
+    uri: spotify:track:04pwMsaIQlhwVFst7ttivM
+    song: For You to Love
+    artist: Luther Vandross
+  - rank: 55
+    uri: spotify:track:1HdNTlZrGTlgxDn31GB6Sv
+    song: Inside My Love - Digitally Remastered 93
+    artist: Minnie Riperton
+  - rank: 56
+    uri: spotify:track:2qRpAQoH3aaDTppBN7j0JL
+    song: Love's In Need Of Love Today
+    artist: Stevie Wonder
+  - rank: 57
+    uri: spotify:track:1VKPiQJnV15flF5B3zeocD
+    song: You Dropped A Bomb On Me
+    artist: The Gap Band
+  - rank: 58
+    uri: spotify:track:2NsVzUzQLSJQydEoLS1v7f
+    song: Never, Never Gonna Give Ya Up
+    artist: Barry White
+  - rank: 59
+    uri: spotify:track:1tL5a9jowsWMtn3wkFYsG9
+    song: Footsteps in the Dark, Pts. 1 & 2
+    artist: The Isley Brothers
+  - rank: 60
+    uri: spotify:track:1xjR98caFMyxOlXkvj56ZK
+    song: Superstar
+    artist: Luther Vandross
+  - rank: 61
+    uri: spotify:track:1OsCKwNZxph96EkNusILRy
+    song: Get Down On It - Single Version
+    artist: Kool & The Gang
+  - rank: 62
+    uri: spotify:track:5BoaEjuqhGixnIM4yMaL2v
+    song: Don't Stop (Thinking About Tomorrow)
+    artist: The Hit Crew
+  - rank: 63
+    uri: spotify:track:13kCzuXquOJ9Un8piPp5X3
+    song: Love TKO (Re-Recorded / Remastered)
+    artist: Teddy Pendergrass
+  - rank: 64
+    uri: spotify:track:79Qlk33OpmjfF9rKmmUsVk
+    song: There'll Never Be
+    artist: Switch
+  - rank: 65
+    uri: spotify:track:03eVpHrGANUcDXDGRXFgGr
+    song: '''Cause I Love You'
+    artist: Lenny Williams
+  - rank: 66
+    uri: spotify:track:6HZKlK1mDDBsILMoNNncxL
+    song: I Want Your Love
+    artist: CHIC
+  - rank: 67
+    uri: spotify:track:2GEDd9qtGXU7IvGgqTF6Uj
+    song: I'm Still in Love with You
+    artist: Al Green
+  - rank: 68
+    uri: spotify:track:1tjpccwiGZTMDfHr5VGCmT
+    song: I Wish It Would Rain
+    artist: The Temptations
+  - rank: 69
+    uri: spotify:track:4K73AvANSQiQQAMdL76V3H
+    song: Lady (You Bring Me Up)
+    artist: Commodores
+  - rank: 70
+    uri: spotify:track:2gSBJPEjYoj6UhsI25TC8r
+    song: I Miss You
+    artist: Harold Melvin & The Blue Notes
+  - rank: 71
+    uri: spotify:track:7IljDTNkQEyy77CcaRbiAj
+    song: Endless Love
+    artist: Luther Vandross
+  - rank: 72
+    uri: spotify:track:1mqlc0vEP9mU1kZgTi6LIQ
+    song: September
+    artist: Earth, Wind & Fire
+  - rank: 73
+    uri: spotify:track:1RG0HipdMCcaW9xJjyKiUb
+    song: Can't Get Enough Of Your Love, Babe
+    artist: Barry White
+  - rank: 74
+    uri: spotify:track:0E8XhpMbatamPEhqwSJ5dp
+    song: For the Love of Money
+    artist: The O'Jays
+  - rank: 75
+    uri: spotify:track:7n4Cj5mMrvnamItq9kEvQU
+    song: Body And Soul - Radio Edit
+    artist: Anita Baker
+  - rank: 76
+    uri: spotify:track:3J6XkNehF8ZoiGgnv5zjMo
+    song: Wake up Everybody
+    artist: Harold Melvin & The Blue Notes
+  - rank: 77
+    uri: spotify:track:37d8O4cIq36tssCoJnhJxg
+    song: Boogie Shoes - 2004 Remastered Version
+    artist: KC & The Sunshine Band
+  - rank: 78
+    uri: spotify:track:4twhYPDyCP6ICeW3TtQVxP
+    song: Lovin' You - 1993 Digital Remaster
+    artist: Minnie Riperton
+  - rank: 79
+    uri: spotify:track:6LqiE1yBBf9IuTxaTpTyiF
+    song: Kissing You
+    artist: Keith Washington
+  - rank: 80
+    uri: spotify:track:1XUwdqsn0iUcDb7gJeVOXB
+    song: Never Can Say Goodbye
+    artist: Isaac Hayes
+  - rank: 81
+    uri: spotify:track:7J1QT8dHZhm2AmLo2j1q5a
+    song: Everybody Is a Star - single master
+    artist: Sly & The Family Stone
+  - rank: 82
+    uri: spotify:track:6K8SnssaN76IpeKWpRxhJ7
+    song: Zoom - Extended Version
+    artist: Commodores
+  - rank: 83
+    uri: spotify:track:0JKaS08AK6NE6HRgNO80j9
+    song: When Somebody Loves You Back
+    artist: Teddy Pendergrass
+  - rank: 84
+    uri: spotify:track:59fcN9yQ1TKN3qRXolw5FQ
+    song: I Wanna Get Next To You
+    artist: Rose Royce
+  - rank: 85
+    uri: spotify:track:68WCHvnx4IPkzvgEyHXkGD
+    song: Turn off the Lights
+    artist: Teddy Pendergrass
+  - rank: 86
+    uri: spotify:track:2yd0XI7g0BhAgY9GkpPClU
+    song: Outstanding
+    artist: The Gap Band
+  - rank: 87
+    uri: spotify:track:4BNhasx75KbS10jHq3VZTz
+    song: That's the Way of the World
+    artist: Earth, Wind & Fire
+  - rank: 88
+    uri: spotify:track:0bRXwKfigvpKZUurwqAlEh
+    song: Lovely Day
+    artist: Bill Withers
+  - rank: 89
+    uri: spotify:track:7cDzJyC95jtGO9zAeZsWOg
+    song: Kiss on My List - Remastered
+    artist: Daryl Hall & John Oates
+  - rank: 90
+    uri: spotify:track:5n1A3VxqT4VcNez4Ah6dSu
+    song: Got To Give It Up (Part 1)
+    artist: Marvin Gaye
+  - rank: 91
+    uri: spotify:track:3SI3Xr1Pgkumam937LYDrG
+    song: Break Up To Make Up
+    artist: The Stylistics
+  - rank: 92
+    uri: spotify:track:5o0dCRWrS6Z91qCBY9l8FR
+    song: More Than A Woman
+    artist: Tavares
+  - rank: 93
+    uri: spotify:track:3rOn5UBD55bCqQcdb9RpCl
+    song: Come Go with Me
+    artist: Teddy Pendergrass
+  - rank: 94
+    uri: spotify:track:6igsoAR6Co9u7Rq3U7mlOD
+    song: Hollywood Swinging
+    artist: Kool & The Gang
+  - rank: 95
+    uri: spotify:track:4zEy6bU2BeB4cDDFM62pfd
+    song: We Are One (feat. Frankie Beverly) [2004 - Remastered]
+    artist: Maze
+  - rank: 96
+    uri: spotify:track:5dFoWIiJ2814hRwMYDcFiU
+    song: She's Gone
+    artist: Daryl Hall & John Oates
+  - rank: 97
+    uri: spotify:track:1piX68vNesm5gA3ZRM3z6Y
+    song: Night Time Is The Right Time
+    artist: Ray Charles
+  - rank: 98
+    uri: spotify:track:2DPH3UGWSTR06kyIDkPT2K
+    song: Got to Get You Into My Life
+    artist: Earth, Wind & Fire
+  - rank: 99
+    uri: spotify:track:01PsasDr6ZvYDL3HaLCX6y
+    song: Ain't No Stoppin' Us Now
+    artist: Harold Melvin
+  - rank: 100
+    uri: spotify:track:6RrXd9Hph4hYR4bf3dbM6H
+    song: My Girl
+    artist: The Temptations
+  - rank: 101
+    uri: spotify:track:5jFK9FcQgT8JccZQYkquED
+    song: Feel the Fire
+    artist: Teddy Pendergrass
+  - rank: 102
+    uri: spotify:track:2M2WJ7gBlcKNxdhyfPp9zY
+    song: Best of My Love
+    artist: The Emotions
+  - rank: 103
+    uri: spotify:track:3ADeYza7k9eaeApllmNDGm
+    song: Sensuality, Pts. 1 & 2
+    artist: The Isley Brothers
+  - rank: 104
+    uri: spotify:track:1c5KZhtOAOH7eFOlBekNhS
+    song: I Like It
+    artist: DeBarge
+  - rank: 105
+    uri: spotify:track:0rBE1vtsEvCrZKuTHD441j
+    song: Love You To The Letter
+    artist: Anita Baker
+  - rank: 106
+    uri: spotify:track:2qVZpGu1v98tvUAutqyAfJ
+    song: Get Down Tonight - 2004 Remastered Version
+    artist: KC & The Sunshine Band
+  - rank: 107
+    uri: spotify:track:09kEUjIvixNShjfl3YoyWo
+    song: Simply Beautiful
+    artist: Al Green
+  - rank: 108
+    uri: spotify:track:1C54Drpr31IjGjm9pywVuY
+    song: 'Angel [Single Version #2]'
+    artist: Anita Baker
+  - rank: 109
+    uri: spotify:track:5VJjhHyG8NZ5xdgG6uTb3P
+    song: Brick House
+    artist: Commodores
+  - rank: 110
+    uri: spotify:track:36AlMHDBFwSsD3FQOy1R81
+    song: Try A Little Tenderness
+    artist: Otis Redding
+  - rank: 111
+    uri: spotify:track:676Rf0qIOh2gKNEl9TnCOx
+    song: Get Ready
+    artist: The Temptations
+  - rank: 112
+    uri: spotify:track:54K7o2yNOMZYCtEDnfD6wI
+    song: (If Loving You Is Wrong) I Don't Want to Be Right
+    artist: Luther Ingram
+  - rank: 113
+    uri: spotify:track:74BKHbPI93o7Vi2mmRo86q
+    song: Overjoyed
+    artist: Stevie Wonder
+  - rank: 114
+    uri: spotify:track:7av4raprzW2bWdjyAaH3hz
+    song: What's Going On
+    artist: Marvin Gaye
+  - rank: 115
+    uri: spotify:track:6kZFIsYCBeuH0f1zGk1UoM
+    song: Simple Man
+    artist: Lynyrd Skynyrd
+  - rank: 116
+    uri: spotify:track:2MJl8m9AbWgXLq4Ku7wWCX
+    song: Good Love
+    artist: Anita Baker
+  - rank: 117
+    uri: spotify:track:4zufOBl1lgLkq4b1cOx6mu
+    song: Send For Me
+    artist: Atlantic Starr
+  - rank: 118
+    uri: spotify:track:27rziMe1UuWlfPvZvoKg7t
+    song: I Love Music
+    artist: The O'Jays
+  - rank: 119
+    uri: spotify:track:1ko2lVN0vKGUl9zrU0qSlT
+    song: Just The Two Of Us (feat. Bill Withers)
+    artist: Grover Washington, Jr.
+  - rank: 120
+    uri: spotify:track:00jusKdEnHrRUmXIddEsd0
+    song: Yearning For Your Love
+    artist: The Gap Band
+  - rank: 121
+    uri: spotify:track:390CBmKanuklnhcBrAR77t
+    song: Happy Feelings - Feat. Frankie Beverly
+    artist: Maze
+  - rank: 122
+    uri: spotify:track:2BABTeUx608FA8b47bDuLK
+    song: So Amazing
+    artist: Luther Vandross
+  - rank: 123
+    uri: spotify:track:63CHa6rmamv9OsehkRD8oz
+    song: Against All Odds (Take A Look At Me Now) - 2016 Remastered
+    artist: Phil Collins
+  - rank: 124
+    uri: spotify:track:3nFJbZCHP4d9vduKjJLdBL
+    song: Never Too Much
+    artist: Luther Vandross
+  - rank: 125
+    uri: spotify:track:6Udg88zGCFc2xA9M4EavzH
+    song: My Cherie Amour
+    artist: Stevie Wonder
+  - rank: 126
+    uri: spotify:track:5Q30xdABnojqN3wBIhrsQp
+    song: Everybody Hurts
+    artist: R.E.M.
+  - rank: 127
+    uri: spotify:track:1DEI0amdbd2i5hTs3fXtfs
+    song: I Call Your Name - 12" Version
+    artist: Switch
+  - rank: 128
+    uri: spotify:track:3zBhihYUHBmGd2bcQIobrF
+    song: (Sittin' On) The Dock Of The Bay
+    artist: Otis Redding
+  - rank: 129
+    uri: spotify:track:6EOdY7I7Xm1vPP1cyaGbWZ
+    song: Ain't No Stoppin' Us Now
+    artist: McFadden & Whitehead
+  - rank: 130
+    uri: spotify:track:4gRA0i5sxx3jAhHaVjPnUN
+    song: Use Me
+    artist: Bill Withers
+  - rank: 131
+    uri: spotify:track:64UioB4Nmwgn2f4cbIpAkl
+    song: It's Still Rock and Roll to Me
+    artist: Billy Joel
+  - rank: 132
+    uri: spotify:track:4U56tPiieRb4eX71etaT0m
+    song: I Don't Know Why
+    artist: Stevie Wonder
+  - rank: 133
+    uri: spotify:track:3YdKJzcoMZMacISlpY4QoP
+    song: I Only Have Eyes For You
+    artist: The Flamingos
+  - rank: 134
+    uri: spotify:track:6HHlyBUx4YGVE95GF0orTe
+    song: Am I Dreaming
+    artist: Atlantic Starr
+  - rank: 135
+    uri: spotify:track:2vLaES21zwbX1Rnmj56Bbb
+    song: I'll Be Around
+    artist: The Spinners
+  - rank: 136
+    uri: spotify:track:2gliw3L0oa4w8LqaHploje
+    song: Cruisin'
+    artist: Smokey Robinson
+  - rank: 137
+    uri: spotify:track:6Ycf7Ch2VlEKlORbz7yfpJ
+    song: Sweet Love
+    artist: Anita Baker
+  - rank: 138
+    uri: spotify:track:2GBYWH1FHy0MjKD0ep2t2Y
+    song: Endless Love - From "The Endless Love" Soundtrack
+    artist: Lionel Richie
+  - rank: 139
+    uri: spotify:track:2uMqG8w8oi09fB2YA2QLOm
+    song: Summer Madness
+    artist: Kool & The Gang
+  - rank: 140
+    uri: spotify:track:0wncUWg5piLmDhn8wry8jM
+    song: Three Times A Lady
+    artist: Commodores
+  - rank: 141
+    uri: spotify:track:3ApIYu95WxjzpQCnsLBbrv
+    song: Between the Sheets
+    artist: The Isley Brothers
+  - rank: 142
+    uri: spotify:track:7KvkB61JnNKsCUDOMrqVcJ
+    song: Betcha By Golly, Wow
+    artist: The Stylistics
+  - rank: 143
+    uri: spotify:track:7hzY0LHz8KdEr1PowHhbdu
+    song: Shake Your Groove Thing
+    artist: Peaches & Herb
+  - rank: 144
+    uri: spotify:track:45iQcSIJBgJkD2YI4XhXV2
+    song: Anyone Who Had a Heart
+    artist: Luther Vandross
+  - rank: 145
+    uri: spotify:track:28NBmftocOzTPEb6OYA9fW
+    song: Le Freak
+    artist: CHIC
+  - rank: 146
+    uri: spotify:track:5KMUW701ltmassde86gWGd
+    song: You Are Everything
+    artist: The Stylistics
+  - rank: 147
+    uri: spotify:track:5frNlTNNuWYnpIp0Expenu
+    song: Early In The Morning - 12" Version
+    artist: The Gap Band
+  - rank: 148
+    uri: spotify:track:7zrPswSV1yxrill5OyCuaU
+    song: Pusherman
+    artist: Curtis Mayfield
+  - rank: 149
+    uri: spotify:track:6DVOThiin61bmeIwf6fzGx
+    song: Don't Say Goodnight (It's Time for Love), Pts. 1 & 2
+    artist: The Isley Brothers
+  - rank: 150
+    uri: spotify:track:1PIgcyfWEVxSZ4LWdrRye3
+    song: If You Don't Know Me by Now
+    artist: Harold Melvin & The Blue Notes
+  - rank: 151
+    uri: spotify:track:042pmCix7CPth3l3X28jl1
+    song: Here and Now
+    artist: Luther Vandross
+  - rank: 152
+    uri: spotify:track:09Redp0z2ZsZGyJrBqhklP
+    song: I Just Called To Say I Love You - Single Version
+    artist: Stevie Wonder
+  - rank: 153
+    uri: spotify:track:1Epi7F7o1i0JRG49swvUWJ
+    song: Now That We Found Love
+    artist: The O'Jays
+  - rank: 154
+    uri: spotify:track:13mXFvyRyjfIjnag95Rnug
+    song: You Are The Sunshine Of My Life
+    artist: Stevie Wonder
+  - rank: 155
+    uri: spotify:track:2BvBND9pWHh0EDUgcEdXfy
+    song: If You Asked Me To - Single Version
+    artist: Patti LaBelle
+  - rank: 156
+    uri: spotify:track:6BixR2rv0aozttgKLDlC5s
+    song: Any Love
+    artist: Luther Vandross
+  - rank: 157
+    uri: spotify:track:28285KFbyCq8sJofn58qlD
+    song: Love Train
+    artist: The O'Jays
+  - rank: 158
+    uri: spotify:track:4FgHURAh8kHbMCQJJ37Etc
+    song: Brandy
+    artist: The O'Jays
+  - rank: 159
+    uri: spotify:track:5FFaUuv02cSOcqtlzPnHee
+    song: Love's Theme
+    artist: The Love Unlimited Orchestra
+  - rank: 160
+    uri: spotify:track:4gFVTfg1EFuuXJguJe1Z7W
+    song: A House Is Not a Home
+    artist: Luther Vandross
+  - rank: 161
+    uri: spotify:track:0tHEWp4OBoenn2FGmx81V5
+    song: Power of Love (Love Power) - Original
+    artist: Luther Vandross
+  - rank: 162
+    uri: spotify:track:5uLdj5dYGSmIBRPPrVAUKj
+    song: Oh Girl
+    artist: The Chi-Lites / The Whispers
+  - rank: 163
+    uri: spotify:track:1MI8aQJAoaYhIaVNz5giKB
+    song: Hey There Lonely Girl
+    artist: Eddie Holman
+  - rank: 164
+    uri: spotify:track:3koCCeSaVUyrRo3N2gHrd8
+    song: Let's Groove
+    artist: Earth, Wind & Fire
+  - rank: 165
+    uri: spotify:track:3WxRSeKLw77j7I7oU3KXlg
+    song: That Girl
+    artist: Stevie Wonder
+  - rank: 166
+    uri: spotify:track:6GI7PZvhF3VAjb6qAfUTwi
+    song: Let Me Make Love To You
+    artist: The O'Jays
+  - rank: 167
+    uri: spotify:track:5i0urffBRKl09GSX2Jhdeh
+    song: Could It Be I'm Falling In Love
+    artist: The Spinners
+  - rank: 168
+    uri: spotify:track:1dQOMZz9SkT7ig0w65lQWC
+    song: This Year's Love
+    artist: David Gray
+  - rank: 169
+    uri: spotify:track:1sCIUw34SKhOxgh9h5RxaN
+    song: Shining Star
+    artist: The Manhattans
+  - rank: 170
+    uri: spotify:track:23IK8TF2MSiLnuEjaYPfVV
+    song: Nightshift
+    artist: Commodores
+  - rank: 171
+    uri: spotify:track:6SMHgPgNkhe9lneNTbgtel
+    song: Love and Happiness
+    artist: Al Green
+  - rank: 172
+    uri: spotify:track:7gfh3jwjaSmGlB40uTMSeE
+    song: Reunited
+    artist: Peaches & Herb
+  - rank: 173
+    uri: spotify:track:6ztstiyZL6FXzh4aG46ZPD
+    song: Boogie Wonderland
+    artist: Earth, Wind & Fire
+  - rank: 174
+    uri: spotify:track:5wiu4PUC6CLNNbC48vqGOb
+    song: Celebration
+    artist: Kool & The Gang
+  - rank: 175
+    uri: spotify:track:5gUk26spbkbYgXmDTMbW3C
+    song: Going In Circles
+    artist: The Friends Of Distinction
+  - rank: 176
+    uri: spotify:track:0RgcOUQg4qYAEt9RIdf3oB
+    song: Shining Star
+    artist: Earth, Wind & Fire
+  - rank: 177
+    uri: spotify:track:7wcP2Aa2SliFhwi4SyfvfV
+    song: Summer Breeze, Pts. 1 & 2
+    artist: The Isley Brothers
+  - rank: 178
+    uri: spotify:track:4o6BgsqLIBViaGVbx5rbRk
+    song: You Make My Dreams - Remastered
+    artist: Daryl Hall & John Oates
+  - rank: 179
+    uri: spotify:track:2JdM4xPoCuHrMzOGQrMUBj
+    song: Sunny
+    artist: Bobby Hebb
+  - rank: 180
+    uri: spotify:track:724NA4IWLsHEcSzkZSTQNQ
+    song: These Three Words
+    artist: Stevie Wonder
+  - rank: 181
+    uri: spotify:track:7r1gEyIhacXnvLriLjmp3c
+    song: Voyage to Atlantis
+    artist: The Isley Brothers
+  - rank: 182
+    uri: spotify:track:4Z8tOPKlZ095dzCPrl8rTN
+    song: Make Me Say It Again Girl, Pts. 1 & 2
+    artist: The Isley Brothers
+  - rank: 183
+    uri: spotify:track:1Df1rxgMob1qQudexDEKuu
+    song: Caught Up In The Rapture
+    artist: Anita Baker
+  - rank: 184
+    uri: spotify:track:6iGhFkNd3SnrCSDozPEXy0
+    song: Somebody Loves You Baby (You Know Who It Is)
+    artist: Patti LaBelle
+  - rank: 185
+    uri: spotify:track:3YDnZvDLMM6Neih8hyzRvV
+    song: Silly
+    artist: Deniece Williams
+  - rank: 186
+    uri: spotify:track:3YcusdF0VAb25wLvmvJDJ6
+    song: Fantasy
+    artist: Earth, Wind & Fire
+  - rank: 187
+    uri: spotify:track:2g09poFRBGbUp0vnWmQyZV
+    song: Cry Together
+    artist: The O'Jays
+  - rank: 188
+    uri: spotify:track:20HmUI0TpacaZ2EPq9qMNw
+    song: Stairway to Heaven
+    artist: The O'Jays
+  - rank: 189
+    uri: spotify:track:1oFRzQ2srUSLeIPOaRMssu
+    song: Giving You The Best That I Got [Single Version]
+    artist: Anita Baker
+  - rank: 190
+    uri: spotify:track:32YzjV133gteg9LMBGO2OA
+    song: Burn Rubber On Me (Why You Wanna Hurt Me)
+    artist: The Gap Band
+  - rank: 191
+    uri: spotify:track:7o9uu2GDtVDr9nsR7ZRN73
+    song: Time After Time
+    artist: Cyndi Lauper
+  - rank: 192
+    uri: spotify:track:2PTCmBJC6EIIuyt9Aphbxv
+    song: Memory Lane - Digitally Remastered 93
+    artist: Minnie Riperton
+  - rank: 193
+    uri: spotify:track:2udw7RDkldLFIPG9WYdVtT
+    song: Sir Duke
+    artist: Stevie Wonder
+  - rank: 194
+    uri: spotify:track:5qtcGLFSmLFa14kRbml0Vz
+    song: Smokestack Lightnin'
+    artist: Howlin' Wolf
+  - rank: 195
+    uri: spotify:track:0jHkgTtTaqg5LNCiYDQPUB
+    song: Let's Get It On
+    artist: Marvin Gaye
+  - rank: 196
+    uri: spotify:track:2yNWwardt8VzlpNBWrGYD6
+    song: For Once In My Life
+    artist: Stevie Wonder
+  - rank: 197
+    uri: spotify:track:7Kwa03KjnP6UtKJLQorNmM
+    song: Free
+    artist: Deniece Williams
+  - rank: 198
+    uri: spotify:track:3kim6v8wY7HLPaNmw99SxD
+    song: Cutie Pie
+    artist: One Way
+  - rank: 199
+    uri: spotify:track:5RooV1JApOOviPiQcho9xx
+    song: Don't You Know That?
+    artist: Luther Vandross
+  - rank: 200
+    uri: spotify:track:4EUlszQIxlPwiHJ6e6j6Gy
+    song: Never Knew Love Like This Before
+    artist: Stephanie Mills
+  - rank: 201
+    uri: spotify:track:2J6zz86oGWSBiRwn5T26Kw
+    song: For the Love of You, Pts. 1 & 2
+    artist: The Isley Brothers
+  - rank: 202
+    uri: spotify:track:7MHfpdrLRS627npW8nCAz4
+    song: ハヴ・ユー・シーン・ハー(Re-Recorded)
+    artist: シャイライツ
+  - rank: 203
+    uri: spotify:track:1f14Tz6xCm7CoGcXykDX2A
+    song: I Feel Good All Over
+    artist: Stephanie Mills
+  - rank: 204
+    uri: spotify:track:3xCy2d2yP0ChZrOUB2Gwnr
+    song: Kiss and Say Goodbye
+    artist: The Manhattans
+  - rank: 205
+    uri: spotify:track:3QgsPdDBXZKrpa2iQndFnZ
+    song: You Make Me Feel Brand New
+    artist: The Stylistics
+  - rank: 206
+    uri: spotify:track:4qxCDr5DquZsfaK7lvnY9G
+    song: Jungle Boogie
+    artist: Kool & The Gang
+  - rank: 207
+    uri: spotify:track:3PcFXZTozW5tnYr43jlLNh
+    song: Papa Was A Rollin' Stone - Single Version
+    artist: The Temptations
+  - rank: 208
+    uri: spotify:track:6jTL0oiRaiFFjask0kvhrA
+    song: I Wish I Didn't Love You So
+    artist: Marvin Gaye
+  - rank: 209
+    uri: spotify:track:2McxCsOcW1sDCxtlxYEcRS
+    song: Since I Lost My Baby
+    artist: Luther Vandross
+  - rank: 210
+    uri: spotify:track:2TQaMcc3BEAF5Srn7FCipl
+    song: Always
+    artist: Atlantic Starr
+  - rank: 211
+    uri: spotify:track:2CUvuqA2cKeHcWLM4fGseG
+    song: Same Ole Love (365 Days A Week) - 365 Days A Week LP Version
+    artist: Anita Baker
+  - rank: 212
+    uri: spotify:track:5EPMGpzwuUAutClCLFyGVh
+    song: For the Good Times
+    artist: Al Green
+  - rank: 213
+    uri: spotify:track:0CmIALzGn4vHIHJG4n3Q4z
+    song: At Last - Single Version
+    artist: Etta James
+  - rank: 214
+    uri: spotify:track:3tFxrWeJcm0Z5mIwQJPeyZ
+    song: Lately
+    artist: Stevie Wonder
+  - rank: 215
+    uri: spotify:track:6VSm4HuSiOGWjbt6zpPnvh
+    song: Flashlight
+    artist: Parliament
+  - rank: 216
+    uri: spotify:track:4jwj7WcGHwNpG0ovatCbST
+    song: Give Me the Reason
+    artist: Luther Vandross
+  - rank: 217
+    uri: spotify:track:6TCJhKJ7VNIkkuvfK8qute
+    song: Staying Alive (From "Saturday Night Fever")
+    artist: The 100 Songs Allstars
+  - rank: 218
+    uri: spotify:track:5WwqdeavrQrbeAMDxGawse
+    song: Can't Fight This Feeling
+    artist: REO Speedwagon
+  - rank: 219
+    uri: spotify:track:3iCbTmcXnKlRZCdaYOukxq
+    song: Love Ballad
+    artist: L.T.D.
+  - rank: 220
+    uri: spotify:track:0qRR9d89hIS0MHRkQ0ejxX
+    song: Rich Girl
+    artist: Daryl Hall & John Oates
+  - rank: 221
+    uri: spotify:track:1lB6TCFlx4f50wdetOuGcT
+    song: What You Won't Do for Love
+    artist: Bobby Caldwell
+  - rank: 222
+    uri: spotify:track:0KpMY3D2G8253VTZbDBUmA
+    song: Back Stabbers
+    artist: The O'Jays
+  - rank: 223
+    uri: spotify:track:1DnSZ9M8uvX0UebR3dmBNI
+    song: Easy
+    artist: Commodores
+  - rank: 224
+    uri: spotify:track:3zFsL0kYAGufZ7ZXeTJWQJ
+    song: Wait for Love - Single Version
+    artist: Luther Vandross
+  - rank: 225
+    uri: spotify:track:3xrqE1ZGbvWHpsxnOPc8g4
+    song: As
+    artist: Stevie Wonder
+  - rank: 226
+    uri: spotify:track:5spAjqC772iC2KzDvEkmSr
+    song: A Song For You
+    artist: Donny Hathaway
+  - rank: 227
+    uri: spotify:track:24Uu2LvYtrQucgUL69WzMx
+    song: You're My Latest, Greatest Inspiration
+    artist: Teddy Pendergrass
+  - rank: 228
+    uri: spotify:track:1srD2uc11TcQiOmHHrJp8M
+    song: Reasons
+    artist: Earth, Wind & Fire
+  - rank: 229
+    uri: spotify:track:6d3ic1mkWMxf5DPIW798f0
+    song: Bad Boy / Having a Party
+    artist: Luther Vandross
+  - rank: 230
+    uri: spotify:track:10vkYRKw6Jjr7try1ir50G
+    song: Tired of Being Alone
+    artist: Al Green
+  - rank: 231
+    uri: spotify:track:0yATWKFuL4IhPHyfRb30rR
+    song: I'm Gonna Love You Just A Little More Baby
+    artist: Barry White
+  - rank: 232
+    uri: spotify:track:4rcHWl68ai6KvpXlc8vbnE
+    song: Keep on Loving You - Remastered
+    artist: REO Speedwagon
+  - rank: 233
+    uri: spotify:track:75p30ULq3zCo7QnIPMh6xy
+    song: Sadie
+    artist: The Spinners
+  - rank: 234
+    uri: spotify:track:58CUIzSxNpQUFvTCd8tntH
+    song: La-La Means I Love You - Remastered
+    artist: The Delfonics
+  - rank: 235
+    uri: spotify:track:57ebBLITHpRgRKGrlbxMZS
+    song: Faithfully
+    artist: Journey
+  - rank: 236
+    uri: spotify:track:0fKDnkXdfJwk0DEW9W83VY
+    song: Always and Forever
+    artist: Heatwave
+  - rank: 237
+    uri: spotify:track:1qjrYozGqc7upUgfN776lZ
+    song: Sara Smile
+    artist: Daryl Hall & John Oates
+  - rank: 238
+    uri: spotify:track:5RMTMx6CQ5g8ZoYTnh9dkB
+    song: I'll Write a Song for You
+    artist: Earth, Wind & Fire
+- pid: '501054'
+  playlist_title: Rock
+  tracks:
+  - rank: 1
+    uri: spotify:track:4Yf5bqU3NK4kNOypcrLYwU
+    song: Faint
+    artist: Linkin Park
+  - rank: 2
+    uri: spotify:track:5salGxFLSXV88FU6NQ7Iru
+    song: We Are All On Drugs
+    artist: Weezer
+  - rank: 3
+    uri: spotify:track:0jqK7sGTLsHPkQrrcrGuKD
+    song: Still Waiting
+    artist: Sum 41
+  - rank: 4
+    uri: spotify:track:1C0vXECyJHUeqOo2Etvrr2
+    song: My Immortal
+    artist: Evanescence
+  - rank: 5
+    uri: spotify:track:12qZHAeOyTf93YAWvGDTat
+    song: All The Small Things
+    artist: blink-182
+  - rank: 6
+    uri: spotify:track:1C0pmryC2MdXfa7MZ9uIrU
+    song: One Week
+    artist: Barenaked Ladies
+  - rank: 7
+    uri: spotify:track:5ghIJDpPoe3CfHMGu71E6T
+    song: Smells Like Teen Spirit
+    artist: Nirvana
+  - rank: 8
+    uri: spotify:track:2mPMFJvQ0v27gVqe5b6nDn
+    song: Hash Pipe
+    artist: Weezer
+  - rank: 9
+    uri: spotify:track:3ZffCQKLFLUvYM59XKLbVm
+    song: Wake Me Up When September Ends
+    artist: Green Day
+  - rank: 10
+    uri: spotify:track:0MsrWnxQZxPAcov7c74sSo
+    song: Holiday/Boulevard Of Broken Dreams
+    artist: Green Day
+  - rank: 11
+    uri: spotify:track:1D7UBHqaPWDbBHs2S5YXge
+    song: Perfect Situation
+    artist: Weezer
+  - rank: 12
+    uri: spotify:track:6Gn02ZC8juXwQ10Xk7ACXx
+    song: The Reason
+    artist: Hoobastank
+  - rank: 13
+    uri: spotify:track:1AEYT6VxrxXPMoQUxsY0E4
+    song: Headstrong
+    artist: Trapt
+  - rank: 14
+    uri: spotify:track:6Qyc6fS4DsZjB2mRW9DsQs
+    song: Iris
+    artist: The Goo Goo Dolls
+  - rank: 15
+    uri: spotify:track:0bVtevEgtDIeRjCJbK3Lmv
+    song: Welcome To The Jungle
+    artist: Guns N' Roses
+  - rank: 16
+    uri: spotify:track:5z6xHjCZr7a7AIcy8sPBKy
+    song: Smooth Criminal
+    artist: Alien Ant Farm
+  - rank: 17
+    uri: spotify:track:7990Xs9HQx7FXVIDVPEwj9
+    song: Rock And Roll All Nite
+    artist: KISS
+  - rank: 18
+    uri: spotify:track:54Eo3yEOIsqcR9vzNVmvay
+    song: Girls, Girls, Girls
+    artist: Mötley Crüe
+  - rank: 19
+    uri: spotify:track:0COqiPhxzoWICwFCS4eZcp
+    song: Bring Me To Life
+    artist: Evanescence
+  - rank: 20
+    uri: spotify:track:57BrRMwf9LrcmuOsyGilwr
+    song: Crawling
+    artist: Linkin Park
+  - rank: 21
+    uri: spotify:track:2MLHyLy5z5l5YRp7momlgw
+    song: Island In The Sun
+    artist: Weezer
+  - rank: 22
+    uri: spotify:track:6ORqU0bHbVCRjXm9AjyHyZ
+    song: Good Riddance (Time of Your Life)
+    artist: Green Day
+  - rank: 23
+    uri: spotify:track:5MxNLUsfh7uzROypsoO5qe
+    song: Dream On
+    artist: Aerosmith
+  - rank: 24
+    uri: spotify:track:68pN2UQYhwQgPy7VrCFKuV
+    song: In Too Deep
+    artist: Sum 41
+  - rank: 25
+    uri: spotify:track:5wTMQjEx9LWeFwLjolPCUy
+    song: What's My Age Again?
+    artist: blink-182
+  - rank: 26
+    uri: spotify:track:5V3mdRI2yQxbSsJGDPc5lD
+    song: Chop Suey!
+    artist: System Of A Down
+  - rank: 27
+    uri: spotify:track:5eek2X5459T1HoYJk2CKXv
+    song: Last Resort
+    artist: Papa Roach
+  - rank: 28
+    uri: spotify:track:1wLQwg0mloy3yXjL0jPE0N
+    song: Run
+    artist: Foo Fighters
+  - rank: 29
+    uri: spotify:track:5egqKwgK5r5rvGD1LrtR7J
+    song: Points Of Authority
+    artist: Linkin Park
+  - rank: 30
+    uri: spotify:track:5qqabIl2vWzo9ApSC317sa
+    song: Wonderwall - Remastered
+    artist: Oasis
+  - rank: 31
+    uri: spotify:track:3WbphvawbMZ8FyqDxYGdSQ
+    song: When I'm Gone
+    artist: 3 Doors Down
+  - rank: 32
+    uri: spotify:track:1tTgDt1fKE6wcul5s9CaDA
+    song: Pts.OF.Athrty
+    artist: Linkin Park
+  - rank: 33
+    uri: spotify:track:5SZ6zX4rOrEQferfFC2MfP
+    song: Walk This Way
+    artist: Aerosmith
+  - rank: 34
+    uri: spotify:track:3cfOd4CMv2snFaKAnMdnvK
+    song: All Star
+    artist: Smash Mouth
+  - rank: 35
+    uri: spotify:track:5UWwZ5lm5PKu6eKsHAGxOk
+    song: Everlong
+    artist: Foo Fighters
+  - rank: 36
+    uri: spotify:track:2nLtzopw4rPReszdYBJU6h
+    song: Numb
+    artist: Linkin Park
+  - rank: 37
+    uri: spotify:track:2zYzyRzz6pRmhPzyfMEC8s
+    song: Highway to Hell
+    artist: AC/DC
+  - rank: 38
+    uri: spotify:track:3sHH7lklbfpcraDDvYnjo7
+    song: Bat Country
+    artist: Avenged Sevenfold
+  - rank: 39
+    uri: spotify:track:3BmjRmFTESgWZLPSVGp8aG
+    song: Lying From You
+    artist: Linkin Park
+  - rank: 40
+    uri: spotify:track:7LRMbd3LEoV5wZJvXT1Lwb
+    song: T.N.T.
+    artist: AC/DC
+  - rank: 41
+    uri: spotify:track:663Karu2rvKLdnY0eo1n3M
+    song: Call Me When You're Sober
+    artist: Evanescence
+  - rank: 42
+    uri: spotify:track:3NLrRZoMF0Lx6zTlYqeIo4
+    song: Here Without You
+    artist: 3 Doors Down
+  - rank: 43
+    uri: spotify:track:3kdMzXOcrDIdSWLdONHNK5
+    song: The Sky Is A Neighborhood
+    artist: Foo Fighters
+  - rank: 44
+    uri: spotify:track:7o2CTH4ctstm8TNelqjb51
+    song: Sweet Child O' Mine
+    artist: Guns N' Roses
+  - rank: 45
+    uri: spotify:track:40rvBMQizxkIqnjPdEWY1v
+    song: Down With the Sickness
+    artist: Disturbed
+  - rank: 46
+    uri: spotify:track:1QZFn6QUNHfCp8s06C91hw
+    song: DOA
+    artist: Foo Fighters
+  - rank: 47
+    uri: spotify:track:3qmvK8QARSPkFTuKeIXSbs
+    song: Bleed It Out
+    artist: Linkin Park
+  - rank: 48
+    uri: spotify:track:08mG3Y1vljYA6bvDt4Wqkj
+    song: Back In Black
+    artist: AC/DC
+  - rank: 49
+    uri: spotify:track:24NwBd5vZ2CK8VOQVnqdxr
+    song: Sweet Emotion
+    artist: Aerosmith
+  - rank: 50
+    uri: spotify:track:23oxJmDc1V9uLUSmN2LIvx
+    song: Ocean Avenue
+    artist: Yellowcard
+  - rank: 51
+    uri: spotify:track:5oQcOu1omDykbIPSdSQQNJ
+    song: '1985'
+    artist: Bowling For Soup
+  - rank: 52
+    uri: spotify:track:3K4HG9evC7dg3N0R9cYqk4
+    song: One Step Closer
+    artist: Linkin Park
+  - rank: 53
+    uri: spotify:track:5FZxsHWIvUsmSK1IAvm2pp
+    song: Best of You
+    artist: Foo Fighters
+  - rank: 54
+    uri: spotify:track:60a0Rd6pjrkxjPbaKzXjfq
+    song: In The End
+    artist: Linkin Park
+  - rank: 55
+    uri: spotify:track:48UPSzbZjgc449aqz8bxox
+    song: Californication
+    artist: Red Hot Chili Peppers
+  - rank: 56
+    uri: spotify:track:0c1gHntWjKD7QShC8s99sq
+    song: I Don't Want to Miss a Thing - From the Touchstone film, "Armageddon"
+    artist: Aerosmith
+  - rank: 57
+    uri: spotify:track:7x8dCjCr0x6x2lXKujYD34
+    song: The Pretender
+    artist: Foo Fighters
+  - rank: 58
+    uri: spotify:track:6nTiIhLmQ3FWhvrGafw2zj
+    song: American Idiot
+    artist: Green Day
+  - rank: 59
+    uri: spotify:track:7aBAo2pO8LvrN8mGba7MvA
+    song: Icky Thump
+    artist: The White Stripes
+  - rank: 60
+    uri: spotify:track:4YPhn26bIFm2KUkL1VLzQG
+    song: Say It Ain't So
+    artist: Weezer
+  - rank: 61
+    uri: spotify:track:50xYqUTVCvoqRLuyWFuG3r
+    song: Enth E Nd
+    artist: Linkin Park
+  - rank: 62
+    uri: spotify:track:4XOZaPYeMn9hcbpyS90NnD
+    song: Lights And Sounds
+    artist: Yellowcard
+  - rank: 63
+    uri: spotify:track:19Js5ypV6JKn4DMExHQbGc
+    song: Stacy's Mom
+    artist: Bowling For Soup
+  - rank: 64
+    uri: spotify:track:0xMEF2WiqKWTIG7Krjungw
+    song: The Distance
+    artist: Cake
+  - rank: 65
+    uri: spotify:track:1Vej0qeQ3ioKwpI6FUbRv1
+    song: Papercut
+    artist: Linkin Park
+  - rank: 66
+    uri: spotify:track:4dzOxPZFYX77xpMwv4EhnO
+    song: Fat Lip
+    artist: Sum 41
+  - rank: 67
+    uri: spotify:track:3KYiA4vq6RPO1dE2XROXd8
+    song: You Give Love A Bad Name
+    artist: Bon Jovi
+  - rank: 68
+    uri: spotify:track:3uPfVXcjnpOjyzI3jb3js4
+    song: Fly
+    artist: Sugar Ray
+  - rank: 69
+    uri: spotify:track:0EYOdF5FCkgOJJla8DI2Md
+    song: B.Y.O.B.
+    artist: System Of A Down
+  - rank: 70
+    uri: spotify:track:6ZOBP3NvffbU4SZcrnt1k6
+    song: Kryptonite
+    artist: 3 Doors Down
+  - rank: 71
+    uri: spotify:track:07EeNeSCYJajyJW5U7Q3Wd
+    song: Going Under
+    artist: Evanescence
+  - rank: 72
+    uri: spotify:track:2ouURa1AIXp3AvkS52Jry5
+    song: Every Morning
+    artist: Sugar Ray
+  - rank: 73
+    uri: spotify:track:10Nmj3JCNoMeBQ87uw5j8k
+    song: Dani California
+    artist: Red Hot Chili Peppers
+- pid: '750528'
+  playlist_title: sports
+  tracks:
+  - rank: 1
+    uri: spotify:track:0uFvvXbmGIXlf5ZgtHyYpf
+    song: Bugatti
+    artist: Ace Hood
+  - rank: 2
+    uri: spotify:track:0yQw3d0iQDjMrxaVHFv77J
+    song: Strange Clouds (feat. Lil Wayne) - feat. Lil Wayne
+    artist: B.o.B
+  - rank: 3
+    uri: spotify:track:1FsH6OZCKLWbBgqj8JcCvO
+    song: The Man
+    artist: Aloe Blacc
+  - rank: 4
+    uri: spotify:track:0PT7nlpo11hYYyfnBgtilT
+    song: Nasty Freestyle
+    artist: T-Wayne
+  - rank: 5
+    uri: spotify:track:5U8hKxSaDXB8cVeLFQjvwx
+    song: The Monster
+    artist: Eminem
+  - rank: 6
+    uri: spotify:track:66rVt7PbwyKlu6CK6rxyAi
+    song: Friday Night
+    artist: Eric Paslay
+  - rank: 7
+    uri: spotify:track:1ULa3GfdMKs0MfRpm6xVlu
+    song: We Dem Boyz
+    artist: Wiz Khalifa
+  - rank: 8
+    uri: spotify:track:1AEYT6VxrxXPMoQUxsY0E4
+    song: Headstrong
+    artist: Trapt
+  - rank: 9
+    uri: spotify:track:1jNOi6m3Hn8nLEeHCp5Msr
+    song: Seven Nation Army
+    artist: The White Stripes
+  - rank: 10
+    uri: spotify:track:4jtyUzZm9WLc2AdaJ1dso7
+    song: 0 To 100 / The Catch Up
+    artist: Drake
+  - rank: 11
+    uri: spotify:track:6Knv6wdA0luoMUuuoYi2i1
+    song: My House
+    artist: Flo Rida
+  - rank: 12
+    uri: spotify:track:40XHORpTeMwJ2hwpKhpRqW
+    song: Dibs
+    artist: Kelsea Ballerini
+  - rank: 13
+    uri: spotify:track:1CvhKmrutTAta5awpJcFDn
+    song: Watch Me (Whip / Nae Nae)
+    artist: Silentó
+  - rank: 14
+    uri: spotify:track:7zBPzAjKAqQpcv8F8GCq5s
+    song: Uber Everywhere
+    artist: MadeinTYO
+  - rank: 15
+    uri: spotify:track:4Km5HrUvYTaSUfiSGPJeQR
+    song: Bad and Boujee (feat. Lil Uzi Vert)
+    artist: Migos
+  - rank: 16
+    uri: spotify:track:0yhPEz5KxlDwckGJaMlZqM
+    song: Centuries
+    artist: Fall Out Boy
+  - rank: 17
+    uri: spotify:track:2d8JP84HNLKhmd6IYOoupQ
+    song: Trap Queen
+    artist: Fetty Wap
+  - rank: 18
+    uri: spotify:track:0LN0ASTtcGIbNTnjSHG6eO
+    song: Pour Some Sugar On Me (2012)
+    artist: Def Leppard
+  - rank: 19
+    uri: spotify:track:7yq4Qj7cqayVTp3FF9CWbm
+    song: Riptide
+    artist: Vance Joy
+  - rank: 20
+    uri: spotify:track:29Key5Lj0YlIMH8JzRDy6U
+    song: Survival
+    artist: Eminem
+  - rank: 21
+    uri: spotify:track:4JjUwfp8GQ3PxWg2QPKnpn
+    song: 300 Violin Orchestra
+    artist: Jorge Quintero
+  - rank: 22
+    uri: spotify:track:40YcuQysJ0KlGQTeGUosTC
+    song: Me, Myself & I
+    artist: G-Eazy
+  - rank: 23
+    uri: spotify:track:4U38hORPx8SsUAXGumsUYN
+    song: Hold Me Down
+    artist: Halsey
+  - rank: 24
+    uri: spotify:track:25khomWgBVamSdKw7hzm3l
+    song: The Hills
+    artist: The Weeknd
+  - rank: 25
+    uri: spotify:track:5dANgSy7v091dhiPnEXNrf
+    song: Put On
+    artist: Jeezy
+  - rank: 26
+    uri: spotify:track:6MmT9hje2krkn1twcmtBYu
+    song: Run This Town
+    artist: JAY Z
+  - rank: 27
+    uri: spotify:track:3bC1ahPIYt1btJzSSEyyrF
+    song: Whistle
+    artist: Flo Rida
+  - rank: 28
+    uri: spotify:track:3gbBpTdY8lnQwqxNCcf795
+    song: Pompeii
+    artist: Bastille
+  - rank: 29
+    uri: spotify:track:7vFoFDWqTX0mHzLfrF1Cfy
+    song: Cheerleader - Felix Jaehn Remix Radio Edit
+    artist: OMI
+  - rank: 30
+    uri: spotify:track:23WHTR4EN7QUx1oqa2z0zh
+    song: We Own It (Fast & Furious)
+    artist: 2 Chainz
+  - rank: 31
+    uri: spotify:track:46GGxd8TVRt6FjUBfCavVT
+    song: Renegades
+    artist: X Ambassadors
+  - rank: 32
+    uri: spotify:track:3hb2ScEVkGchcAQqrPLP0R
+    song: Photograph
+    artist: Nickelback
+  - rank: 33
+    uri: spotify:track:3RlsVPIIs5KFhLFhxZ4iDF
+    song: Rockstar
+    artist: Nickelback
+  - rank: 34
+    uri: spotify:track:0Hf4aIJpsN4Os2f0y0VqWl
+    song: Feel This Moment
+    artist: Pitbull
+  - rank: 35
+    uri: spotify:track:4xMBL6zax57S2EHzI2Vloy
+    song: Love Lockdown
+    artist: Kanye West
+  - rank: 36
+    uri: spotify:track:4sPmO7WMQUAf45kwMOtONw
+    song: Hello
+    artist: Adele
+  - rank: 37
+    uri: spotify:track:7wMq5n8mYSKlQIGECKUgTX
+    song: Hall of Fame
+    artist: The Script
+  - rank: 38
+    uri: spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn
+    song: Stressed Out
+    artist: Twenty One Pilots
+  - rank: 39
+    uri: spotify:track:2zfH2NDPDBDjNaPNJ60lnb
+    song: Gotta Be Somebody
+    artist: Nickelback
+  - rank: 40
+    uri: spotify:track:5ObqpomvSAh3IdPRTOR5oD
+    song: Crazy Bitch
+    artist: Buckcherry
+  - rank: 41
+    uri: spotify:track:0w3Q3VFdrYzo24QUIGnBNy
+    song: 679 (feat. Monty)
+    artist: Fetty Wap
+  - rank: 42
+    uri: spotify:track:4qikXelSRKvoCqFcHLB2H2
+    song: Mercy
+    artist: Kanye West
+  - rank: 43
+    uri: spotify:track:0kIHfcHGFGm5xb0dSlKEdp
+    song: Hood Go Crazy
+    artist: Tech N9ne
+  - rank: 44
+    uri: spotify:track:5A6OHHy73AR5tLxgTc98zz
+    song: Black And Yellow
+    artist: Wiz Khalifa
+  - rank: 45
+    uri: spotify:track:0i5el041vd6nxrGEU8QRxy
+    song: Cruise
+    artist: Florida Georgia Line
+  - rank: 46
+    uri: spotify:track:2nLtzopw4rPReszdYBJU6h
+    song: Numb
+    artist: Linkin Park
+  - rank: 47
+    uri: spotify:track:4WjH9Bzt3kx7z8kl0awxh4
+    song: Lean On (feat. MØ & DJ Snake)
+    artist: Major Lazer
+  - rank: 48
+    uri: spotify:track:41pFyxOpS119Pb8JEzhx0w
+    song: Boulevard Of Broken Dreams - feat. John Gallagher Jr., Rebecca Naomi Jones,
+      Stark Sands, Company [Album Version]
+    artist: Green Day
+  - rank: 49
+    uri: spotify:track:1WP1r7fuvRqZRnUaTi2I1Q
+    song: Stitches
+    artist: Shawn Mendes
+  - rank: 50
+    uri: spotify:track:4IXiFMhtXEbSEG8UoAeTwD
+    song: Go Hard or Go Home
+    artist: Wiz Khalifa
+  - rank: 51
+    uri: spotify:track:3GTUXYB1x0Md6ceQGfDRXC
+    song: Out for a Rip
+    artist: Shark Tank
+  - rank: 52
+    uri: spotify:track:6IcrwGdIvRsrImOnoYfG9Z
+    song: See You Again (feat. Charlie Puth) - From "Furious 7"
+    artist: Wiz Khalifa
+  - rank: 53
+    uri: spotify:track:03LpkqucyYKcYclDs8HuxO
+    song: John Cougar, John Deere, John 3:16
+    artist: Keith Urban
+  - rank: 54
+    uri: spotify:track:0osPX8TruIebOhKuG6GK8C
+    song: On My Level - feat. Too $hort
+    artist: Wiz Khalifa
+  - rank: 55
+    uri: spotify:track:08mG3Y1vljYA6bvDt4Wqkj
+    song: Back In Black
+    artist: AC/DC
+  - rank: 56
+    uri: spotify:track:2V65y3PX4DkRhy1djlxd9p
+    song: Don't You Worry Child (Radio Edit) [feat. John Martin]
+    artist: Swedish House Mafia
+  - rank: 57
+    uri: spotify:track:5HuqzFfq2ulY1iBAW5CxLe
+    song: Rather Be (feat. Jess Glynne)
+    artist: Clean Bandit
+  - rank: 58
+    uri: spotify:track:4NTWZqvfQTlOMitlVn6tew
+    song: The Show Goes On
+    artist: Lupe Fiasco
+  - rank: 59
+    uri: spotify:track:26rdOwwjC2UnweK3xeS58u
+    song: GDFR (feat. Sage The Gemini & Lookas)
+    artist: Flo Rida
+  - rank: 60
+    uri: spotify:track:0BzDQgmeRdA4V71VhfBvXT
+    song: Xanny Family
+    artist: Future
+  - rank: 61
+    uri: spotify:track:7hsLKGEnoiNShdIGL6ws1f
+    song: Sail
+    artist: AWOLNATION
+  - rank: 62
+    uri: spotify:track:03tqyYWC9Um2ZqU0ZN849H
+    song: No Hands (feat. Roscoe Dash and Wale) - Explicit Album Version
+    artist: Waka Flocka Flame
+  - rank: 63
+    uri: spotify:track:63daATqOdx3odypMZP2eUt
+    song: Money and the Power
+    artist: Kid Ink
+  - rank: 64
+    uri: spotify:track:0fgZUSa7D7aVvv3GfO0A1n
+    song: Post To Be (feat. Chris Brown & Jhene Aiko)
+    artist: Omarion
+  - rank: 65
+    uri: spotify:track:3zmduBNsQ6BPDTZAkXzG5K
+    song: Can't Be Touched (feat. Mr. Magic & Trouble)
+    artist: Roy Jones Jr.
+  - rank: 66
+    uri: spotify:track:44aN5xKL3kGHvQ5bXVk6B8
+    song: Ghost Town
+    artist: Adam Lambert
+  - rank: 67
+    uri: spotify:track:3KYiA4vq6RPO1dE2XROXd8
+    song: You Give Love A Bad Name
+    artist: Bon Jovi
+  - rank: 68
+    uri: spotify:track:0sFvItEeMstcUyZCleYgyj
+    song: All The Time
+    artist: Jeremih
+  - rank: 69
+    uri: spotify:track:7FFqcNFMdRjWYE9PfN4Zu7
+    song: Do The John Wall
+    artist: Troop 41
+  - rank: 70
+    uri: spotify:track:6ZOBP3NvffbU4SZcrnt1k6
+    song: Kryptonite
+    artist: 3 Doors Down
+  - rank: 71
+    uri: spotify:track:1hWYT0w2R0J19rlVkiez7X
+    song: Battle Scars
+    artist: Lupe Fiasco
+  - rank: 72
+    uri: spotify:track:0xMd5bcWTbyXS7wPrBtZA6
+    song: Burn
+    artist: Ellie Goulding
+- pid: '684261'
+  playlist_title: Christian
+  tracks:
+  - rank: 1
+    uri: spotify:track:3PnjgKLiFoCUsmKPwu5viX
+    song: Heart Won't Stop
+    artist: John Mark McMillan
+  - rank: 2
+    uri: spotify:track:1KMK6neK7Z2oslAbueiE4u
+    song: Hallelujah! What a Savior
+    artist: Ascend The Hill
+  - rank: 3
+    uri: spotify:track:1CvoOXxJqC2VHwgjZxjGX5
+    song: Good Good Father
+    artist: Chris Tomlin
+  - rank: 4
+    uri: spotify:track:4JMd23SfEd7U2atZAaz20A
+    song: Take the World, but Give Me Jesus
+    artist: Ascend The Hill
+  - rank: 5
+    uri: spotify:track:1lEk3U3MzbDeL5MNHkE9JU
+    song: O Come to the Altar
+    artist: Elevation Worship
+  - rank: 6
+    uri: spotify:track:3t4dCm7bHSGzl2xigMaN1Y
+    song: All My Fountains
+    artist: Chris Tomlin
+  - rank: 7
+    uri: spotify:track:3Ns3lcE4VzhFJCqcevhvRg
+    song: How Great Thou Art
+    artist: Ascend The Hill
+  - rank: 8
+    uri: spotify:track:3JhCq2r9PbbWYdQ1qpoKEX
+    song: Grace Alone
+    artist: Kings Kaleidoscope
+  - rank: 9
+    uri: spotify:track:0qyYcNxLEfgsXyLlaXBc28
+    song: Sing to the King
+    artist: Billy and Cindy Foote
+  - rank: 10
+    uri: spotify:track:0G0B7bDw9FftPyOOdoNtvS
+    song: Be Thou My Vision
+    artist: Ascend The Hill
+- pid: '44648'
+  playlist_title: gaming
+  tracks:
+  - rank: 1
+    uri: spotify:track:2s4BsyV3KhhrtsdtNfzoqb
+    song: Back To Black
+    artist: Amy Winehouse
+  - rank: 2
+    uri: spotify:track:7wwifjNAb172PtDpKK3CoR
+    song: V. 3005
+    artist: Childish Gambino
+  - rank: 3
+    uri: spotify:track:2QjOHCTQ1Jl3zawyYOpxh6
+    song: Sweater Weather
+    artist: The Neighbourhood
+  - rank: 4
+    uri: spotify:track:5brMyscUnQg14hMriS91ks
+    song: Kanye
+    artist: The Chainsmokers
+  - rank: 5
+    uri: spotify:track:3G6hD9B2ZHOsgf4WfNu7X1
+    song: Team
+    artist: Lorde
+  - rank: 6
+    uri: spotify:track:3yRV0V5l87Q6EyEnv3d7YJ
+    song: Collarbone
+    artist: Fujiya & Miyagi
+  - rank: 7
+    uri: spotify:track:5jE48hhRu8E6zBDPRSkEq7
+    song: All About That Bass
+    artist: Meghan Trainor
+  - rank: 8
+    uri: spotify:track:0r7dXQYpadl4gYkfgR9ix4
+    song: She's Got You High
+    artist: Mumm-ra
+  - rank: 9
+    uri: spotify:track:7yq4Qj7cqayVTp3FF9CWbm
+    song: Riptide
+    artist: Vance Joy
+  - rank: 10
+    uri: spotify:track:44psOy0D0SP8rcIiUgKgBs
+    song: Tightrope
+    artist: WALK THE MOON
+  - rank: 11
+    uri: spotify:track:78JfVKGUbltV9PuOoWc6nm
+    song: H.S.K.T.
+    artist: Sylvan Esso
+  - rank: 12
+    uri: spotify:track:4dyx5SzxPPaD8xQIid5Wjj
+    song: Young Folks
+    artist: Peter Bjorn and John
+  - rank: 13
+    uri: spotify:track:2HNZxbvFvasRtlOJ9M6DgR
+    song: MMMBop - Single Version
+    artist: Hanson
+  - rank: 14
+    uri: spotify:track:6mEDMe0zG5pYrsRxizjauk
+    song: Cameo Lover
+    artist: Kimbra
+  - rank: 15
+    uri: spotify:track:62N2JSA0jHmSH7Va9t7hIf
+    song: Habits (Stay High) - Hippie Sabotage Remix
+    artist: Tove Lo
+  - rank: 16
+    uri: spotify:track:6vECYJHxYmm3Ydt3fF01pE
+    song: Stolen Dance
+    artist: Milky Chance
+  - rank: 17
+    uri: spotify:track:13P5rwmk2EsoFRIz9UCeh9
+    song: Cool Kids
+    artist: Echosmith
+  - rank: 18
+    uri: spotify:track:4eLSCSELtKxZwXnFbNLXT5
+    song: On Top Of The World
+    artist: Imagine Dragons
+  - rank: 19
+    uri: spotify:track:7C7yqFTM0ncyJ04GIKrxdV
+    song: Anything Could Happen
+    artist: Ellie Goulding
+  - rank: 20
+    uri: spotify:track:7M7e3u2MjbOVTkQMW6XqL6
+    song: The Wolves and the Ravens
+    artist: Rogue Valley
+  - rank: 21
+    uri: spotify:track:3HooZZPp0evFShqaJ2Pwer
+    song: Heartbeat
+    artist: Childish Gambino
+  - rank: 22
+    uri: spotify:track:1uxdxSC2bfUFYVqxvejVC3
+    song: Animal
+    artist: Miike Snow
+  - rank: 23
+    uri: spotify:track:5txrJzhPIrRqfvtnvZGcbX
+    song: Que' Onda Guero
+    artist: Beck
+  - rank: 24
+    uri: spotify:track:71eRCfoq3g4qeLNcR75Hig
+    song: Thunder Clatter
+    artist: Wild Cub
+  - rank: 25
+    uri: spotify:track:6JH9yWhgbm0y9iAJhCslNc
+    song: Handlebars
+    artist: Flobots
+  - rank: 26
+    uri: spotify:track:5g7rJvWYVrloJZwKiShqlS
+    song: Dirty Paws
+    artist: Of Monsters and Men
+  - rank: 27
+    uri: spotify:track:5RBx3tM9hmVJAOnSUHIWkn
+    song: Rock & Roll
+    artist: Eric Hutchinson
+  - rank: 28
+    uri: spotify:track:0ccCwNzXvr1Yoz91vKz31Z
+    song: Yoshimi Battles The Pink Robots Part 1
+    artist: The Flaming Lips
+  - rank: 29
+    uri: spotify:track:3DgNj1aYbSRVoVO8yX7DRt
+    song: Girl
+    artist: Beck
+  - rank: 30
+    uri: spotify:track:0fBSs3fRoh1yJcne77fdu9
+    song: Video Games
+    artist: Lana Del Rey
+  - rank: 31
+    uri: spotify:track:0xMd5bcWTbyXS7wPrBtZA6
+    song: Burn
+    artist: Ellie Goulding
+  - rank: 32
+    uri: spotify:track:1iw4yy8dDH9TcSEcOEWVnO
+    song: Rill Rill
+    artist: Sleigh Bells
+- pid: '837665'
+  playlist_title: classics
+  tracks:
+  - rank: 1
+    uri: spotify:track:3iL2l5gUqyPS6vDwJFgJTR
+    song: BedRock
+    artist: Young Money
+  - rank: 2
+    uri: spotify:track:0I3q5fE6wg7LIfHGngUTnV
+    song: Ms. Jackson
+    artist: OutKast
+  - rank: 3
+    uri: spotify:track:2PpruBYCo4H7WOBJ7Q2EwM
+    song: Hey Ya! - Radio Mix / Club Mix
+    artist: OutKast
+  - rank: 4
+    uri: spotify:track:561jH07mF1jHuk7KlaeF0s
+    song: Mockingbird
+    artist: Eminem
+  - rank: 5
+    uri: spotify:track:1lzr43nnXAijIGYnCT8M8H
+    song: It Wasn't Me
+    artist: Shaggy
+  - rank: 6
+    uri: spotify:track:2WNVqZq1ujhMDlOAqBFkVv
+    song: My Humps
+    artist: The Black Eyed Peas
+  - rank: 7
+    uri: spotify:track:62LHRv9uwSNlBmByQF5jdE
+    song: Don't Stop The Music
+    artist: Rihanna
+  - rank: 8
+    uri: spotify:track:66TRwr5uJwPt15mfFkzhbi
+    song: Crank That (Soulja Boy)
+    artist: Soulja Boy
+  - rank: 9
+    uri: spotify:track:5i66xrvSh1MjjyDd6zcwgj
+    song: Umbrella
+    artist: Rihanna
+  - rank: 10
+    uri: spotify:track:1IAzD1muglOxOcPbUHs70R
+    song: Whatever You Like
+    artist: T.I.
+  - rank: 11
+    uri: spotify:track:06iMqWThw4w8fTFyccvOwr
+    song: Ride Wit Me
+    artist: Nelly
+  - rank: 12
+    uri: spotify:track:1ARJhjuI6TNYZCxYygFQ4F
+    song: Right Now (Na Na Na)
+    artist: Akon
+  - rank: 13
+    uri: spotify:track:2Lg4kvhOrPhpGEZmSe7VAN
+    song: Country Grammar (Hot Shit)
+    artist: Nelly
+  - rank: 14
+    uri: spotify:track:0DdpxWfVvUGgkJv5536tiF
+    song: Sexy Can I feat. Yung Berg
+    artist: Ray J
+  - rank: 15
+    uri: spotify:track:0O45fw2L5vsWpdsOdXwNAR
+    song: SexyBack
+    artist: Justin Timberlake
+  - rank: 16
+    uri: spotify:track:53gcDgFyqqpvCzXWrnFZpH
+    song: Heartless
+    artist: Kanye West
+  - rank: 17
+    uri: spotify:track:0k2GOhqsrxDTAbFFSdNJjT
+    song: Temperature
+    artist: Sean Paul
+  - rank: 18
+    uri: spotify:track:6dViIgkYIRccNImPln58rS
+    song: Angel
+    artist: Shaggy
+  - rank: 19
+    uri: spotify:track:5ByAIlEEnxYdvpnezg7HTX
+    song: Juicy
+    artist: The Notorious B.I.G.
+  - rank: 20
+    uri: spotify:track:2nbClS09zsIAqNkshg6jnp
+    song: Closer
+    artist: Ne-Yo
+  - rank: 21
+    uri: spotify:track:6NncjnSD7JLEetWb9KqMRY
+    song: I Wanna Love You
+    artist: Akon
+  - rank: 22
+    uri: spotify:track:3ZFTkvIE7kyPt6Nu3PEa7V
+    song: Hips Don't Lie
+    artist: Shakira
+  - rank: 23
+    uri: spotify:track:3jlbL2OTD5YmIunYzgQTAN
+    song: Live Your Life (feat. Rihanna)
+    artist: T.I.
+  - rank: 24
+    uri: spotify:track:0dQQWHlXvuw4UyHcAvhfhB
+    song: When I Grow Up
+    artist: The Pussycat Dolls
+  - rank: 25
+    uri: spotify:track:4E5P1XyAFtrjpiIxkydly4
+    song: Replay
+    artist: Iyaz
+  - rank: 26
+    uri: spotify:track:3lwrebzX6n6v4zP5DOqBKc
+    song: Hey Ma
+    artist: Cam’ron
+  - rank: 27
+    uri: spotify:track:34ceTg8ChN5HjrqiIYCn9Q
+    song: Miss Independent
+    artist: Ne-Yo
+  - rank: 28
+    uri: spotify:track:5nkYHBWXu7KCgcdwP6jcB1
+    song: What I Got
+    artist: Sublime
+  - rank: 29
+    uri: spotify:track:4FHu9bOzBjZurx89CMa42L
+    song: All Falls Down
+    artist: Kanye West
+  - rank: 30
+    uri: spotify:track:3cfOd4CMv2snFaKAnMdnvK
+    song: All Star
+    artist: Smash Mouth
+  - rank: 31
+    uri: spotify:track:5J7iGuzi7Nj8SGvt0TAVzK
+    song: The Way I Are
+    artist: Timbaland
+  - rank: 32
+    uri: spotify:track:6BaxqcoEM9r3LXisTyJjST
+    song: Ridin' Solo
+    artist: Jason Derulo
+  - rank: 33
+    uri: spotify:track:7pYPpFhFyOwCjf4y7vdJqM
+    song: Just A Dream - Main
+    artist: Nelly
+  - rank: 34
+    uri: spotify:track:00LfFm08VWeZwB0Zlm24AT
+    song: Suga Suga
+    artist: Baby Bash
+  - rank: 35
+    uri: spotify:track:6RcQOut9fWL6FSqeIr5M1r
+    song: Hollaback Girl
+    artist: Gwen Stefani
+  - rank: 36
+    uri: spotify:track:1hGy2eLcmC8eKx7qr1tOqx
+    song: Beautiful Girls
+    artist: Sean Kingston
+  - rank: 37
+    uri: spotify:track:4P7VFiaZb3xrXoqGwZXC3J
+    song: Lollipop
+    artist: Lil Wayne
+  - rank: 38
+    uri: spotify:track:4JFM7KpVxgPXargA4rzB60
+    song: Dangerous
+    artist: Kardinal Offishall
+  - rank: 39
+    uri: spotify:track:2Z2vOukzwOgqR4dkymRSWd
+    song: Santeria
+    artist: Sublime
+  - rank: 40
+    uri: spotify:track:6cmm1LMvZdB5zsCwX5BjqE
+    song: Down
+    artist: Jay Sean
+  - rank: 41
+    uri: spotify:track:19Js5ypV6JKn4DMExHQbGc
+    song: Stacy's Mom
+    artist: Bowling For Soup
+  - rank: 42
+    uri: spotify:track:2kQuhkFX7uSVepCD3h29g5
+    song: Smack That - Dirty
+    artist: Akon
+  - rank: 43
+    uri: spotify:track:6o3s08kk2fQI37vxGZDrJ1
+    song: Snap Yo Fingers
+    artist: Youngbloodz
+  - rank: 44
+    uri: spotify:track:3U3Ff8ZvL6oEu1r98gCCWW
+    song: Pon de Replay
+    artist: Rihanna
+  - rank: 45
+    uri: spotify:track:0x1LCpY9Rgeq97VPajm81B
+    song: Cyclone - Main
+    artist: Baby Bash
+  - rank: 46
+    uri: spotify:track:4rqR0yM2k41leqyErhNzTs
+    song: Beautiful
+    artist: Akon
+  - rank: 47
+    uri: spotify:track:04KTF78FFg8sOHC1BADqbY
+    song: Hot In Herre
+    artist: Nelly
+  - rank: 48
+    uri: spotify:track:2dN72Xy0X05DiUXwtGAgCM
+    song: Party Like A Rock Star
+    artist: Shop Boyz
+  - rank: 49
+    uri: spotify:track:5XJJdNPkwmbUwE79gv0NxK
+    song: Gold Digger
+    artist: Kanye West
+  - rank: 50
+    uri: spotify:track:0wpbHnOW0zVUtV10LSj9c9
+    song: Down On Me
+    artist: Jeremih
+  - rank: 51
+    uri: spotify:track:2gam98EZKrF9XuOkU13ApN
+    song: Promiscuous
+    artist: Nelly Furtado
+  - rank: 52
+    uri: spotify:track:6ScJMrlpiLfZUGtWp4QIVt
+    song: A Milli
+    artist: Lil Wayne
+- pid: '786219'
+  playlist_title: Party
+  tracks:
+  - rank: 1
+    uri: spotify:track:5ORf8BZMbq4xN9kiumrPcQ
+    song: Round Of Applause - feat. Drake
+    artist: Waka Flocka Flame
+  - rank: 2
+    uri: spotify:track:5KY7zgFeH2GWoL1zP9mME6
+    song: Get Low - Street
+    artist: Lil Jon & The East Side Boyz
+  - rank: 3
+    uri: spotify:track:1vS1Rd10oLbmggo9GwOswt
+    song: Main Chick
+    artist: Kid Ink
+  - rank: 4
+    uri: spotify:track:67ncKGqScuJdNUN6bTqclA
+    song: Yiken (Certified)
+    artist: Priceless Da Roc
+  - rank: 5
+    uri: spotify:track:27PmKcvsjXp7G1IQgLUkYY
+    song: My Nigga
+    artist: YG
+  - rank: 6
+    uri: spotify:track:1vlF9cEDZoQXL18p9OfVxw
+    song: Ass Down Twerk
+    artist: Twerkteam
+  - rank: 7
+    uri: spotify:track:3VzJE6yGuj8fDExUh6TLnc
+    song: Candy Shop
+    artist: 50 Cent
+  - rank: 8
+    uri: spotify:track:1L0rvFTlpoR8rHxdR4lTSN
+    song: Gas Pedal
+    artist: Sage The Gemini
+  - rank: 9
+    uri: spotify:track:1xznGGDReH1oQq0xzbwXa3
+    song: One Dance
+    artist: Drake
+  - rank: 10
+    uri: spotify:track:6ZA3Q8Dj5BrnmOsT300DCh
+    song: Ice Cream Man
+    artist: Tyga
+  - rank: 11
+    uri: spotify:track:7IOylPVta0ApSfJVgNksZs
+    song: Fuck It Up
+    artist: YG
+  - rank: 12
+    uri: spotify:track:6o4nVtywF4F75RkOcDxrtd
+    song: With That (feat. Duke)
+    artist: Young Thug
+  - rank: 13
+    uri: spotify:track:7LvRX7afsx6l11sRjuq4fr
+    song: Red Nose
+    artist: Sage The Gemini
+  - rank: 14
+    uri: spotify:track:39hnH8WdPmNT3Q3yzwC9Rg
+    song: Why You Always Hatin?
+    artist: YG
+  - rank: 15
+    uri: spotify:track:1o5jdqnWybW9Mau4GDWPMa
+    song: Problem
+    artist: Young Thug
+  - rank: 16
+    uri: spotify:track:34oWbFBfGEElvgO0a5c9V4
+    song: No Flockin
+    artist: Kodak Black
+  - rank: 17
+    uri: spotify:track:7zBPzAjKAqQpcv8F8GCq5s
+    song: Uber Everywhere
+    artist: MadeinTYO
+  - rank: 18
+    uri: spotify:track:4P6BuLsqtg5uISdE77ypI9
+    song: Ayy Ladies
+    artist: Travis Porter
+  - rank: 19
+    uri: spotify:track:03XwnKr4R5m6B0oniEl7Fh
+    song: Im a Thug
+    artist: Meek Mill
+  - rank: 20
+    uri: spotify:track:0aWia6YqI2s9r41bXwnqhX
+    song: Booty Me Down
+    artist: Kstylis
+  - rank: 21
+    uri: spotify:track:68QgZ20yKM6wgX9UpFbSbL
+    song: Get It Shawty - Main
+    artist: Lloyd
+  - rank: 22
+    uri: spotify:track:2KyiIp5r7uPc0WGeyd5Pbk
+    song: Play
+    artist: David Banner
+  - rank: 23
+    uri: spotify:track:5suEtW2DUAfvroohjzgatb
+    song: Blasé (feat. Future & Rae Sremmurd)
+    artist: Ty Dolla $ign
+  - rank: 24
+    uri: spotify:track:0fcQczCqmgsuuwwFVrehP4
+    song: Bompton
+    artist: YG
+  - rank: 25
+    uri: spotify:track:1DAUK5ttmJA9xN0cs7gTxg
+    song: Dump Truck - feat. Travis Porter & Young Chu
+    artist: E-40
+  - rank: 26
+    uri: spotify:track:1BpMnkPP9C5StoxcgcFEVz
+    song: Left, Right
+    artist: YG
+  - rank: 27
+    uri: spotify:track:6JjEVlMkfHWMeYavkEYzNO
+    song: Gassed Up
+    artist: Nebu Kiniza
+  - rank: 28
+    uri: spotify:track:1MsXh9Rl2RhscG7IaBhwU7
+    song: Lolli Lolli (Pop That Body) - Explicit Album Version
+    artist: Three 6 Mafia
+  - rank: 29
+    uri: spotify:track:0B8QzDH7YWih85V5SEMnyJ
+    song: Money Longer
+    artist: Lil Uzi Vert
+  - rank: 30
+    uri: spotify:track:4FOv3s8nyCctxcgstQwtFj
+    song: Don't You
+    artist: Sage The Gemini
+  - rank: 31
+    uri: spotify:track:1Oenqmtbzt331Pgv0ODfS2
+    song: Outta Your Mind
+    artist: Lil Jon
+  - rank: 32
+    uri: spotify:track:5Uj2at1EGAaWCrLyEUuXBp
+    song: Still Brazy
+    artist: YG
+  - rank: 33
+    uri: spotify:track:1SUlp88ERu0sH178PG6bwC
+    song: Slow Down
+    artist: Clyde Carson
+  - rank: 34
+    uri: spotify:track:237tdkBYoEmHKctPrkuykn
+    song: Playin Around
+    artist: Young Gangsta
+  - rank: 35
+    uri: spotify:track:1uDjaezEbalGyGnuH80zDK
+    song: Who Do You Love?
+    artist: YG
+  - rank: 36
+    uri: spotify:track:5uqphUYsR45kPYplrYSAQh
+    song: Throw Sum Mo
+    artist: Rae Sremmurd
+  - rank: 37
+    uri: spotify:track:4MeDnO5yA2Zi6IMlVApRci
+    song: Freek-A-Leek
+    artist: Petey Pablo
+  - rank: 38
+    uri: spotify:track:6fwdbPMwP1zVStm8FybmkO
+    song: X (feat. Future)
+    artist: 21 Savage
+  - rank: 39
+    uri: spotify:track:1LxKKYsJNPeBdOwdudsJzv
+    song: Down In the DM
+    artist: Yo Gotti
+  - rank: 40
+    uri: spotify:track:14WWzenpaEgQZlqPq2nk4v
+    song: Work
+    artist: Rihanna
+  - rank: 41
+    uri: spotify:track:3bMNprrp2JDKZsGbiXpsJl
+    song: My Chick Bad
+    artist: Ludacris
+  - rank: 42
+    uri: spotify:track:4Kz4RdRCceaA9VgTqBhBfa
+    song: The Motto
+    artist: Drake
+  - rank: 43
+    uri: spotify:track:1Ser4X0TKttOvo8bgdytTP
+    song: Come Get Her
+    artist: Rae Sremmurd
+  - rank: 44
+    uri: spotify:track:4GVD0FIBo08FSAy3tbIY7g
+    song: Pop That
+    artist: French Montana
+  - rank: 45
+    uri: spotify:track:6mZcNu9i8uhOYMiEAyEx81
+    song: How We Do
+    artist: The Game
+  - rank: 46
+    uri: spotify:track:2q6j0nlwgKlYy7xgrria4S
+    song: Show Me
+    artist: Kid Ink
+  - rank: 47
+    uri: spotify:track:0wpbHnOW0zVUtV10LSj9c9
+    song: Down On Me
+    artist: Jeremih
+  - rank: 48
+    uri: spotify:track:3D6weKhlYiFAJNMrfNfoWR
+    song: Milwaukee Bucks
+    artist: Frostydasnowmann
+  - rank: 49
+    uri: spotify:track:649D7OmBOMjoVT0t3pa6tA
+    song: Like Whaaat (feat. Bad Lucc)
+    artist: Problem
+  - rank: 50
+    uri: spotify:track:3ZAMtgYJFoHwJjFkhkXqKr
+    song: Dance (A$$) Remix
+    artist: Big Sean
+  - rank: 51
+    uri: spotify:track:3XabgBQYC7H80agKcAq83Y
+    song: Shake That Monkey
+    artist: Too $hort
+  - rank: 52
+    uri: spotify:track:7EZPH9Px3gXlxD5KJDwtwc
+    song: Bandz A Make Her Dance
+    artist: Juicy J
+  - rank: 53
+    uri: spotify:track:7xVLFuuYdAvcTfcP3IG3dS
+    song: Work REMIX
+    artist: A$AP Ferg
+  - rank: 54
+    uri: spotify:track:5nN8BwAQDJDguq7Dpd3JQQ
+    song: Where Ya At
+    artist: Future
+  - rank: 55
+    uri: spotify:track:6F609ICg9Spjrw1epsAnpa
+    song: Controlla
+    artist: Drake
+  - rank: 56
+    uri: spotify:track:6NYISeIy8lsfbE24RU4nAA
+    song: Oh My Gawd (OMG)
+    artist: Frostydasnowmann
+  - rank: 57
+    uri: spotify:track:3KJ7btrsyVPy2VJXBElxq6
+    song: I'm Good
+    artist: YG
+  - rank: 58
+    uri: spotify:track:42tcDJD6gFl469vffWovWf
+    song: You Broke
+    artist: YG
+  - rank: 59
+    uri: spotify:track:1WtTLtofvcjQM3sXSMkDdX
+    song: How Low
+    artist: Ludacris
+  - rank: 60
+    uri: spotify:track:6rorH8bDwn1lrHTW48bXiN
+    song: Who Booty
+    artist: Jonn Hart
+  - rank: 61
+    uri: spotify:track:4rLpAOk5KVNcqEMK3m6Lje
+    song: Ain't No Fun (If the Homies Cant Have None) (feat. Nate Dogg, Warren G &
+      Kurupt)
+    artist: Snoop Dogg
+  - rank: 62
+    uri: spotify:track:0KmRds1gyG3FMeQ03MXJHA
+    song: College Drop
+    artist: Sage The Gemini
+  - rank: 63
+    uri: spotify:track:4ZFtNZuzzdHjYKARA8TEh2
+    song: Birthday Bitch
+    artist: Trap Beckham
+  - rank: 64
+    uri: spotify:track:4p9ovGoDiYKgOFmFMDgdOI
+    song: Bless the Bottle (feat. Cali Stackz)
+    artist: Radiobase
+  - rank: 65
+    uri: spotify:track:5PR09nMAHAOOklMQMJchch
+    song: Function - feat. YG, IAmSu & Problem
+    artist: E-40
+  - rank: 66
+    uri: spotify:track:2LvRR121MWFmmEGkuV2vQP
+    song: HeadBand (feat. 2 Chainz)
+    artist: B.o.B
+  - rank: 67
+    uri: spotify:track:788NX6uCNEVuZW8x5BkQqM
+    song: Like Dat
+    artist: Kodak Black
+  - rank: 68
+    uri: spotify:track:1rEHQCkmLYY0CDrIborSoF
+    song: Paranoid (feat. B.o.B)
+    artist: Ty Dolla $ign
+  - rank: 69
+    uri: spotify:track:3lSR267IJfT54p0Gfuw7mi
+    song: Right Hand
+    artist: Drake
+  - rank: 70
+    uri: spotify:track:6o2g1BJvtYQssH84kBYs7y
+    song: Back That Azz Up
+    artist: Juvenile
+  - rank: 71
+    uri: spotify:track:33JcUj9qQDayKswunZP9ar
+    song: Best Friend
+    artist: Young Thug
+  - rank: 72
+    uri: spotify:track:0x1LCpY9Rgeq97VPajm81B
+    song: Cyclone - Main
+    artist: Baby Bash
+  - rank: 73
+    uri: spotify:track:0k6HUzaRHpQ3eEWr1C7Esh
+    song: Ms. New Booty - feat. Ying Yang Twins and Mr. ColliPark
+    artist: Bubba Sparxxx
+- pid: '47214'
+  playlist_title: workout
+  tracks:
+  - rank: 1
+    uri: spotify:track:69bp2EbF7Q2rqc5N3ylezZ
+    song: Sorry
+    artist: Justin Bieber
+  - rank: 2
+    uri: spotify:track:5w1vhNA2OEWUQ371QzyMmM
+    song: Down In the DM - Remix
+    artist: Yo Gotti
+  - rank: 3
+    uri: spotify:track:16qYlQ6koFxYVbiJbGHblz
+    song: G.O.M.D.
+    artist: J. Cole
+  - rank: 4
+    uri: spotify:track:5zaIgI9HNUPIcfaeVRlxGa
+    song: Just A Lil' Thick (She Juicy)
+    artist: Trinidad James
+  - rank: 5
+    uri: spotify:track:5vgdeMt4uKUN2BeltZjoDh
+    song: UGH!
+    artist: The 1975
+  - rank: 6
+    uri: spotify:track:6nJN1GYIHIdg1HQtrmJsqU
+    song: I Hit It First
+    artist: Ray J
+  - rank: 7
+    uri: spotify:track:4qYLPta5HZ36idWiXtqh7B
+    song: Highlights
+    artist: Kanye West
+  - rank: 8
+    uri: spotify:track:0na8x6EOqjHsGABdB90TIC
+    song: Hold Tight
+    artist: Justin Bieber
+  - rank: 9
+    uri: spotify:track:40bm28QcJT5My540ymSQ2y
+    song: Untouched
+    artist: The Veronicas
+  - rank: 10
+    uri: spotify:track:7bmqcI1HQwx1PWwYyZO0lg
+    song: Kiss It Better
+    artist: Rihanna
+  - rank: 11
+    uri: spotify:track:7z9iM9Vq0gtKaquUdFwuOR
+    song: Move Somethin'
+    artist: LL Cool J
+  - rank: 12
+    uri: spotify:track:5CYRfPViGWqsLoypm1bX4u
+    song: LA Confidential
+    artist: Tory Lanez
+  - rank: 13
+    uri: spotify:track:1EIhpG65DWoQDPSxwGu311
+    song: Lullaby
+    artist: Ciara
+  - rank: 14
+    uri: spotify:track:0bLvU4iJiavgD1VNJ141eE
+    song: Headsprung
+    artist: LL Cool J
+  - rank: 15
+    uri: spotify:track:2gPl93XdGnfKUykwxVHUYt
+    song: Go Get It
+    artist: T.I.
+  - rank: 16
+    uri: spotify:track:1uTXtV2r7DSRnMGKh3HxGi
+    song: Superlove
+    artist: Tinashe
+  - rank: 17
+    uri: spotify:track:1qJjofprTOxvqkIAdDixaP
+    song: For Everybody
+    artist: Juicy J
+  - rank: 18
+    uri: spotify:track:2Fe6gDE0mCZz0g98i5QpVL
+    song: MY PYT
+    artist: Wale
+  - rank: 19
+    uri: spotify:track:52NmkyHsGsHGb1UX8fTkMg
+    song: I'm In It
+    artist: Kanye West
+  - rank: 20
+    uri: spotify:track:1ONDh5J57iGYUn6okjYYjI
+    song: Hands Up, Get Low
+    artist: Kstylis
+  - rank: 21
+    uri: spotify:track:7lT9KJpfzMTNi9702WuNI8
+    song: Body Language
+    artist: Jesse McCartney
+  - rank: 22
+    uri: spotify:track:37EDnGj3yFe5Hs4Zk3s3YF
+    song: Monster
+    artist: Meek Mill
+  - rank: 23
+    uri: spotify:track:03XwnKr4R5m6B0oniEl7Fh
+    song: Im a Thug
+    artist: Meek Mill
+  - rank: 24
+    uri: spotify:track:4izP2KMwrhAdZEtIyp8Z8w
+    song: Jumpshot
+    artist: Dawin
+  - rank: 25
+    uri: spotify:track:1BpMnkPP9C5StoxcgcFEVz
+    song: Left, Right
+    artist: YG
+  - rank: 26
+    uri: spotify:track:2prGRPQq7EmGcq1fgx3CWx
+    song: Get On Your Knees
+    artist: Nicki Minaj
+  - rank: 27
+    uri: spotify:track:7rQ7daaKRFhCz0TgFgAzU2
+    song: Sidekick
+    artist: Dawin
+  - rank: 28
+    uri: spotify:track:4ejtrks9KfRe7keI7FRIPc
+    song: Buy A Heart
+    artist: Nicki Minaj
+  - rank: 29
+    uri: spotify:track:5EN3kJFCtehvLCKieHQj1E
+    song: Dead Wrong (feat. Ty Dolla $ign)
+    artist: Trey Songz
+  - rank: 30
+    uri: spotify:track:423FiDerFgzeEcqKEOmZ81
+    song: Saturday
+    artist: Fall Out Boy
+  - rank: 31
+    uri: spotify:track:6nDAs3PRe37fgqLfx51lBB
+    song: Radioactive
+    artist: Imagine Dragons
+  - rank: 32
+    uri: spotify:track:5mPSyjLatqB00IkPqRlbTE
+    song: Pop Style
+    artist: Drake
+  - rank: 33
+    uri: spotify:track:2U0oSp6cWr64om92B4Fn87
+    song: Light Of Day
+    artist: Dawin
+  - rank: 34
+    uri: spotify:track:4zTAk4UmucLEITBWV2VEXb
+    song: H•A•M
+    artist: Kanye West
+  - rank: 35
+    uri: spotify:track:39RWgrQOBCLQH88wy0TBm9
+    song: Sanctified
+    artist: Rick Ross
+  - rank: 36
+    uri: spotify:track:4MJlgdrGLaayCTPtdn0kII
+    song: Do What U Want
+    artist: Lady Gaga
+  - rank: 37
+    uri: spotify:track:2LvRR121MWFmmEGkuV2vQP
+    song: HeadBand (feat. 2 Chainz)
+    artist: B.o.B
+  - rank: 38
+    uri: spotify:track:3LTdA3PWG7IkSdAlaO1szN
+    song: Bad Decisions
+    artist: Ariana Grande
+  - rank: 39
+    uri: spotify:track:68Z3yDFWunnW8RcneXaslw
+    song: I Wish You Would
+    artist: DJ Khaled
+  - rank: 40
+    uri: spotify:track:13VDHbpoKlRhtgUaWTE2Ld
+    song: Stupid Hoe
+    artist: Nicki Minaj
+  - rank: 41
+    uri: spotify:track:5N7chlDyQLacDTxl5CCitD
+    song: Trampoline Booty
+    artist: Kstylis
+  - rank: 42
+    uri: spotify:track:66TRwr5uJwPt15mfFkzhbi
+    song: Crank That (Soulja Boy)
+    artist: Soulja Boy
+  - rank: 43
+    uri: spotify:track:1FfxSgLHUkNCCLdZ7wrCTY
+    song: The Devil Is A Lie
+    artist: Rick Ross
+  - rank: 44
+    uri: spotify:track:27L8sESb3KR79asDUBu8nW
+    song: Stacy's Mom
+    artist: Fountains Of Wayne
+  - rank: 45
+    uri: spotify:track:29puLuNIchya5HGatSbHwX
+    song: Fallin' in Love
+    artist: Maad*Moiselle
+  - rank: 46
+    uri: spotify:track:40XHORpTeMwJ2hwpKhpRqW
+    song: Dibs
+    artist: Kelsea Ballerini
+  - rank: 47
+    uri: spotify:track:7ogioiNh3fJy2M2AsHM6mZ
+    song: All Your Fault
+    artist: Big Sean
+  - rank: 48
+    uri: spotify:track:7oK9VyNzrYvRFo7nQEYkWN
+    song: Mr. Brightside
+    artist: The Killers
+  - rank: 49
+    uri: spotify:track:5jE48hhRu8E6zBDPRSkEq7
+    song: All About That Bass
+    artist: Meghan Trainor
+  - rank: 50
+    uri: spotify:track:3AZ9sxVKfr6TJHBnp2YWed
+    song: Ghetto
+    artist: The-Dream
+  - rank: 51
+    uri: spotify:track:0aWia6YqI2s9r41bXwnqhX
+    song: Booty Me Down
+    artist: Kstylis
+  - rank: 52
+    uri: spotify:track:7jRoWfRlLnGYEIEn4t4kbq
+    song: London Bridge
+    artist: Fergie
+  - rank: 53
+    uri: spotify:track:4k1twluDPNSnrFd3Wxsibv
+    song: Mula Remix
+    artist: Big Sean
+  - rank: 54
+    uri: spotify:track:76iUSvF96Plu0764Jjc6xL
+    song: Cockiness (Love It)
+    artist: Rihanna
+  - rank: 55
+    uri: spotify:track:3BN86m6Dl6hYgOj2qo1gAg
+    song: 3 Wayz (feat. Travis Scott)
+    artist: Ty Dolla $ign
+  - rank: 56
+    uri: spotify:track:6gcZJ6sUTEQRDCIvf5r7uk
+    song: Let It Go - Remix
+    artist: Keyshia Cole
+  - rank: 57
+    uri: spotify:track:1LxKKYsJNPeBdOwdudsJzv
+    song: Down In the DM
+    artist: Yo Gotti
+  - rank: 58
+    uri: spotify:track:7lL3MvFWFFSD25pBz72Agj
+    song: A Tale of 2 Citiez
+    artist: J. Cole
+  - rank: 59
+    uri: spotify:track:79reBHqpRoWXaQbjBBY3UC
+    song: All Day
+    artist: Kanye West
+  - rank: 60
+    uri: spotify:track:0NCOrKcUZHt18RhuAJuyIe
+    song: Baby-Baby-Baby
+    artist: TLC
+  - rank: 61
+    uri: spotify:track:6MBEjJlXQYXr8dfxDvZuoA
+    song: Do It To It - Feat. Sean Paul Of YoungBloodZ
+    artist: Cherish
+  - rank: 62
+    uri: spotify:track:2mqDi8BzmNw54qrVHduyiu
+    song: Dessert - Remix
+    artist: Dawin
+  - rank: 63
+    uri: spotify:track:3MnbXlC1N7GdS9M8HzA6no
+    song: Facts (Charlie Heat Version)
+    artist: Kanye West
+  - rank: 64
+    uri: spotify:track:1PTqbs9FV8hSJCS7OOF5OC
+    song: Do It Again
+    artist: Pia Mia
+  - rank: 65
+    uri: spotify:track:6n2GPvMJtFZ4ckoc9EWHMx
+    song: Do My Thang
+    artist: Miley Cyrus
+  - rank: 66
+    uri: spotify:track:6qwGBEapykrbAHTYlYwONN
+    song: Cole World
+    artist: J. Cole
+  - rank: 67
+    uri: spotify:track:6JoIs4XLvBgjZOkKnyuPPv
+    song: Schoolin' Life
+    artist: Beyoncé
+  - rank: 68
+    uri: spotify:track:6SULfvvRflfNzfwJlUGcpr
+    song: Bikini Body
+    artist: Dawin
+  - rank: 69
+    uri: spotify:track:6Sm2YzLtL8FcyTMONOkiFw
+    song: Feeling Myself
+    artist: Nicki Minaj
+  - rank: 70
+    uri: spotify:track:3CcvahnsiArpTHYQEWV2Au
+    song: Bring Em Out
+    artist: T.I.
+  - rank: 71
+    uri: spotify:track:2ssYQKMqVUkoQgi02PmDPB
+    song: About You
+    artist: Trey Songz
+  - rank: 72
+    uri: spotify:track:6RR0gGywnokuXCekeT1CF8
+    song: When I See Ya (feat. Fetty Wap)
+    artist: Ty Dolla $ign
+  - rank: 73
+    uri: spotify:track:4Z3qm2aWGTJuJKnv3EWwyD
+    song: Hide Away
+    artist: Daya
+  - rank: 74
+    uri: spotify:track:2noUMJZh3dooDmoHXJ1ut6
+    song: Break Up To Make Up
+    artist: Jeremih
+  - rank: 75
+    uri: spotify:track:39liuGHPxn2sAyvO6DINor
+    song: Back On Road
+    artist: Gucci Mane
+  - rank: 76
+    uri: spotify:track:30Chv2SmIry70YwtmtaKnj
+    song: Hello
+    artist: J. Cole
+  - rank: 77
+    uri: spotify:track:1dmwLTV54sRjGRRC9G2Sbr
+    song: That's My Bitch
+    artist: JAY Z
+  - rank: 78
+    uri: spotify:track:0N3W5peJUQtI4eyR6GJT5O
+    song: King Kunta
+    artist: Kendrick Lamar
+  - rank: 79
+    uri: spotify:track:6IGkh6YoSHhgfI8qzlTZ98
+    song: Royalty
+    artist: Jeremih
+  - rank: 80
+    uri: spotify:track:02M6vucOvmRfMxTXDUwRXu
+    song: 7/11
+    artist: Beyoncé
+  - rank: 81
+    uri: spotify:track:4VHLWCpdYGUl3O0oXETu3Z
+    song: Round of Applause
+    artist: Trina
+  - rank: 82
+    uri: spotify:track:5uqphUYsR45kPYplrYSAQh
+    song: Throw Sum Mo
+    artist: Rae Sremmurd
+  - rank: 83
+    uri: spotify:track:6Ius4TC0L3cN74HT7ENE6e
+    song: Wet Dreamz
+    artist: J. Cole
+  - rank: 84
+    uri: spotify:track:5P4tnOat66y4RAul7axd2A
+    song: Patty Cake
+    artist: YG
+  - rank: 85
+    uri: spotify:track:7HGTkn2aX7MNdKs7nV2xBt
+    song: Somebody Told Me
+    artist: The Killers
+  - rank: 86
+    uri: spotify:track:5SrCMJeYya9OtC6mwDNx51
+    song: Back To The Start
+    artist: SoMo
+  - rank: 87
+    uri: spotify:track:1B0dhapu7P98xGOPM3a6Sj
+    song: One Reason (Flex) [feat. Eric Bellinger]
+    artist: Wale
+  - rank: 88
+    uri: spotify:track:5tEbnKMOMK8LLoOIsEkWRr
+    song: Big S**t Poppin' (Do It)
+    artist: T.I.
+  - rank: 89
+    uri: spotify:track:12d5QFwzh60IIHlsSnAvps
+    song: 10 Bands
+    artist: Drake
+  - rank: 90
+    uri: spotify:track:2NBQmPrOEEjA8VbeWOQGxO
+    song: Drop It Like It's Hot
+    artist: Snoop Dogg
+  - rank: 91
+    uri: spotify:track:3JOdLCIBzQYwHIvpN3isVf
+    song: Grand Theft Autumn/Where Is Your Boy
+    artist: Fall Out Boy
+  - rank: 92
+    uri: spotify:track:2n5gVJ9fzeX2SSWlLQuyS9
+    song: Fight Night
+    artist: Migos
+  - rank: 93
+    uri: spotify:track:5F6EUcrs5L8tWTD8HSYmVf
+    song: Ride Like That
+    artist: Travis Porter
+  - rank: 94
+    uri: spotify:track:2LX9coJz8pfFHb8AaoVhXS
+    song: Or Nah (feat. Wiz Khalifa and DJ Mustard)
+    artist: Ty Dolla $ign
+  - rank: 95
+    uri: spotify:track:5XJJdNPkwmbUwE79gv0NxK
+    song: Gold Digger
+    artist: Kanye West
+  - rank: 96
+    uri: spotify:track:7k6IzwMGpxnRghE7YosnXT
+    song: Me & U
+    artist: Cassie
+  - rank: 97
+    uri: spotify:track:7mhk9WyqZZzvTTCQKfh2iV
+    song: Law
+    artist: Yo Gotti
+  - rank: 98
+    uri: spotify:track:7vG4r3FJGvwOjvuKdiDWgq
+    song: Wuzhanindoe
+    artist: Gunplay
+- pid: '889395'
+  playlist_title: work
+  tracks:
+  - rank: 1
+    uri: spotify:track:2SSFvQBwsxeazzo7z5l9gD
+    song: Delirious (Boneless)
+    artist: Steve Aoki
+  - rank: 2
+    uri: spotify:track:6GQuF9vzJAVs7fYN9ftBdP
+    song: Diva
+    artist: Beyoncé
+  - rank: 3
+    uri: spotify:track:4EfN6bixdOOgoLYR5C4cWo
+    song: Birthday Cake
+    artist: Rihanna
+  - rank: 4
+    uri: spotify:track:4pLwZjInHj3SimIyN9SnOz
+    song: Side To Side
+    artist: Ariana Grande
+  - rank: 5
+    uri: spotify:track:69bp2EbF7Q2rqc5N3ylezZ
+    song: Sorry
+    artist: Justin Bieber
+  - rank: 6
+    uri: spotify:track:1u6GCyU5atrzrAqwC55og1
+    song: '#GETITRIGHT'
+    artist: Miley Cyrus
+  - rank: 7
+    uri: spotify:track:6ic8OlLUNEATToEFU3xmaH
+    song: Gimme More
+    artist: Britney Spears
+  - rank: 8
+    uri: spotify:track:0ua0Go4NN4Td7l0Zre6Ce3
+    song: Flashing Lights
+    artist: Kanye West
+  - rank: 9
+    uri: spotify:track:17Fd6Yb7mSbinKG8LoWfFl
+    song: I Took A Pill In Ibiza - Seeb Remix
+    artist: Mike Posner
+  - rank: 10
+    uri: spotify:track:3KliPMvk1EvFZu9cvkj8p1
+    song: Work B**ch
+    artist: Britney Spears
+  - rank: 11
+    uri: spotify:track:2iDjCLUOGhJtz5cPHljGVd
+    song: Ass Drop
+    artist: Wiz Khalifa
+  - rank: 12
+    uri: spotify:track:0iIY7S7uiEYC9TvVaWZHV3
+    song: Left Hand Free - Lido Remix
+    artist: alt-J
+  - rank: 13
+    uri: spotify:track:1BltsyC5W3SAABdxyrDXwi
+    song: Latch
+    artist: Disclosure
+  - rank: 14
+    uri: spotify:track:3NLnwwAQbbFKcEcV8hDItk
+    song: Perfect
+    artist: One Direction
+  - rank: 15
+    uri: spotify:track:4osg3vT6sXv6wNxm9Z6ucQ
+    song: Rehab
+    artist: Amy Winehouse
+  - rank: 16
+    uri: spotify:track:0i7bg5CcqyaceKjXaPXywN
+    song: Body Say
+    artist: Demi Lovato
+  - rank: 17
+    uri: spotify:track:6FopJmIHgp2ADIHEDrJixZ
+    song: A-YO
+    artist: Lady Gaga
+  - rank: 18
+    uri: spotify:track:4tCtwWceOPWzenK2HAIJSb
+    song: Work from Home
+    artist: Fifth Harmony
+  - rank: 19
+    uri: spotify:track:2d8JP84HNLKhmd6IYOoupQ
+    song: Trap Queen
+    artist: Fetty Wap
+  - rank: 20
+    uri: spotify:track:2XMTqoHHSH0lvuXrvIEdco
+    song: Capsize
+    artist: FRENSHIP
+  - rank: 21
+    uri: spotify:track:4xBjsLUSjcx2h7PcRikpQp
+    song: OMG
+    artist: Camila Cabello
+  - rank: 22
+    uri: spotify:track:3jagJCUbdqhDSPuxP8cAqF
+    song: Work It
+    artist: Missy Elliott
+  - rank: 23
+    uri: spotify:track:3jEPu6FD1icy9cLllhB2XK
+    song: Omen - Radio Edit
+    artist: Disclosure
+  - rank: 24
+    uri: spotify:track:6I9VzXrHxO9rA9A5euc8Ak
+    song: Toxic
+    artist: Britney Spears
+  - rank: 25
+    uri: spotify:track:6pvdo2tv6KAcbOeEofiWBP
+    song: Dance In The Dark
+    artist: Lady Gaga
+  - rank: 26
+    uri: spotify:track:1LxKKYsJNPeBdOwdudsJzv
+    song: Down In the DM
+    artist: Yo Gotti
+  - rank: 27
+    uri: spotify:track:4jTiyLlOJVJj3mCr7yfPQD
+    song: This Could Be Us
+    artist: Rae Sremmurd
+  - rank: 28
+    uri: spotify:track:27GmP9AWRs744SzKcpJsTZ
+    song: Jumpman
+    artist: Drake
+  - rank: 29
+    uri: spotify:track:14WWzenpaEgQZlqPq2nk4v
+    song: Work
+    artist: Rihanna
+  - rank: 30
+    uri: spotify:track:1XHjU0TGIgl5lMFKAF25Y3
+    song: '23'
+    artist: Mike WiLL Made-It
+  - rank: 31
+    uri: spotify:track:2t3BqduzpMJVMo5cceBLQY
+    song: Circle The Drain
+    artist: Katy Perry
+  - rank: 32
+    uri: spotify:track:2NVt7fxr5GsqTkGwYXcNTE
+    song: Flex (Ooh, Ooh, Ooh)
+    artist: Rich Homie Quan
+  - rank: 33
+    uri: spotify:track:0KKkJNfGyhkQ5aFogxQAPU
+    song: That's What I Like
+    artist: Bruno Mars
+  - rank: 34
+    uri: spotify:track:3osQ5lSSqZb8HWRozdbVPw
+    song: M.I.L.F. $
+    artist: Fergie
+  - rank: 35
+    uri: spotify:track:0v9Wz8o0BT8DU38R4ddjeH
+    song: No Problem (feat. Lil Wayne & 2 Chainz)
+    artist: Chance The Rapper
+  - rank: 36
+    uri: spotify:track:0eH2eHURaXUP15D8gQlfjx
+    song: LoveGame
+    artist: Lady Gaga
+  - rank: 37
+    uri: spotify:track:5LZQ5s0kRZS9nBSd1xLK7U
+    song: Trndsttr (feat. M. Maggie) - Lucian Remix
+    artist: Black Coast
+  - rank: 38
+    uri: spotify:track:152ANCuCtaK7mkhyFubrRG
+    song: Doses & Mimosas
+    artist: Cherub
+  - rank: 39
+    uri: spotify:track:6iBaw0T7b3pTmMH1eMrul0
+    song: Bad Girls
+    artist: M.I.A.
+  - rank: 40
+    uri: spotify:track:7cX4PJz1old9fyFI8RlfgW
+    song: Read My Mind
+    artist: The Killers
+  - rank: 41
+    uri: spotify:track:3QzbEvmnuZIONNv82PylZb
+    song: Our Own House
+    artist: MisterWives
+  - rank: 42
+    uri: spotify:track:0PDUDa38GO8lMxLCRc4lL1
+    song: PILLOWTALK
+    artist: ZAYN
+  - rank: 43
+    uri: spotify:track:4KW1lqgSr8TKrvBII0Brf8
+    song: Father Stretch My Hands Pt. 1
+    artist: Kanye West
+  - rank: 44
+    uri: spotify:track:37f4ITSlgPX81ad2EvmVQr
+    song: Fight Song
+    artist: Rachel Platten
+  - rank: 45
+    uri: spotify:track:73Qlt0XuhuYzEigjitm2ze
+    song: Cool for the Summer
+    artist: Demi Lovato
+  - rank: 46
+    uri: spotify:track:0HIO0Q2CKAueJIWBRKqKxV
+    song: Higher Ground
+    artist: Lunice
+  - rank: 47
+    uri: spotify:track:1cOyWWUr3oXJIxY0AjJEx9
+    song: YOUTH
+    artist: Troye Sivan
+  - rank: 48
+    uri: spotify:track:2FBUoWkIuQXwayw2RNo5l6
+    song: Hotline Bling
+    artist: Drake
+  - rank: 49
+    uri: spotify:track:6fujklziTHa8uoM5OQSfIo
+    song: Black Beatles
+    artist: Rae Sremmurd
+  - rank: 50
+    uri: spotify:track:5NQbUaeTEOGdD6hHcre0dZ
+    song: 679 (feat. Remy Boyz)
+    artist: Fetty Wap
+  - rank: 51
+    uri: spotify:track:7EiZI6JVHllARrX9PUvAdX
+    song: Low Life
+    artist: Future
+- pid: '497427'
+  playlist_title: Love songs
+  tracks:
+  - rank: 1
+    uri: spotify:track:2k9N4caeCIJLOWwWwssrEM
+    song: Easily
+    artist: Bruno Major
+  - rank: 2
+    uri: spotify:track:0YEsfwQpG7ofdIiHWA0dHi
+    song: All I Ever Need
+    artist: Austin Mahone
+  - rank: 3
+    uri: spotify:track:67EY6aDoIx8czEPS6a2AaI
+    song: The Man Who Can't Be Moved
+    artist: The Script
+  - rank: 4
+    uri: spotify:track:4MflGTO2ZTcSQ12bWcyRgI
+    song: Honey, I'm Good.
+    artist: Andy Grammer
+  - rank: 5
+    uri: spotify:track:13HVjjWUZFaWilh2QUJKsP
+    song: Let It Go
+    artist: James Bay
+  - rank: 6
+    uri: spotify:track:4Jz4bjXeiF2SXVj9P4YfY5
+    song: Keep Your Head Up
+    artist: Andy Grammer
+  - rank: 7
+    uri: spotify:track:3ZjnFYlal0fXN6t61wdxhl
+    song: Terrible Things
+    artist: Mayday Parade
+  - rank: 8
+    uri: spotify:track:5VGlqQANWDKJFl0MBG3sg2
+    song: Use Somebody
+    artist: Kings of Leon
+  - rank: 9
+    uri: spotify:track:4nMlau89VAjmV7agkl7OY3
+    song: Fresh Eyes
+    artist: Andy Grammer
+  - rank: 10
+    uri: spotify:track:4z8c9qkpiYghn6DCQ6yA0u
+    song: Simple Things (Remix)
+    artist: Miguel
+  - rank: 11
+    uri: spotify:track:5uCax9HTNlzGybIStD3vDh
+    song: Say You Won't Let Go
+    artist: James Arthur
+  - rank: 12
+    uri: spotify:track:5VWmMZCfJ4yVkJw9ZLFXej
+    song: 1, 2, 3, 4
+    artist: Plain White T's
+  - rank: 13
+    uri: spotify:track:5qqabIl2vWzo9ApSC317sa
+    song: Wonderwall - Remastered
+    artist: Oasis
+  - rank: 14
+    uri: spotify:track:7vFoFDWqTX0mHzLfrF1Cfy
+    song: Cheerleader - Felix Jaehn Remix Radio Edit
+    artist: OMI
+  - rank: 15
+    uri: spotify:track:02DoXNeIVYvONhTk1fGQrz
+    song: Nothing Really Matters - Afrojack Remix
+    artist: Mr. Probz
+  - rank: 16
+    uri: spotify:track:1ONoPkp5XIuw3tZ1GzrNKZ
+    song: Miserable At Best
+    artist: Mayday Parade
+  - rank: 17
+    uri: spotify:track:4wTChU0tU44TAMC0xcQizi
+    song: Fine By Me
+    artist: Andy Grammer
+  - rank: 18
+    uri: spotify:track:2afCBiru10AFckfOa49wIa
+    song: You & I
+    artist: One Direction
+  - rank: 19
+    uri: spotify:track:68EMU2RD1ECNeOeJ5qAXCV
+    song: We Don't Talk Anymore (feat. Selena Gomez)
+    artist: Charlie Puth
+  - rank: 20
+    uri: spotify:track:48s0QHJgmiNsth3WEO6U4M
+    song: Stop And Stare
+    artist: OneRepublic
+  - rank: 21
+    uri: spotify:track:6MDTpYxPFL0wtFd0pjfKws
+    song: Rhythm Of Love
+    artist: Plain White T's
+  - rank: 22
+    uri: spotify:track:71O1jD7bF3cdMPvPi186V6
+    song: I Will Wait
+    artist: Mumford & Sons
+  - rank: 23
+    uri: spotify:track:5hydb8abMsDWNefmuqDYeK
+    song: Love in This Club
+    artist: Usher
+  - rank: 24
+    uri: spotify:track:3cNjgVBKTJ1SvKhunrCdVy
+    song: Please Don't Go
+    artist: Joel Adams
+  - rank: 25
+    uri: spotify:track:5fX2oPyLCe5mBKqGDbOWqC
+    song: When You Love Someone
+    artist: James TW
+  - rank: 26
+    uri: spotify:track:4EndPA8b6FDWYp1RgsnLEB
+    song: Blame Game
+    artist: Kanye West
+  - rank: 27
+    uri: spotify:track:1fidCEsYlaVE3pHwKCvpFZ
+    song: Am I Wrong
+    artist: Nico & Vinz
+  - rank: 28
+    uri: spotify:track:5dwUbAB8YvBey0lP92gdMd
+    song: Grow Up
+    artist: Olly Murs
+  - rank: 29
+    uri: spotify:track:0NBiC3zLXoBQXBjsbnbwJq
+    song: Molly (feat. Brendon Urie of Panic at the Disco)
+    artist: Lil Dicky
+  - rank: 30
+    uri: spotify:track:0HMjXBAZmSYOTTi33WpMso
+    song: History
+    artist: One Direction
+  - rank: 31
+    uri: spotify:track:4Hf7WnR761jpxPr5D46Bcd
+    song: Treat You Better
+    artist: Shawn Mendes
+  - rank: 32
+    uri: spotify:track:1G8WfWqRhhFQ1AYuGG7zrV
+    song: Thinking out Loud
+    artist: Boyce Avenue
+  - rank: 33
+    uri: spotify:track:3eqfEoBJPQDlUZQzOP0cly
+    song: Complete
+    artist: G-Eazy
+  - rank: 34
+    uri: spotify:track:0wqOReZDnrefefEsrIGeR4
+    song: Hanging By A Moment
+    artist: Lifehouse
+  - rank: 35
+    uri: spotify:track:3UwT4FadEGWyMdaSwYcUBY
+    song: This Town
+    artist: Niall Horan
+  - rank: 36
+    uri: spotify:track:5V7mTIcXVU9k2JNu0mE6vy
+    song: Fall for You (Acoustic)
+    artist: Secondhand Serenade
+  - rank: 37
+    uri: spotify:track:6cAKeFFYW2aClZSUyvqAEW
+    song: It's Gotta Be You
+    artist: Isaiah
+  - rank: 38
+    uri: spotify:track:7I6DceMT3utDOHjcYCbrr4
+    song: Don't Matter
+    artist: Akon
+  - rank: 39
+    uri: spotify:track:6nxQdXa1uAL0rY72wPZu89
+    song: Love Me Now
+    artist: John Legend
+  - rank: 40
+    uri: spotify:track:4RCWB3V8V0dignt99LZ8vH
+    song: Hey There Delilah
+    artist: Plain White T's
+  - rank: 41
+    uri: spotify:track:3S0OXQeoh0w6AY8WQVckRW
+    song: I'm Yours
+    artist: Jason Mraz
+  - rank: 42
+    uri: spotify:track:3RLsv5q88UpClyiYLbC3Yr
+    song: Gone
+    artist: Heartbreaka
+- pid: '677006'
+  playlist_title: Summer
+  tracks:
+  - rank: 1
+    uri: spotify:track:5CtI0qwDJkDQGwXD1H1cLb
+    song: Despacito - Remix
+    artist: Luis Fonsi
+  - rank: 2
+    uri: spotify:track:4iLqG9SeJSnt0cSPICSjxv
+    song: Attention
+    artist: Charlie Puth
+  - rank: 3
+    uri: spotify:track:1OAh8uOEOvTDqkKFsKksCi
+    song: Wild Thoughts
+    artist: DJ Khaled
+  - rank: 4
+    uri: spotify:track:0mBKv9DkYfQHjdMcw2jdyI
+    song: Chunky
+    artist: Bruno Mars
+  - rank: 5
+    uri: spotify:track:39hnH8WdPmNT3Q3yzwC9Rg
+    song: Why You Always Hatin?
+    artist: YG
+  - rank: 6
+    uri: spotify:track:4UVIFaLeqgi4aAUWeStoMu
+    song: Pizza Guy
+    artist: Touch Sensitive
+  - rank: 7
+    uri: spotify:track:4knL4iPxPOZjQzTUlELGSY
+    song: Rake It Up
+    artist: Yo Gotti
+  - rank: 8
+    uri: spotify:track:6mapJIPnQ23RTAevUoE0DL
+    song: Swang
+    artist: Rae Sremmurd
+  - rank: 9
+    uri: spotify:track:6p8NuHm8uCGnn2Dtbtf7zE
+    song: Slippery (feat. Gucci Mane)
+    artist: Migos
+  - rank: 10
+    uri: spotify:track:6EpRaXYhGOB3fj4V2uDkMJ
+    song: Strip That Down
+    artist: Liam Payne
+  - rank: 11
+    uri: spotify:track:5bcTCxgc7xVfSaMV3RuVke
+    song: Feels
+    artist: Calvin Harris
+  - rank: 12
+    uri: spotify:track:6YJrkQe37wOlTwbLtv2cGo
+    song: Peace of Mind
+    artist: Jay Prince
+  - rank: 13
+    uri: spotify:track:0LX4f8NnYnGxuryfP1MtJf
+    song: South Side Suicide (feat. Pouya)
+    artist: $uicideBoy$
+  - rank: 14
+    uri: spotify:track:0l5yXV3cGo6gOPIGB7iFBq
+    song: Styrofoam
+    artist: $uicideBoy$
+  - rank: 15
+    uri: spotify:track:2bjwRfXMk4uRgOD9IBYl9h
+    song: Portland
+    artist: Drake
+  - rank: 16
+    uri: spotify:track:1SJtlNRJDeYHioymcvsqev
+    song: Crying in the Club
+    artist: Camila Cabello
+  - rank: 17
+    uri: spotify:track:1UZOjK1BwmwWU14Erba9CZ
+    song: Malibu
+    artist: Miley Cyrus
+  - rank: 18
+    uri: spotify:track:3Ytr1SUCUi6J3L9dRFx5iH
+    song: Know No Better (feat. Travis Scott, Camila Cabello & Quavo)
+    artist: Major Lazer
+  - rank: 19
+    uri: spotify:track:5tz69p7tJuGPeMGwNTxYuV
+    song: 1-800-273-8255
+    artist: Logic
+  - rank: 20
+    uri: spotify:track:3DXncPQOG4VBw3QHh3S817
+    song: I'm the One
+    artist: DJ Khaled
+  - rank: 21
+    uri: spotify:track:7fSPXg9avmHAkLopHA7YFe
+    song: Down
+    artist: Fifth Harmony
+  - rank: 22
+    uri: spotify:track:3sdDgcU2XvO8EwkUsIe7VW
+    song: Want Her
+    artist: DJ Mustard
+  - rank: 23
+    uri: spotify:track:0CokSRCu5hZgPxcZBaEzVE
+    song: Glorious (feat. Skylar Grey)
+    artist: Macklemore
+  - rank: 24
+    uri: spotify:track:0kN8xEmgMW9mh7UmDYHlJP
+    song: Versace On The Floor
+    artist: Bruno Mars
+  - rank: 25
+    uri: spotify:track:312WNtMs3F28cUukaPY9bo
+    song: American Teen
+    artist: Khalid
+  - rank: 26
+    uri: spotify:track:7GX5flRQZVHRAGd6B4TmDO
+    song: XO TOUR Llif3
+    artist: Lil Uzi Vert
+  - rank: 27
+    uri: spotify:track:3A7qX2QjDlPnazUsRk5y0M
+    song: 2U (feat. Justin Bieber)
+    artist: David Guetta
+  - rank: 28
+    uri: spotify:track:7KOlJ92bu51cltsD9KU5I7
+    song: T-Shirt
+    artist: Migos
+  - rank: 29
+    uri: spotify:track:7KXjTSCq5nL1LoYtL7XAwS
+    song: HUMBLE.
+    artist: Kendrick Lamar

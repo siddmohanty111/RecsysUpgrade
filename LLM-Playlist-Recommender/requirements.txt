@@ -1,0 +1,16 @@
+torch
+numpy
+tqdm
+scikit-learn
+setuptools
+transformers
+langchain
+langchain-community
+langchain-ollama
+pandas
+openai
+anthropic
+google-genai
+PyYAML
+evaluate
+datasets

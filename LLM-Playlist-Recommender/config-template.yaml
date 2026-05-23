@@ -1,0 +1,11 @@
+# API keys for non-Ollama providers
+openai_api_key: ""
+google_api_key: ""
+anthropic_api_key: ""
+
+# Optional model overrides
+models:
+  gpt4o: "gpt-4o"
+  gpt41: "gpt-4.1"
+  gemini: "gemini-1.5-pro"
+  claude-latest: "claude-3.5-sonnet-latest"

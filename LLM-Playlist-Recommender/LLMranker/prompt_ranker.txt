@@ -1,0 +1,17 @@
+You are given a playlist title and a list of songs (song title and artist only).
+
+Your task is to re-rank all songs based on their relevance to the playlist title.
+Rank the songs from best fitting (rank 1) to least fitting.
+
+Playlist title:
+{title}
+
+Songs:
+{songs}
+
+{format_instructions}
+
+Strictly follow the instructions. Never include `null` values.
+Take care of including the list of songs under the 'songs' property.
+Limit your list to 10.
+Output just the output JSON, without any other text. Do not add any note.
