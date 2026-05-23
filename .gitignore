@@ -183,7 +183,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# colab test notebook
-colab_pipeline.ipynb
-final_imp_base_report_plots.ipynb
+
 *.pkl
