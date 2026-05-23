@@ -5,6 +5,10 @@
 
 An extension of the [LLM-Playlist-Recommender](https://github.com/elea-vellard/LLM-Playlist-Recommender) paper, exploring alternative clustering strategies — Fuzzy K-Means and UMAP+HDBSCAN — for playlist recommendation via SBERT finetuning.
 
+## Presentation
+
+[![Presentation Video](https://img.youtube.com/vi/HYRdBqymb6s/maxresdefault.jpg)](https://www.youtube.com/watch?v=HYRdBqymb6s)
+
 ---
 
 ## Data
