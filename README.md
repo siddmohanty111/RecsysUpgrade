@@ -117,4 +117,4 @@ This project builds on:
 
 - **LLM-Playlist-Recommender** — [elea-vellard/LLM-Playlist-Recommender](https://github.com/elea-vellard/LLM-Playlist-Recommender)
 
-I added colab_pipeline.ipynb and final_imp_base_report_plots.ipynb to this repository, but the remaining code is entirely their work.
+I added colab_pipeline.ipynb and final_imp_base_report_plots.ipynb to the LLM-Playlist-Recommender folder, but the remaining code is entirely their work. PlaylistRecsysUpgrade exclusively contains my own work.
