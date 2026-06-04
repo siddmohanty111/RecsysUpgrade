@@ -1,4 +1,4 @@
-# PlaylistRecsysUpgrade
+# Upgrading Playlist Recommendation Systems
 
 > [!WARNING]
 > **Some notebooks may appear invalid on GitHub, even though they are fully functional.** This is because GitHub is missing a widget used in these notebooks. If opened in Google Colab, the code will be fully visible along with its output. If opened locally, the code will be visible, but parts of the output might show rendering issues. 
